@@ -1,8 +1,10 @@
-numpy>=1.26.0
+numpy>=1.26.0,<2
 pandas>=2.2.0
 pydantic>=2.7.0
+packaging<26
 python-dotenv>=1.0.1
 PyPDF2>=3.0.1
 tqdm>=4.66.0
 faiss-cpu>=1.8.0
 streamlit>=1.33.0
+pytest>=8.0.0

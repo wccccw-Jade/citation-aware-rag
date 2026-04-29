@@ -32,6 +32,9 @@ def main() -> None:
     print(f"Hit@3: {summary['hit_at_3']:.2f}")
     print(f"Hit@5: {summary['hit_at_5']:.2f}")
     print(f"MRR: {summary['mrr']:.2f}")
+    print(f"Gold Page Hit@5: {summary['gold_page_hit_at_5']:.2f}")
+    print(f"nDCG@5: {summary['ndcg_at_5']:.2f}")
+    print(f"Answer Grounded Rate: {summary['answer_grounded_rate']:.2f}")
     print(f"\nSaved results to {output_path}")
 
 

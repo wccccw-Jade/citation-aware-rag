@@ -57,8 +57,58 @@ python scripts/demo_query.py --query "What methodology does the paper use?"
 streamlit run app/app.py
 ```
 
+## Production-Oriented Configuration
+
+The baseline now exposes provider-style configuration so local development can keep using the deterministic embedding model while production deployments can switch to stronger backends.
+
+```bash
+EMBEDDING_PROVIDER=sentence-transformers
+EMBEDDING_MODEL_NAME=sentence-transformers/all-MiniLM-L6-v2
+VECTOR_STORE_PROVIDER=faiss
+MMR_LAMBDA=0.75
+```
+
+Install optional production embedding dependencies before using `EMBEDDING_PROVIDER=sentence-transformers`:
+
+```bash
+pip install -r requirements-prod.txt
+```
+
+After the model has been downloaded once, offline runs can avoid Hugging Face network checks:
+
+```bash
+HF_HUB_OFFLINE=1 python scripts/build_index.py
+```
+
+Enable LLM answer generation with OpenAI:
+
+```bash
+export OPENAI_API_KEY="your_api_key_here"
+export USE_LLM_GENERATION=true
+export LLM_PROVIDER=openai
+export LLM_MODEL_NAME=gpt-5
+python scripts/demo_query.py --query "What retrieval quality problems does Naive RAG suffer from?" --top-k 5
+```
+
+If `USE_LLM_GENERATION` is false or `OPENAI_API_KEY` is missing, the system falls back to the local extractive grounded-answer generator.
+
+## Quality Checks
+
+Run the unit tests:
+
+```bash
+python -m pytest
+```
+
+Run the retrieval and answer grounding evaluation:
+
+```bash
+python scripts/run_eval.py
+```
+
 ## Notes
 
-- The default embedding backend is local and deterministic, so the project works without external APIs.
+- The default embedding backend is `sentence-transformers` for stronger semantic retrieval.
+- Set `EMBEDDING_PROVIDER=local` and `EMBEDDING_DIM=256` if you need the deterministic offline fallback.
 - If `faiss-cpu` is unavailable, retrieval falls back to a NumPy similarity search.
 - Binary assets and sample PDFs are intentionally left as placeholders for your own project materials.

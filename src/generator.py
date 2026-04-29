@@ -3,6 +3,9 @@ from __future__ import annotations
 import re
 from collections import Counter
 
+from .config import Settings
+from .llm import LLMProvider, create_llm_provider
+from .prompt import build_citation_aware_prompts
 from .schemas import AnswerResult, RetrievedChunk
 
 TOKEN_PATTERN = re.compile(r"[a-z0-9]+(?:[-_][a-z0-9]+)?")
@@ -42,10 +45,11 @@ def _best_evidence_sentences(query: str, retrieved_chunks: list[RetrievedChunk])
     return selected
 
 
-def generate_answer(query: str, retrieved_chunks: list[RetrievedChunk]) -> AnswerResult:
-    if not retrieved_chunks:
-        return AnswerResult(query=query, answer="No grounded evidence was found.", citations=[], retrieved_chunks=[])
-
+def _build_citations(
+    retrieved_chunks: list[RetrievedChunk],
+    generation_mode: str,
+    llm_error: str | None = None,
+) -> list[dict]:
     citations: list[dict] = []
     for idx, item in enumerate(retrieved_chunks, start=1):
         chunk = item.chunk
@@ -57,15 +61,49 @@ def generate_answer(query: str, retrieved_chunks: list[RetrievedChunk]) -> Answe
                 "page_number": chunk.page_number,
                 "chunk_id": chunk.chunk_id,
                 "score": round(item.score, 4),
+                "generation_mode": generation_mode,
+                "llm_error": llm_error,
             }
         )
+    return citations
 
+
+def _generate_fallback_answer(query: str, retrieved_chunks: list[RetrievedChunk]) -> str:
     evidence_sentences = _best_evidence_sentences(query, retrieved_chunks)
     if evidence_sentences:
         answer_lines = [f"[{label}] {sentence}" for label, sentence in evidence_sentences]
-        answer = "Grounded answer:\n" + "\n".join(answer_lines)
+        return "Grounded answer:\n" + "\n".join(answer_lines)
+    return "Grounded answer:\nNo grounded answer could be composed from the retrieved evidence."
+
+
+def generate_answer(
+    query: str,
+    retrieved_chunks: list[RetrievedChunk],
+    settings: Settings | None = None,
+    llm_provider: LLMProvider | None = None,
+) -> AnswerResult:
+    if not retrieved_chunks:
+        return AnswerResult(query=query, answer="No grounded evidence was found.", citations=[], retrieved_chunks=[])
+
+    provider = llm_provider
+    if provider is None and settings is not None:
+        provider = create_llm_provider(settings)
+
+    generation_mode = "extractive"
+    llm_error = None
+    if provider is not None:
+        try:
+            system_prompt, user_prompt = build_citation_aware_prompts(query, retrieved_chunks)
+            answer = provider.generate(system_prompt, user_prompt)
+            generation_mode = provider.provider_name
+        except Exception as exc:
+            answer = _generate_fallback_answer(query, retrieved_chunks)
+            generation_mode = "extractive_fallback_after_llm_error"
+            llm_error = f"{type(exc).__name__}: {exc}"
     else:
-        answer = "Grounded answer:\nNo grounded answer could be composed from the retrieved evidence."
+        answer = _generate_fallback_answer(query, retrieved_chunks)
+
+    citations = _build_citations(retrieved_chunks, generation_mode, llm_error)
 
     return AnswerResult(
         query=query,

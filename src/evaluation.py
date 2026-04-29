@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import csv
 import json
+import math
 from pathlib import Path
 from typing import Any
 
@@ -50,18 +51,27 @@ def summarize_metrics(rows: list[dict[str, Any]]) -> dict[str, float]:
             "hit_at_3": 0.0,
             "hit_at_5": 0.0,
             "mrr": 0.0,
+            "gold_page_hit_at_5": 0.0,
+            "answer_grounded_rate": 0.0,
+            "ndcg_at_5": 0.0,
         }
 
     hit_at_1 = sum(1 for row in rows if row["gold_rank"] == 1) / total
     hit_at_3 = sum(1 for row in rows if row["gold_rank"] and row["gold_rank"] <= 3) / total
     hit_at_5 = sum(1 for row in rows if row["gold_in_top5"]) / total
     mrr = sum(1 / row["gold_rank"] for row in rows if row["gold_rank"]) / total
+    gold_page_hit_at_5 = sum(1 for row in rows if row["gold_page_in_top5"]) / total
+    answer_grounded_rate = sum(1 for row in rows if row["answer_grounded"]) / total
+    ndcg_at_5 = sum(1 / math.log2(row["gold_rank"] + 1) for row in rows if row["gold_rank"]) / total
     return {
         "total_questions": total,
         "hit_at_1": hit_at_1,
         "hit_at_3": hit_at_3,
         "hit_at_5": hit_at_5,
         "mrr": mrr,
+        "gold_page_hit_at_5": gold_page_hit_at_5,
+        "answer_grounded_rate": answer_grounded_rate,
+        "ndcg_at_5": ndcg_at_5,
     }
 
 

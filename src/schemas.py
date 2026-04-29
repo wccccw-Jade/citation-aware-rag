@@ -5,7 +5,15 @@ from typing import Any, Optional
 from pydantic import BaseModel, Field
 
 
-class DocumentRecord(BaseModel):
+class ProjectBaseModel(BaseModel):
+    def model_dump(self, **kwargs: Any) -> dict[str, Any]:
+        parent_model_dump = getattr(super(), "model_dump", None)
+        if parent_model_dump is not None:
+            return parent_model_dump(**kwargs)
+        return self.dict(**kwargs)
+
+
+class DocumentRecord(ProjectBaseModel):
     doc_id: str
     source_path: str
     title: str
@@ -14,7 +22,7 @@ class DocumentRecord(BaseModel):
     metadata: dict[str, Any] = Field(default_factory=dict)
 
 
-class ChunkRecord(BaseModel):
+class ChunkRecord(ProjectBaseModel):
     chunk_id: str
     doc_id: str
     source_path: str
@@ -26,12 +34,12 @@ class ChunkRecord(BaseModel):
     metadata: dict[str, Any] = Field(default_factory=dict)
 
 
-class RetrievedChunk(BaseModel):
+class RetrievedChunk(ProjectBaseModel):
     chunk: ChunkRecord
     score: float
 
 
-class AnswerResult(BaseModel):
+class AnswerResult(ProjectBaseModel):
     query: str
     answer: str
     citations: list[dict[str, Any]]
