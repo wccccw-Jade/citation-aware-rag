@@ -57,6 +57,95 @@ python scripts/demo_query.py --query "What methodology does the paper use?"
 streamlit run app/app.py
 ```
 
+## FastAPI Service
+
+Run the API service:
+
+```bash
+source .venv/bin/activate
+uvicorn src.api.main:app --host 127.0.0.1 --port 8000 --reload
+```
+
+Start Redis and the indexing worker in separate terminals:
+
+```bash
+redis-server
+```
+
+```bash
+source .venv/bin/activate
+python scripts/worker.py
+```
+
+Upload a document. The API saves the file, creates a queued indexing task, and returns immediately with `task_id`:
+
+```bash
+curl -F "file=@data/raw/1.pdf" http://127.0.0.1:8000/documents/upload
+```
+
+Poll the task until it becomes `indexed`:
+
+```bash
+curl http://127.0.0.1:8000/tasks/{task_id}
+```
+
+Query the indexed documents:
+
+```bash
+curl -X POST http://127.0.0.1:8000/query \
+  -H "Content-Type: application/json" \
+  -d '{"query": "What methodology does the paper use?", "top_k": 5}'
+```
+
+Interactive API docs are available at `http://127.0.0.1:8000/docs`.
+
+Health and runtime configuration endpoints:
+
+```bash
+curl http://127.0.0.1:8000/health
+curl http://127.0.0.1:8000/health/ready
+curl http://127.0.0.1:8000/config
+```
+
+Errors use a consistent response shape and include the request id:
+
+```json
+{
+  "error": {
+    "code": "invalid_upload",
+    "message": "Unsupported file type '.exe'. Allowed types: .md, .pdf, .txt.",
+    "request_id": "f6ebc0b9d8b74a39a2f899f4ecf8d541",
+    "details": null
+  }
+}
+```
+
+The service persists uploaded document status and index task status in a database. Local development defaults to `sqlite:///data/app.db`; PostgreSQL can be enabled with:
+
+```bash
+export DATABASE_URL="postgresql+psycopg2://rag_user:rag_password@localhost:5432/citation_rag"
+uvicorn src.api.main:app --reload
+```
+
+Status endpoints:
+
+```bash
+curl http://127.0.0.1:8000/documents
+curl http://127.0.0.1:8000/tasks
+curl http://127.0.0.1:8000/documents/{document_id}
+curl http://127.0.0.1:8000/tasks/{task_id}
+curl -X POST http://127.0.0.1:8000/tasks/{task_id}/retry
+```
+
+Queue settings:
+
+```bash
+export REDIS_URL="redis://localhost:6379/0"
+export TASK_QUEUE_NAME="rag-indexing"
+export RQ_WORKER_CLASS="simple"
+export LOG_LEVEL="INFO"
+```
+
 ## Production-Oriented Configuration
 
 The baseline now exposes provider-style configuration so local development can keep using the deterministic embedding model while production deployments can switch to stronger backends.
@@ -92,6 +181,14 @@ python scripts/demo_query.py --query "What retrieval quality problems does Naive
 
 If `USE_LLM_GENERATION` is false or `OPENAI_API_KEY` is missing, the system falls back to the local extractive grounded-answer generator.
 
+Answers include citation validation metadata:
+
+- `citation_valid`: whether the answer's citations pass validation.
+- `answer_has_citation`: whether at least one `[n]` citation appears.
+- `invalid_citation_count`: number of labels that do not exist in the retrieved top-k chunks.
+- `refusal`: whether the answer explicitly says there is not enough evidence.
+- `unsupported_claim_count`: number of answer claims without citation labels.
+
 ## Quality Checks
 
 Run the unit tests:
@@ -104,6 +201,12 @@ Run the retrieval and answer grounding evaluation:
 
 ```bash
 python scripts/run_eval.py
+```
+
+To evaluate retrieval and citation validation without spending LLM API calls:
+
+```bash
+USE_LLM_GENERATION=false python scripts/run_eval.py
 ```
 
 ## Notes

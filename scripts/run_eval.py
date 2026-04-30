@@ -24,6 +24,7 @@ def main() -> None:
             f"gold_rank={row['gold_rank']} "
             f"gold_in_top5={row['gold_in_top5']} "
             f"answer_grounded={row['answer_grounded']} "
+            f"citation_valid={row['citation_valid']} "
             f"keyword_hits={row['keyword_hits']}/{row['keyword_total']}"
         )
     print()
@@ -35,6 +36,11 @@ def main() -> None:
     print(f"Gold Page Hit@5: {summary['gold_page_hit_at_5']:.2f}")
     print(f"nDCG@5: {summary['ndcg_at_5']:.2f}")
     print(f"Answer Grounded Rate: {summary['answer_grounded_rate']:.2f}")
+    print(f"Citation Valid Rate: {summary['citation_valid_rate']:.2f}")
+    print(f"Answer Has Citation Rate: {summary['answer_has_citation_rate']:.2f}")
+    print(f"Refusal Rate: {summary['refusal_rate']:.2f}")
+    print(f"Invalid Citation Count: {summary['invalid_citation_count']:.0f}")
+    print(f"Grounded With Valid Citation Rate: {summary['grounded_with_valid_citation_rate']:.2f}")
     print(f"\nSaved results to {output_path}")
 
 

@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 from collections import Counter
 
+from .citation_validator import validate_citations
 from .config import Settings
 from .llm import LLMProvider, create_llm_provider
 from .prompt import build_citation_aware_prompts
@@ -83,7 +84,18 @@ def generate_answer(
     llm_provider: LLMProvider | None = None,
 ) -> AnswerResult:
     if not retrieved_chunks:
-        return AnswerResult(query=query, answer="No grounded evidence was found.", citations=[], retrieved_chunks=[])
+        answer = "I don't know based on the provided documents."
+        validation = validate_citations(answer, [])
+        return AnswerResult(
+            query=query,
+            answer=answer,
+            citations=[],
+            retrieved_chunks=[],
+            citation_validation=validation,
+            confidence="low",
+            limitations="No retrieved evidence was available.",
+            generation_mode="refusal",
+        )
 
     provider = llm_provider
     if provider is None and settings is not None:
@@ -104,10 +116,21 @@ def generate_answer(
         answer = _generate_fallback_answer(query, retrieved_chunks)
 
     citations = _build_citations(retrieved_chunks, generation_mode, llm_error)
+    validation = validate_citations(answer, retrieved_chunks)
+    confidence = "medium" if validation["valid"] else "low"
+    limitations = None
+    if validation["reasons"]:
+        limitations = "; ".join(validation["reasons"])
+    elif llm_error:
+        limitations = "LLM generation failed; used extractive fallback."
 
     return AnswerResult(
         query=query,
         answer=answer,
         citations=citations,
         retrieved_chunks=retrieved_chunks,
+        citation_validation=validation,
+        confidence=confidence,
+        limitations=limitations,
+        generation_mode=generation_mode,
     )

@@ -15,6 +15,22 @@ class MockLLMProvider:
         return "RAG retrieves evidence before generation [1]."
 
 
+class InvalidCitationLLMProvider:
+    provider_name = "mock"
+    model_name = "mock-model"
+
+    def generate(self, system_prompt: str, user_prompt: str) -> str:
+        return "RAG retrieves evidence before generation [9]."
+
+
+class BadQuoteLLMProvider:
+    provider_name = "mock"
+    model_name = "mock-model"
+
+    def generate(self, system_prompt: str, user_prompt: str) -> str:
+        return '"This quote is not present in the retrieved chunk" [1].'
+
+
 class FailingLLMProvider:
     provider_name = "mock"
     model_name = "mock-model"
@@ -54,6 +70,8 @@ def test_generate_answer_uses_mock_llm_provider() -> None:
 
     assert result.answer == "RAG retrieves evidence before generation [1]."
     assert result.citations[0]["generation_mode"] == "mock"
+    assert result.citation_validation["valid"] is True
+    assert result.generation_mode == "mock"
 
 
 def test_llm_answer_citations_still_come_from_retrieved_chunks() -> None:
@@ -74,3 +92,28 @@ def test_generate_answer_falls_back_when_llm_call_fails() -> None:
     assert result.answer.startswith("Grounded answer:")
     assert result.citations[0]["generation_mode"] == "extractive_fallback_after_llm_error"
     assert "RuntimeError" in result.citations[0]["llm_error"]
+
+
+def test_generate_answer_refuses_when_no_chunks_are_retrieved() -> None:
+    result = generate_answer("What does RAG retrieve?", [])
+
+    assert "I don't know" in result.answer
+    assert result.citation_validation["refusal"] is True
+    assert result.citation_validation["valid"] is True
+    assert result.generation_mode == "refusal"
+
+
+def test_generate_answer_marks_missing_citation_label_invalid() -> None:
+    result = generate_answer("What does RAG retrieve?", [_retrieved_chunk()], llm_provider=InvalidCitationLLMProvider())
+
+    assert result.citation_validation["valid"] is False
+    assert result.citation_validation["invalid_labels"] == [9]
+    assert result.confidence == "low"
+
+
+def test_generate_answer_marks_missing_quote_invalid() -> None:
+    result = generate_answer("What does RAG retrieve?", [_retrieved_chunk()], llm_provider=BadQuoteLLMProvider())
+
+    assert result.citation_validation["valid"] is False
+    assert result.citation_validation["quote_checks"][0]["found"] is False
+    assert "supporting_quote_not_found" in result.limitations

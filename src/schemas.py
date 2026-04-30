@@ -44,3 +44,7 @@ class AnswerResult(ProjectBaseModel):
     answer: str
     citations: list[dict[str, Any]]
     retrieved_chunks: list[RetrievedChunk]
+    citation_validation: dict[str, Any] = Field(default_factory=dict)
+    confidence: Optional[str] = None
+    limitations: Optional[str] = None
+    generation_mode: str = "extractive"

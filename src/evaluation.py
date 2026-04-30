@@ -54,6 +54,11 @@ def summarize_metrics(rows: list[dict[str, Any]]) -> dict[str, float]:
             "gold_page_hit_at_5": 0.0,
             "answer_grounded_rate": 0.0,
             "ndcg_at_5": 0.0,
+            "citation_valid_rate": 0.0,
+            "answer_has_citation_rate": 0.0,
+            "refusal_rate": 0.0,
+            "invalid_citation_count": 0.0,
+            "grounded_with_valid_citation_rate": 0.0,
         }
 
     hit_at_1 = sum(1 for row in rows if row["gold_rank"] == 1) / total
@@ -63,6 +68,13 @@ def summarize_metrics(rows: list[dict[str, Any]]) -> dict[str, float]:
     gold_page_hit_at_5 = sum(1 for row in rows if row["gold_page_in_top5"]) / total
     answer_grounded_rate = sum(1 for row in rows if row["answer_grounded"]) / total
     ndcg_at_5 = sum(1 / math.log2(row["gold_rank"] + 1) for row in rows if row["gold_rank"]) / total
+    citation_valid_rate = sum(1 for row in rows if row["citation_valid"]) / total
+    answer_has_citation_rate = sum(1 for row in rows if row["answer_has_citation"]) / total
+    refusal_rate = sum(1 for row in rows if row["refusal"]) / total
+    invalid_citation_count = sum(int(row["invalid_citation_count"]) for row in rows)
+    grounded_with_valid_citation_rate = (
+        sum(1 for row in rows if row["answer_grounded"] and row["citation_valid"]) / total
+    )
     return {
         "total_questions": total,
         "hit_at_1": hit_at_1,
@@ -72,6 +84,11 @@ def summarize_metrics(rows: list[dict[str, Any]]) -> dict[str, float]:
         "gold_page_hit_at_5": gold_page_hit_at_5,
         "answer_grounded_rate": answer_grounded_rate,
         "ndcg_at_5": ndcg_at_5,
+        "citation_valid_rate": citation_valid_rate,
+        "answer_has_citation_rate": answer_has_citation_rate,
+        "refusal_rate": refusal_rate,
+        "invalid_citation_count": invalid_citation_count,
+        "grounded_with_valid_citation_rate": grounded_with_valid_citation_rate,
     }
 
 
@@ -94,6 +111,7 @@ def run_evaluation(rag: CitationAwareRAG, eval_path: Path, output_path: Path) ->
                 gold_page_rank = index
 
         gold_keywords = row.get("gold_keywords", [])
+        validation = result.citation_validation
         results.append(
             {
                 "question": row["question"],
@@ -109,6 +127,14 @@ def run_evaluation(rag: CitationAwareRAG, eval_path: Path, output_path: Path) ->
                 "answer_grounded": _answer_grounded(result.answer, row.get("gold_answer"), gold_keywords),
                 "keyword_hits": _keyword_hits(result.answer, gold_keywords),
                 "keyword_total": len(gold_keywords),
+                "generation_mode": result.generation_mode,
+                "confidence": result.confidence or "",
+                "citation_valid": bool(validation.get("valid", False)),
+                "answer_has_citation": bool(validation.get("has_citation", False)),
+                "refusal": bool(validation.get("refusal", False)),
+                "invalid_citation_count": int(validation.get("invalid_citation_count", 0)),
+                "unsupported_claim_count": int(validation.get("unsupported_claim_count", 0)),
+                "citation_validation_reasons": " | ".join(validation.get("reasons", [])),
             }
         )
 
@@ -127,6 +153,14 @@ def run_evaluation(rag: CitationAwareRAG, eval_path: Path, output_path: Path) ->
         "answer_grounded",
         "keyword_hits",
         "keyword_total",
+        "generation_mode",
+        "confidence",
+        "citation_valid",
+        "answer_has_citation",
+        "refusal",
+        "invalid_citation_count",
+        "unsupported_claim_count",
+        "citation_validation_reasons",
     ]
     with output_path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)

@@ -39,6 +39,11 @@ class Settings(BaseModel):
     llm_model_name: str = Field(default=os.getenv("LLM_MODEL_NAME", "gpt-5"))
     openai_api_key: str = Field(default=os.getenv("OPENAI_API_KEY", ""))
     app_title: str = Field(default=os.getenv("APP_TITLE", "Citation-Aware Academic QA"))
+    database_url: str = Field(default=os.getenv("DATABASE_URL", "sqlite:///data/app.db"))
+    redis_url: str = Field(default=os.getenv("REDIS_URL", "redis://localhost:6379/0"))
+    task_queue_name: str = Field(default=os.getenv("TASK_QUEUE_NAME", "rag-indexing"))
+    rq_worker_class: str = Field(default=os.getenv("RQ_WORKER_CLASS", "simple"))
+    log_level: str = Field(default=os.getenv("LOG_LEVEL", "INFO"))
 
 
 def get_settings() -> Settings:
