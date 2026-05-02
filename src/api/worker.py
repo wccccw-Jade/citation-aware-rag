@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import logging
 from contextlib import contextmanager
+from pathlib import Path
 from typing import Iterator
 
 from sqlalchemy.orm import Session
@@ -42,7 +43,7 @@ def process_index_task(task_id: str) -> dict[str, int]:
         repository.mark_index_processing(db, document, task)
 
     try:
-        stats = _build_index(settings)
+        stats = _index_document(settings, Path(document.source_path))
     except Exception as exc:
         error_message = f"{type(exc).__name__}: {exc}"
         with _session_scope() as db:
@@ -70,3 +71,8 @@ def process_index_task(task_id: str) -> dict[str, int]:
 def _build_index(settings: Settings) -> dict[str, int]:
     rag = CitationAwareRAG(settings)
     return rag.build_index()
+
+
+def _index_document(settings: Settings, document_path: Path) -> dict[str, int]:
+    rag = CitationAwareRAG(settings)
+    return rag.reindex_document(document_path)

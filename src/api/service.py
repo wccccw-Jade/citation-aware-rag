@@ -99,6 +99,51 @@ class RAGService:
         )
         return task.id, document.id, task.retry_count
 
+    def reindex_document(self, db: Session, document_id: str) -> tuple[str, str]:
+        document = repository.get_document(db, document_id)
+        if document is None:
+            raise KeyError("Document not found.")
+        if document.status == "processing":
+            raise ValueError("Cannot reindex a document while it is processing.")
+        if not Path(document.source_path).exists():
+            raise FileNotFoundError(f"Document source file not found: {document.source_path}")
+
+        task = repository.create_index_task(db, document.id)
+        repository.mark_document_reindex_queued(db, document, task)
+        db.commit()
+        try:
+            job_id = enqueue_index_task(task.id, settings=self.settings)
+        except Exception as exc:
+            db.rollback()
+            error_message = f"{type(exc).__name__}: {exc}"
+            repository.mark_index_failure(db, document, task, error_message)
+            db.commit()
+            raise TaskEnqueueError(error_message) from exc
+
+        logger.info(
+            "document_reindex_queued document_id=%s task_id=%s job_id=%s",
+            document.id,
+            task.id,
+            job_id,
+        )
+        return document.id, task.id
+
+    def delete_document(self, db: Session, document_id: str) -> dict[str, int]:
+        document = repository.get_document(db, document_id)
+        if document is None:
+            raise KeyError("Document not found.")
+        if document.status == "processing":
+            raise ValueError("Cannot delete a document while it is processing.")
+
+        source_path = document.source_path
+        with self._lock:
+            stats = self._get_rag().delete_document_index(source_path)
+        Path(source_path).unlink(missing_ok=True)
+        repository.delete_document(db, document)
+        db.commit()
+        logger.info("document_deleted document_id=%s path=%s stats=%s", document_id, source_path, stats)
+        return stats
+
     def answer(
         self,
         query: str,

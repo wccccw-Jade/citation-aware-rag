@@ -10,6 +10,8 @@ import src.api.worker as api_worker
 from src.api.database import create_database_engine, get_db, init_db
 from src.api.service import RAGService
 from src.config import Settings
+from src.utils import read_jsonl
+from src.vector_store import VectorStore
 
 
 def test_upload_persists_document_and_task_status_after_service_restart(tmp_path: Path, monkeypatch) -> None:
@@ -108,6 +110,62 @@ def test_worker_processes_queued_task_and_persists_indexed_status(tmp_path: Path
     task = client.get(f"/tasks/{task_id}").json()
     assert task["status"] == "indexed"
     assert task["stats"] == {"documents": 1, "chunks": 1}
+
+    api_main.app.dependency_overrides.clear()
+
+
+def test_worker_incrementally_indexes_only_uploaded_document(tmp_path: Path, monkeypatch) -> None:
+    database_url = f"sqlite:///{tmp_path / 'app.db'}"
+    engine = create_database_engine(database_url)
+    init_db(engine)
+    testing_session = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False, future=True)
+
+    def override_db():
+        db = testing_session()
+        try:
+            yield db
+        finally:
+            db.close()
+
+    settings = Settings(
+        raw_data_dir=tmp_path / "raw",
+        processed_data_dir=tmp_path / "processed",
+        index_dir=tmp_path / "index",
+        database_url=database_url,
+        embedding_provider="local",
+        vector_store_provider="numpy",
+        use_faiss=False,
+    )
+    api_main.app.dependency_overrides[get_db] = override_db
+    monkeypatch.setattr(api_main, "rag_service", RAGService(settings))
+    monkeypatch.setattr(api_service, "enqueue_index_task", lambda task_id, settings=None: "job-1")
+    monkeypatch.setattr(api_worker, "SessionLocal", testing_session)
+    monkeypatch.setattr(api_worker, "get_settings", lambda: settings)
+    monkeypatch.setattr(api_worker, "init_db", lambda: None)
+
+    client = TestClient(api_main.app)
+    first = client.post(
+        "/documents/upload",
+        files={"file": ("first.txt", b"First uploaded document.", "text/plain")},
+    )
+    second = client.post(
+        "/documents/upload",
+        files={"file": ("second.txt", b"Second uploaded document.", "text/plain")},
+    )
+
+    first_stats = api_worker.process_index_task(first.json()["task_id"])
+    second_stats = api_worker.process_index_task(second.json()["task_id"])
+
+    chunks = read_jsonl(settings.processed_data_dir / "chunks.jsonl")
+    documents = read_jsonl(settings.processed_data_dir / "documents.jsonl")
+    store = VectorStore(settings.index_dir, use_faiss=False)
+    store.load()
+
+    assert first_stats == {"documents": 1, "chunks": 1}
+    assert second_stats == {"documents": 1, "chunks": 1}
+    assert [Path(row["source_path"]).name for row in documents] == ["first.txt", "second.txt"]
+    assert [Path(row["source_path"]).name for row in chunks] == ["first.txt", "second.txt"]
+    assert [Path(row["source_path"]).name for row in store.metadata] == ["first.txt", "second.txt"]
 
     api_main.app.dependency_overrides.clear()
 
@@ -258,5 +316,108 @@ def test_failed_task_can_be_retried(tmp_path: Path, monkeypatch) -> None:
     assert retry.json()["status"] == "queued"
     assert retry.json()["retry_count"] == 1
     assert client.get(f"/tasks/{task_id}").json()["status"] == "queued"
+
+    api_main.app.dependency_overrides.clear()
+
+
+def test_document_can_be_deleted_through_api(tmp_path: Path, monkeypatch) -> None:
+    database_url = f"sqlite:///{tmp_path / 'app.db'}"
+    engine = create_database_engine(database_url)
+    init_db(engine)
+    testing_session = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False, future=True)
+
+    def override_db():
+        db = testing_session()
+        try:
+            yield db
+        finally:
+            db.close()
+
+    settings = Settings(
+        raw_data_dir=tmp_path / "raw",
+        processed_data_dir=tmp_path / "processed",
+        index_dir=tmp_path / "index",
+        database_url=database_url,
+        embedding_provider="local",
+        vector_store_provider="numpy",
+        use_faiss=False,
+    )
+    api_main.app.dependency_overrides[get_db] = override_db
+    monkeypatch.setattr(api_main, "rag_service", RAGService(settings))
+    monkeypatch.setattr(api_service, "enqueue_index_task", lambda task_id, settings=None: "job-1")
+    monkeypatch.setattr(api_worker, "SessionLocal", testing_session)
+    monkeypatch.setattr(api_worker, "get_settings", lambda: settings)
+    monkeypatch.setattr(api_worker, "init_db", lambda: None)
+
+    client = TestClient(api_main.app)
+    upload = client.post(
+        "/documents/upload",
+        files={"file": ("delete-me.txt", b"Delete this indexed document.", "text/plain")},
+    )
+    document_id = upload.json()["document_id"]
+    api_worker.process_index_task(upload.json()["task_id"])
+
+    deleted = client.delete(f"/documents/{document_id}")
+
+    assert deleted.status_code == 200
+    assert deleted.json()["status"] == "deleted"
+    assert deleted.json()["stats"] == {"documents": 1, "chunks": 1, "vectors": 1}
+    assert client.get(f"/documents/{document_id}").status_code == 404
+    assert not (settings.raw_data_dir / "delete-me.txt").exists()
+    assert read_jsonl(settings.processed_data_dir / "documents.jsonl") == []
+    assert read_jsonl(settings.processed_data_dir / "chunks.jsonl") == []
+
+    api_main.app.dependency_overrides.clear()
+
+
+def test_document_can_be_reindexed_through_api(tmp_path: Path, monkeypatch) -> None:
+    database_url = f"sqlite:///{tmp_path / 'app.db'}"
+    engine = create_database_engine(database_url)
+    init_db(engine)
+    testing_session = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False, future=True)
+
+    def override_db():
+        db = testing_session()
+        try:
+            yield db
+        finally:
+            db.close()
+
+    settings = Settings(
+        raw_data_dir=tmp_path / "raw",
+        processed_data_dir=tmp_path / "processed",
+        index_dir=tmp_path / "index",
+        database_url=database_url,
+        embedding_provider="local",
+        vector_store_provider="numpy",
+        use_faiss=False,
+    )
+    api_main.app.dependency_overrides[get_db] = override_db
+    monkeypatch.setattr(api_main, "rag_service", RAGService(settings))
+    monkeypatch.setattr(api_service, "enqueue_index_task", lambda task_id, settings=None: "job-1")
+    monkeypatch.setattr(api_worker, "SessionLocal", testing_session)
+    monkeypatch.setattr(api_worker, "get_settings", lambda: settings)
+    monkeypatch.setattr(api_worker, "init_db", lambda: None)
+
+    client = TestClient(api_main.app)
+    upload = client.post(
+        "/documents/upload",
+        files={"file": ("reindex-me.txt", b"Original document text.", "text/plain")},
+    )
+    document_id = upload.json()["document_id"]
+    api_worker.process_index_task(upload.json()["task_id"])
+    (settings.raw_data_dir / "reindex-me.txt").write_text("Updated document text.", encoding="utf-8")
+
+    reindex = client.post(f"/documents/{document_id}/reindex")
+
+    assert reindex.status_code == 202
+    assert reindex.json()["document_id"] == document_id
+    assert reindex.json()["status"] == "queued"
+    api_worker.process_index_task(reindex.json()["task_id"])
+
+    chunks = read_jsonl(settings.processed_data_dir / "chunks.jsonl")
+    assert len(chunks) == 1
+    assert chunks[0]["text"] == "Updated document text."
+    assert client.get(f"/documents/{document_id}").json()["status"] == "indexed"
 
     api_main.app.dependency_overrides.clear()

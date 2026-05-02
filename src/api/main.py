@@ -16,6 +16,7 @@ from src.api.database import get_db, init_db
 from src.api.logging_config import configure_logging
 from src.api.models import (
     DependencyHealth,
+    DeleteDocumentResponse,
     DocumentListResponse,
     DocumentResponse,
     ErrorDetail,
@@ -25,6 +26,7 @@ from src.api.models import (
     IndexTaskResponse,
     QueryRequest,
     ReadinessResponse,
+    ReindexDocumentResponse,
     RetryTaskResponse,
     RuntimeConfigResponse,
     UploadResponse,
@@ -298,6 +300,86 @@ def get_document(document_id: str, db: Session = Depends(get_db)) -> DocumentRes
             detail={"code": "document_not_found", "message": "Document not found."},
         )
     return _document_response(row)
+
+
+@app.post(
+    "/documents/{document_id}/reindex",
+    response_model=ReindexDocumentResponse,
+    status_code=status.HTTP_202_ACCEPTED,
+    responses={
+        404: {"model": ErrorResponse},
+        409: {"model": ErrorResponse},
+        503: {"model": ErrorResponse},
+    },
+    tags=["documents"],
+    summary="Reindex a document",
+    description="Creates a new indexing task for an existing document. The worker replaces old chunks before indexing.",
+)
+def reindex_document(request: Request, document_id: str, db: Session = Depends(get_db)) -> ReindexDocumentResponse:
+    try:
+        reindexed_document_id, task_id = rag_service.reindex_document(db, document_id)
+    except KeyError as exc:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail={"code": "document_not_found", "message": str(exc).strip("'")},
+        ) from exc
+    except FileNotFoundError as exc:
+        raise HTTPException(
+            status_code=status.HTTP_409_CONFLICT,
+            detail={"code": "document_source_missing", "message": str(exc)},
+        ) from exc
+    except ValueError as exc:
+        raise HTTPException(
+            status_code=status.HTTP_409_CONFLICT,
+            detail={"code": "document_not_reindexable", "message": str(exc)},
+        ) from exc
+    except TaskEnqueueError as exc:
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail={"code": "queue_unavailable", "message": str(exc)},
+        ) from exc
+
+    logger.info(
+        "document_reindex_enqueued request_id=%s document_id=%s task_id=%s",
+        getattr(request.state, "request_id", None),
+        reindexed_document_id,
+        task_id,
+    )
+    return ReindexDocumentResponse(document_id=reindexed_document_id, task_id=task_id, status="queued")
+
+
+@app.delete(
+    "/documents/{document_id}",
+    response_model=DeleteDocumentResponse,
+    responses={
+        404: {"model": ErrorResponse},
+        409: {"model": ErrorResponse},
+    },
+    tags=["documents"],
+    summary="Delete a document",
+    description="Deletes document metadata, source file, processed chunks, and vector rows for the document.",
+)
+def delete_document(request: Request, document_id: str, db: Session = Depends(get_db)) -> DeleteDocumentResponse:
+    try:
+        stats = rag_service.delete_document(db, document_id)
+    except KeyError as exc:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail={"code": "document_not_found", "message": str(exc).strip("'")},
+        ) from exc
+    except ValueError as exc:
+        raise HTTPException(
+            status_code=status.HTTP_409_CONFLICT,
+            detail={"code": "document_not_deletable", "message": str(exc)},
+        ) from exc
+
+    logger.info(
+        "document_delete_completed request_id=%s document_id=%s stats=%s",
+        getattr(request.state, "request_id", None),
+        document_id,
+        stats,
+    )
+    return DeleteDocumentResponse(document_id=document_id, status="deleted", stats=stats)
 
 
 @app.get(

@@ -92,6 +92,17 @@ def mark_task_retry_queued(db: Session, document: DocumentORM, task: IndexTaskOR
     db.flush()
 
 
+def mark_document_reindex_queued(db: Session, document: DocumentORM, task: IndexTaskORM) -> None:
+    document.status = "uploaded"
+    document.error_message = None
+    document.indexed_at = None
+    task.status = "queued"
+    task.error_message = None
+    task.stats = None
+    task.completed_at = None
+    db.flush()
+
+
 def list_documents(db: Session, limit: int = 100) -> List[DocumentORM]:
     return db.query(DocumentORM).order_by(desc(DocumentORM.created_at)).limit(limit).all()
 
@@ -106,3 +117,9 @@ def list_index_tasks(db: Session, limit: int = 100) -> List[IndexTaskORM]:
 
 def get_index_task(db: Session, task_id: str) -> Optional[IndexTaskORM]:
     return db.query(IndexTaskORM).filter(IndexTaskORM.id == task_id).one_or_none()
+
+
+def delete_document(db: Session, document: DocumentORM) -> None:
+    db.query(IndexTaskORM).filter(IndexTaskORM.document_id == document.id).delete(synchronize_session=False)
+    db.delete(document)
+    db.flush()

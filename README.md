@@ -51,11 +51,14 @@ python scripts/build_index.py
 python scripts/demo_query.py --query "What methodology does the paper use?"
 ```
 
-6. Run the demo app:
+6. Run the Web UI:
 
 ```bash
+source .venv/bin/activate
 streamlit run app/app.py
 ```
+
+The Web UI talks to the FastAPI service at `http://127.0.0.1:8000` by default. Set `RAG_API_BASE_URL` if the API runs elsewhere.
 
 ## FastAPI Service
 
@@ -98,6 +101,15 @@ curl -X POST http://127.0.0.1:8000/query \
 ```
 
 Interactive API docs are available at `http://127.0.0.1:8000/docs`.
+
+Run the Web UI after starting the API, Redis, and worker:
+
+```bash
+source .venv/bin/activate
+RAG_API_BASE_URL=http://127.0.0.1:8000 streamlit run app/app.py
+```
+
+The browser UI supports document upload, document status, delete, reindex, question answering, and citation preview.
 
 Health and runtime configuration endpoints:
 

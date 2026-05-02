@@ -153,3 +153,15 @@ class RetryTaskResponse(BaseModel):
     document_id: str
     status: Literal["queued"]
     retry_count: int
+
+
+class ReindexDocumentResponse(BaseModel):
+    document_id: str
+    task_id: str
+    status: Literal["queued"]
+
+
+class DeleteDocumentResponse(BaseModel):
+    document_id: str
+    status: Literal["deleted"]
+    stats: Dict[str, int]
