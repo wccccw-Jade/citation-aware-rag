@@ -1,0 +1,9 @@
+# PubHealth Item 4691
+
+Dataset source id: 4701
+Document id: 10641
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Sonograms are a routine part of monitoring the developing fetus. Until recently, they were only done for medical purposes. However, women can now get songorams in many malls and shopping centers across the US, often in color and 3-D, to keep as mementoes. This story reports on a new study showing that prolonged exposure to ultrasound can damage the growth of nerve cells in mice. Because this study was done in mice (not humans) and the implications of these results are not known, few conclusions can be drawn from these results. This story attempts to explain the controversies, but is flawed in several ways. The story does not adequately describe the harms of ultrasound. The story states that “a small number of nerve cells …. failed to extend correctly.” This is not sufficient information on harms. It is also not clear what “prolonged” use of ultrasound means — are these some special ultrasounds that happen in these consumer-based settings, or is this the kind of exposure that might result from usual medical use? Furthermore, the story also does not adequately describe the design of the study or comment on the strength of the available evidence. By focusing on “disorders thought to be the result of misplacement of cells during their development,” the story engages in disease mongering. By implying that sonograms could lead to disorders such as retardation, epilepsy, autism, and mental illness, the story exaggerates the seriousness of the findings. The story does quote two sources, the lead researcher of the study and the president of an ultrasound association. The story could have quoted additional, independent researchers or clinicians who could have provided some additional perspective.

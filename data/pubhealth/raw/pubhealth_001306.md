@@ -1,0 +1,9 @@
+# PubHealth Item 1306
+
+Dataset source id: 1305
+Document id: 10792
+
+Fact-check label: true
+
+Evidence and explanation:
+The focus of this story is recently published data showing a slight increase in the absolute risk of suicide and suicidal symptoms in patients treated with certain anti-seizure medications compared with placebo. The story appropriately provides context for this new information–and educates the health consumer in the process by presenting this data in both relative and absolute terms. However, the story could have been improved by giving info on how often these medications are prescribed and/or how common the illnesses are. The story is well-balanced. A range of clinicians, caregivers and pharmaceutical spokespeople are interviewed. Regarding the latter, the story notes that findings from pharma-sponsored research were either more positive, or similar to that of the FDA’s review. The interviews in this story provide context for the increased risk of suicidality, and help patients weigh the risks and benefits of taking these medications. The focus of the story is a potential harm of anti-seizure medication, namely, an increased risk of suicidal thoughts or behaviors. The story does not note other, less serious harms of these drugs. These can include weight gain, mental confusion and an upset stomach. The story notes only newer pharmacological treatments. No other treatments are discussed. The story might have been enhanced by giving more info on alternative treatments along with their pros/cons. While cost is not the focus of the story, it is important information, especially for epileptic and bipolar patients who often take medications for life. The drugs under discussion are fairly expensive drugs (approximately. $150-200/month for newer drugs); however, there are older, less expensive medications that might work as well for some people.

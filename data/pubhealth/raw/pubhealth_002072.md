@@ -1,0 +1,9 @@
+# PubHealth Item 2072
+
+Dataset source id: 2074
+Document id: 11205
+
+Fact-check label: true
+
+Evidence and explanation:
+This story presented the results from a recent study which found a slower decline in mental sharpness in older people who ate 2.5 or more servings of vegetables per day than in people who ate 0 – 1.1 servings of vegetables per day. The story said the effect came with “more than two servings of vegetables per day” – which is too imprecise. In addition, the benefit to be obtained through increased vegetable consumption was characterized as people appearing five years younger at the end of the six-years or having 40 percent less mental decline. It would have been more helpful to frame for the reader the amount of mental decline typically seen in the age group studied, what the decline represents in terms of function, and the amount of potential for benefit to be gained through increased vegetable consumption. The five-year appearance change estimate comes directly from the discussion section of the research paper though the authors of that paper did not provide details on how they arrived at the estimate. It was useful that the story pointed out that the research found an association between vegetable intake but not for fruit intake. Although the standard wisdom is to eat a diet rich in fruits and vegetables, this story provides a distinction between these two for readers to consider. It would have been useful for the story to provide a little more clarity about the definition of ‘vegetable’ for the reader. This study was interesting in that, unlike the USDA, it did not include potatoes in its vegetable count. In addition, it should be pointed out that whereas the FDA's Dietary Guidelines for Americans recommends the equivalent of four to 13 servings a day of vegetables and fruit in a typical 2,000 calorie diet, the benefit in this study was seen at a much lower level – 2.5 servings/day of vegetable consumption.

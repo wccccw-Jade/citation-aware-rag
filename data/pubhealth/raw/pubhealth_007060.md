@@ -1,0 +1,9 @@
+# PubHealth Item 7060
+
+Dataset source id: 7084
+Document id: 11455
+
+Fact-check label: false
+
+Evidence and explanation:
+This short piece (163 words) reports on the publication of a study in JAMA about the potential harms of a drug, Trayslol (aprontin), that is used to control bleeding in patients who have just undergone bypass surgery. This study raises serious concerns about the safety of this drug, however it also may contradict other studies that have not shown the drug to be as harmful. The reality is that the contention that aprotinin may contribute to excess morbidity and mortality as compared to aminocaproic acid and transexamic acid is not new. The authors of this cited study published an analysis of the short term outcomes in this same population a year ago. The original findings prompted a meeting of the scientific advisory committee of the FDA on the safety of aprotinin. The story of aprotinin has many twists and turns, a fact that is ignored in the story. This story leaves out important information for the consumer, such as the magnitude of the harms and the strength of the available evidence. Furthermore, this story does not mention that this study was based on people participating in a registry of patients who had bypass surgery. Because they were not randomly allocated to treatment, there may be important differences in patients who got the different medications. This limits the conclusions that can be drawn from this study. The story does not attempt to quote any independent sources. Instead, the story quotes from the original article and the accompanying editorial. The story should have quoted other experts who could provide some additional perspective. Again, we want to point out the inherent weaknesses in such a short story. In 163 words, this story leaves the reader with an incomplete understanding of the cited study and fails to provide adequate context.

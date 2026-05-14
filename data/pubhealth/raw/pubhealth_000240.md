@@ -1,0 +1,9 @@
+# PubHealth Item 240
+
+Dataset source id: 239
+Document id: 9765
+
+Fact-check label: false
+
+Evidence and explanation:
+This CBS story is about the detection of maternal cancers during analysis of DNA blood tests designed to identify chromosomal abnormalities in the fetus. Understandably, the story focuses on the story of a mother who feels her unborn fetus may have “saved her life” because of the unexpected cancer finding. It packs a significant emotional punch for such a very short story and very likely collected a lot of eyeballs. But it missed an opportunity to offer viewers some context and background about the potential risks as well as benefits from wider use of DNA blood tests that reveal incidental findings that suggest disease. The competing WSJ story was longer and provided more of the details we were looking for. There is increasing demand by physicians and pregnant women to perform noninvasive prenatal blood tests as a safer means of establishing fetal risk for Down Syndrome and other serious genetic abnormalities. Although professional guidelines suggest that only women at high risk of carrying fetuses with serious genetic abnormalities get these tests, they are already widely used because other procedures, such as amniocentesis, can occasionally lead to miscarriage. The discovery that in a few rare cases, the abnormalities detected in the tests have nothing to do with the fetus, but with a mother’s undiagnosed cancer instead, will likely lead to even more demand for use of these tests. That poses not only the ethical problem of whether and when to divulge incidental genetic risks also uncovered in maternal DNA (say, of breast cancer), but also a potential explosion of costs related to use of the blood tests to screen every pregnant woman to find a very small number of cancers.

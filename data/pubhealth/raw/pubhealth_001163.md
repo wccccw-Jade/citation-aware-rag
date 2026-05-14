@@ -1,0 +1,9 @@
+# PubHealth Item 1163
+
+Dataset source id: 1162
+Document id: 9119
+
+Fact-check label: false
+
+Evidence and explanation:
+The news release reports on a British study comparing bone development in 12- to 14-year-old boys who played football (or soccer, as it’s known in the United States) to those involved in competitive cycling or swimming and to active boys who did not regularly play sports. The release touts the bone-building benefits of playing football but omits that the study on which it reports identified almost no significant difference in bone development measures between highly competitive soccer players and boys who were active but not involved in sports. It also left out any discussion of the risks or the financial costs associated with playing soccer competitively. Bone development during childhood and adolescence has lifelong implications for health. Poor bone development during youth increases adults’ risk for osteoporosis and fractures, which can lead to other negative health outcomes. The news release also is important because soccer is the most popular sport in the world. In 2014, more than 3 million youth (boys and girls, ages 5-19) were members of the U.S. Youth Soccer organization, which claims to include 85 percent of all registered youth soccer players in the United States. However, the rate of youth soccer injuries also has increased, more than doubling between 1990 and 2014. It’s important to note that the release (or the study on which it’s based) does not offer any guidance to the families of the vast majority of children who are more casual athletes, nor does it mention what role weight-bearing sports might play on girls’ bone development. At this point, the conclusions could be useful to researchers continuing to study exercise and bone health, but readers should approach these conclusions with caution.

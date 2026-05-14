@@ -1,0 +1,9 @@
+# PubHealth Item 4736
+
+Dataset source id: 4746
+Document id: 9783
+
+Fact-check label: true
+
+Evidence and explanation:
+The piece felt top-heavy with words of “progress…more effective…complete remission (in one patient)…hopes,” etc. Half-way through came this line: “Several independent researchers said the study results were promising. But they also noted that the trial involved only 11 patients and said the therapy was less effective than in other published trials.” But the only detailed caveat came at the very end – from Dr. Steven Rosenberg of the National Cancer Institute. What is so ironic is that while we were reading the piece, but before we got to Rosenberg’s quote, we actually reflected on the exuberant early news coverage of Rosenberg’s interleukin-2 research back in the 1980s – and how similar this felt. Now, about this new work, Rosenberg is quoted as saying “Cloned cells don’t work. These results are inferior.” It would have been easy to pull out news coverage of the IL-2 work (such as the Newsweek cover story in 1985) and help readers think about similarities. So, while we applaud the overall work of this story, we wished for a bit more historical perspective. Journalists and the public should remember Santayana’s quote: “Those who cannot remember the past are condemned to repeat it.” We were urged to review this by breast cancer advocate Jody Schoger, who wrote on Facebook, “This seems like announcing a new chemo regimen that extends survival by one or two months…. I do appreciate that hope and optimism – I always prefer that it’s anchored with the reality of time; and how long it takes to go from these new realizations to making significant progress against melanoma.” Schoger’s note elicited this response from Sally Church, PhD (a biochemist interested in cancer biology): “Ugh yet more hype about immunotherapy with a small number of patients… don’t get me started!”

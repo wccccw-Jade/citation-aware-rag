@@ -1,0 +1,9 @@
+# PubHealth Item 3473
+
+Dataset source id: 3483
+Document id: 11157
+
+Fact-check label: false
+
+Evidence and explanation:
+Anti-Mullerian Hormone, or AMH, is a hormone produced by cells in the ovary during reproductive years and can be detected with a blood test. Declining AMH levels has been shown to correlate with poor response to in-vitro fertilization, a marker of poor ovarian reserve. This has led to the idea that the test could be used to predict the start of the menopausal transition. However, because the marker has not been studied systematically, it is unclear what different AMH levels mean. For example, what is a normal AMH level? As a result, AMH levels should be interpreted with some caution. This story reports on results from a new study whose results are to be presented at the European Society of Human Reproduction and Embryology. The study investigators developed an algorithm using AMH levels to predict onset of menopause. However, the full results of the study have not been made available and have not been evaluated by experts. This story does little to explain to the reader the limitations of the AMH test. It presents the assertion that the test is reliable as fact and does not discuss any potential downsides. False positive results, for example, could cause unnecessary worry and anxiety and lead to needless fertility treatments. The story also does not say whether the AMH test is new or not. In fact, it is not new and is one of group of tests that are intended to evaluate ovarian reserve. However, the study does not mention any of those other tests that are available. This area of research is important because the duration of fertility is of great interest to many women. A method that could accurately predict menopause could be a proxy for predicting the end of the fertility period. But, as noted, it’s too early to say that about this reported method.

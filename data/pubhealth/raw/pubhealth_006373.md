@@ -1,0 +1,9 @@
+# PubHealth Item 6373
+
+Dataset source id: 6395
+Document id: 10247
+
+Fact-check label: false
+
+Evidence and explanation:
+If you are a candidate for one of these devices, you would be hard pressed to take information from this story and ask your cardiologist any good questions about how you should proceed. Clinical trials examining the utility of medical devices or drugs are, by definition, artificial. The patient population selected tends not to have confounding medical or social issues and are followed in a rigid and standardized way. As a result, the real world application of a drug or medical device can often result in outcomes that are a far cry from those seen in the clinical trial. This study is important because it is one of the few circumstances where the results seen in actual usage of medical devices matches those seen in a clinical trial. Patients with heart failure have a high incidence of sudden death. Numerous clinical trials have demonstrated the value of implantable cardioverter-defibrillators (ICDs) and cardiac resynchronization therapy-defibrillators (CRT-D) in heart failure patients who have not suffered an episode of near sudden death. These devices are designed to recognize irregular heart rhythms and provide a “shock” to restore them back to normal. A manufacturer of the devices obtained approval from the FDA to establish a registry for people who had one of their devices implanted. This industry sponsored registry allowed researchers to answer four basic questions: (1) whether remote monitoring of events impacts survival; (2)how well patients do if they receive a shock for an irregular heart rhythm; (3) if there are differences in survival among patients receving the different kinds of devices and (4) how survival of “real-world” patients compares with that of patients enrolled in trials. That’s what makes it so important for reporters to carefully break down the evidence for readers.

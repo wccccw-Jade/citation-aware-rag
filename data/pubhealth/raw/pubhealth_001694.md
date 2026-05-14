@@ -1,0 +1,9 @@
+# PubHealth Item 1694
+
+Dataset source id: 1696
+Document id: 9556
+
+Fact-check label: true
+
+Evidence and explanation:
+The story focuses on on the use of an experimental immunotherapy technique called CAR T-cell therapy to treat children who have been diagnosed with acute lymphoblastic leukemia (ALL) and who are no longer responding to conventional cancer treatments. The story does a good job of stressing that, while CAR T-cell therapy may be promising, it is far too early to determine how effective the treatment will be at keeping cancer from recurring. Important harms are made clear. Readers get the full sense of how experimental this treatment is, and how it’s a last-resort option. We do wish the story had provided more specifics on the clinical trial findings, though. The NIH estimates that there will be approximately 6,590 new cases of ALL diagnosed in the U.S. this year. The majority of those diagnosed with ALL (57%) are under the age of 20, with a median age of 15. Sixty-eight percent of those diagnosed survive at least five years. The impact of a cancer diagnosis in a child is difficult, or impossible, to quantify. In addition to the hardships the child has to endure, the diagnosis and treatment exacts an emotional toll on the family and loved ones as well. New information on treatments that can extend the lives, and quality of life, for these patients is clearly important — and affects entire families. It can be difficult to drill down into the numbers for drugs that are still undergoing clinical trials, but it is important for stories on subjects like this one to provide as much information as possible for patients, their families, and their healthcare providers. This story does many things well, but it may have done readers a greater service by focusing less on the experience of individual patients and more on the available research.

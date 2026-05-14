@@ -1,0 +1,9 @@
+# PubHealth Item 7048
+
+Dataset source id: 7072
+Document id: 9073
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This release explains the results of a very small retrospective study that looked at the long-term results of reverse shoulder replacement (RSA) surgery in adults under 60 years old. Previous studies had suggested that such surgeries weren’t recommended for younger adults, but this release claims the new study shows that they are. It provides numerical data showing improvement among study participants, although much of that is subjective and points out the negative outcomes from the study. It makes no mention of the cost of such procedures, which can range from $7,000 to more than $20,000. It also omits who funded the study and doesn’t state that the corresponding author has received payment from replacement joint manufacturers. Shoulder injuries among adults, especially the elderly, can severely affect their quality of life and ability to participate in some activities. In general, those adults who remain active tend to be in better health so any procedures that may support that active lifestyle should be encouraged, assuming these results are borne out in subsequent larger studies. Rotator cuff pathology will eventually affect almost everyone, but a very small percentage of people will develop unrepairable massive tears and have severe pain. The problem is especially unusual in the younger population, because the tears are related to degenerative tissue failing which usually occurs in an older population. In addition, progression to massive unrepairable tears occurs over time. RSA is a viable option in the over 60 group only when other soft tissue repairs to help stabilize the shoulder and resolve pain are not possible due to the nature of the residual rotator cuff tissue.

@@ -1,0 +1,9 @@
+# PubHealth Item 5978
+
+Dataset source id: 5994
+Document id: 9224
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release touts an analysis of Medicare data for 1,500 patients who suffered a major bleeding event while taking anticoagulants for atrial fibrillation. Researchers found that patients who resumed anticoagulants after a hemorrhage had better stroke and mortality rates than those who did not, and those who resumed treatment with a newer drug, dabigatran, had fewer recurrent hemorrhages than those who restarted treatment with the old standby warfarin. The news release lays out relative differences in outcomes but doesn’t include absolute risks and benefits that would convey the true significance of these findings. Nor does it mention the wide cost difference between the two drugs or the fact that prescribing patterns at the time the data were collected may have skewed the findings. Bottom line: this is an observational study, not a controlled clinical trial. It is not appropriate to be making recommendations about one drug or another based on such a study. This study sheds light on the dilemma of whether patients at risk for blood clots should resume taking anticoagulants after a major hemorrhage. Less than half of patients who survived a bleeding incident resumed taking anticoagulant drugs, apparently because their doctors perceived a high risk of recurrent bleeding. But the authors say their finding that the risk of stroke outweighs the risk of recurrent bleeding should encourage clinicians to resume anti-clotting drugs. And while the analysis shows better outcomes with a new drug compared with an old one, the authors acknowledge that finding needs to be validated in other patient groups and with more recent data. In an observational study such as this, one must be very cautious with the conclusions.

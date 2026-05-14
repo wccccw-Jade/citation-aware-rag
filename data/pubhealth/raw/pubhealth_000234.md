@@ -1,0 +1,9 @@
+# PubHealth Item 234
+
+Dataset source id: 233
+Document id: 8973
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release summarizes an association study comparing 140,000 women with a diagnosis of ductal carcinoma in situ (DCIS) who received three different treatments. The study utilized the National Cancer Institute’s Surveillance, Epidemiology, and End Results (SEER) Program database to evaluate outcomes. DCIS is a noninvasive form of breast cancer, sometimes referred to as stage 0 breast cancer. There is debate as to whether it should be called cancer at all. The study reported outcomes in three groups of patients: 1) patients who underwent lumpectomy (surgery to remove the tumor) plus radiation versus lumpectomy alone; 2) patients who underwent lumpectomy without radiation versus mastectomy (surgery to remove the breast); and 3) patients who underwent lumpectomy plus radiation versus mastectomy. Women who received radiation had a slightly lower (0.27% reduction) risk of death from breast cancer at 15 years compared to women with lumpectomy alone. The release mentions some limitations of the research but missing is a broader discussion of the potential for over treatment of DCIS, whether DCIS needs to be treated at all, and whether women with low-risk forms of the disease can be safely monitored without treatment. We’ve written about this previously. Over treatment is a widely discussed issue in many areas of cancer, including DCIS, a noninvasive early form of breast cancer that some physicians believe should not be strictly labeled “cancer,” primarily when it’s low grade, or grade 1 DCIS. Exposing women to radiation in addition to lumpectomy has the potential for unnecessary harms. This brief release does not provide that context. The published study itself includes this comment: “It is doubtful whether a benefit of this size is large enough to warrant radiotherapy.”

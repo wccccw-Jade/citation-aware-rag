@@ -1,0 +1,9 @@
+# PubHealth Item 7109
+
+Dataset source id: 7133
+Document id: 11036
+
+Fact-check label: true
+
+Evidence and explanation:
+HPV infection is responsible for 99% of the incidence of cervical cancer. Theoretically, screening for HPV DNA could replace Pap smears as the preferred method for cervical cancer screening. However, because HPV infection is so common and only a small percentage of women with HPV will go on to develop cellular changes that could lead to cervical cancer, it is still uncertain whether the increase in indentified cases is worth the additional cost of the test. This story reports on the publication of two large international studies in this week’s New England Journal of Medicine. The story adequately represents the availability, novelty, alternative options and cost of the HPV test. By not exagerrating the seriousness or prevalence of cervical cancer, the story avoids disease mongering. The story rightly points out the declining mortality rate since the introduction of screening. The story also does a good job of describing the strength of the available evidence. Most notably, the story points out that neither study evaluated whether the testing resulted in increased life expectancy in those screened and that the applicability of the results to the U.S. is somewhat questionable. However, the story only quotes one independent expert. Although that person provides very valuable information, the story should have quoted at least one other expert who could have commented on the importance of these new findings on clinical practice. Finally, the story does not adequately quantify the benefits of HPV testing. Although the story says that the test combined with Pap found 51% more cancers than Pap alone, this is not adequate quantification. The story should have provided quantitative information in absolute rather than relative terms.

@@ -1,0 +1,9 @@
+# PubHealth Item 7423
+
+Dataset source id: 7447
+Document id: 11402
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This was a so-so account of a study that compared acupuncture to using an eye patch for treatment of a certain type of “lazy eye” known as anisometropic amblyopia. It was better than the competing HealthDay coverage at describing the design of the study and quantifying the benefits that can be expected from acupuncture. It noted that children treated with acupuncture had an improvement of a little more than 2 lines on a vision chart — a practical characterization of the effects that was not provided in the rival report. But the coverage shared gaps with HealthDay when it came to discussion of the costs and availability of acupuncture. This story also failed to point out that the researchers might stand to benefit financially from a patent on vision-related acupuncture sites — a conflict that was disclosed in the original research paper and should have been included in this news story. Amblyopia — a condition which causes reduced vision in one eye because the eye and brain are not communicating properly — is a leading cause of vision impairment in children. Treatment is most successful when the condition is identified and addressed at an early age, but older children can also benefit from patching therapy which forces the weaker eye to work harder and communicate more effectively with the brain. Older children may resist wearing an eye patch, however, and it is possible that using a patch will lead to new problems in the better-functioning eye. This study suggests that acupuncture may be a safe and effective alternative to patching for older children with amblyopia. Now additional research will be needed to confirm whether the benefits of acupuncture are real and sustainable over the long term.

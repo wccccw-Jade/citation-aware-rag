@@ -1,0 +1,9 @@
+# PubHealth Item 9109
+
+Dataset source id: 9136
+Document id: 10327
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release summarizes an Australian study of the effect of laparoscopic adjustable gastric banding surgery (placing an adjustable silicone band around the top part of the stomach) on 21 severely obese adolescents. The release states that two-thirds of the teens lost significant amounts of weight for up to five years and further describes the procedure as “a first option” to manage obesity during adolescence. Researchers quoted in the text repeatedly and appropriately cautioned that the procedure “is not for everyone” and requires careful management, but the release remained determinedly cheery about the outcome. Importantly, it also failed to acknowledge the small sample size in this study and the lack of a control group, as well as the health complications that stymied a few of the participants. Also ignored was that one-third of the 21 participants either failed to lose weight or began to regain it over the course of the study. Lap band surgery for severely obese teens is clearly no panacea. Obesity is a major health problem the world over, with nearly 14% of American teens identified as obese (2015 Youth Risk Behavior Surveillance System). Obesity brings with it significant physical and psychological problems, with teenagers extremely susceptible to the latter and looking for solutions that do not require behavior change. Any text advising a surgical solution for a non-surgical problem in adolescents must be grounded in sufficient data and, with even that caveat fulfilled, must be cautiously worded to make it clear that most overweight teens would be inappropriate candidates for the procedure. This release fails the first test and does not seem sufficiently worried about the second.

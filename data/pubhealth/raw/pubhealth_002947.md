@@ -1,0 +1,9 @@
+# PubHealth Item 2947
+
+Dataset source id: 2957
+Document id: 9602
+
+Fact-check label: true
+
+Evidence and explanation:
+This is story about a small, early test of a new type of drug to treat postpartum depression. The story is careful to note the preliminary nature of the findings and that the only source is company statements, since the study report has not been submitted for peer-review. However, it is hard to see the health news in a tiny phase 2 study, especially when no independent sources are included in the story to help provide balance to the claims. As readers, we’re also left wondering about potential harms specific to pregnant and new mothers, such as the drug’s ability to affect a baby in utero or pass through breastmilk. (Editor’s note: STAT has updated the story since this review was posted, and the “Read Original Story” link above will take you to the updated version, not the original version that we saw. Some of these changes address several of the Not Satisfactory ratings below. However, our ratings still stand: While updates are great, they aren’t likely to be seen by people who read the original story.) This story reports some positive early hints about an experimental drug tested in a few women with the symptoms of major depression. But with phrases like “paradigm shift,” readers could easily get the impression that the results are far more reliable, and relevant to many more women, than is justified based on the company announcement. And STAT was far from the only news outlet writing about the study in such a way. It got a lot of play in the financial press and in investor circles, helping boost the company’s stock price, with the price closing up 37%. But whether the source is STAT or a more financial-minded publication, all stories posted online have the potential to reach and influence readers who are searching for health news. That’s why all such stories with health claims should scrutinize medical evidence.

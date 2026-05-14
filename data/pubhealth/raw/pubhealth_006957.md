@@ -1,0 +1,9 @@
+# PubHealth Item 6957
+
+Dataset source id: 6981
+Document id: 9188
+
+Fact-check label: false
+
+Evidence and explanation:
+Screenshot: TherapeuticsMD The news release reports the results of a study examining women’s satisfaction with an applicator-free softgel used for vaginal estrogen therapy to treat post-menopausal vaginal dryness that can cause pain during sexual intercourse. The study involved 731 post-menopausal women who used a placebo softgel or one of three containing varying levels of an investigational low-dose estrogen therapy. The release provides good context on what post-menopausal vaginal dryness is and how often it shows up in women. But the release was weak on describing attributes that readers need to know when assessing this potential new therapy — such as cost, harms, benefits, evidence, and what makes it different from existing estrogen-based treatments. While the study itself pointed out the softgels’ ability to dissolve quickly as a benefit, the release omitted this but added “elegant” as an abstract, less informative, benefit. Readers would have been better served with a more concrete approach to addressing usefulness. Numerous studies have shown that as women age, they are more likely to report problems with sexual functioning, including a lack of desire, vaginal dryness and pain during intercourse. These problems are common, by some estimates affecting nearly two-thirds of American women. The result, especially for women for whom sex is painful, is reduced intercourse frequency, which can be distressing to some women and may cause relationship problems for some couples. On the other hand, some health officials argue that changes such as reduced desire and vaginal dryness are naturally occurring aspects of a woman’s life cycle and therefore should not be treated as medical “problems.”

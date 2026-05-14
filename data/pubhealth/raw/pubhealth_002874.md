@@ -1,0 +1,9 @@
+# PubHealth Item 2874
+
+Dataset source id: 2884
+Document id: 9196
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This release reports on a large clinical trial that studied the use of the drug Repatha in patients with atherosclerotic cardiovascular disease. Or, more accurately, it reports that the details of the results of that study will be revealed at a major scientific meeting more than a month from now. While the release does mention the potential harms of the drug, it fails to provide any real data on the benefits of the drug, nor does it mention that the drug is very expensive, with a list price of $14,100 annually. It contains no statements or information from researchers involved in the study. Our review of a related Reuters story suggests that Amgen’s efforts met with some success. Atherosclerotic cardiovascular disease is a serious, often fatal condition worldwide and new drugs that could treat it effectively would be a welcome improvement in clinical care. But this release is troubling in that it’s touting results to be presented at an upcoming scientific meeting, more than a month in the future, and it provides little, if any, substantive information for readers. It’s unusual to announce results and not include a source or a link to the results. When we contacted Amgen for copies of the study abstracts named in the release, the company declined, instead referring us to the American College of Cardiology (ACC), the sponsors of the upcoming meeting. The ACC informed us that the abstract for the FOURIER study is under embargo until the presentation time on March 17. It’s not unusual for sponsors of scientific meetings to have a strict media embargo on scientific study presentations. This early release strikes us as an effort to frame the discussion about the drug’s benefits in the trial without providing the required background needed for assessment.

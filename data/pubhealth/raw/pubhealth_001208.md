@@ -1,0 +1,9 @@
+# PubHealth Item 1208
+
+Dataset source id: 1207
+Document id: 9912
+
+Fact-check label: false
+
+Evidence and explanation:
+First, it suggests that the findings of a new study showing superior results for gastric bypass on certain outcomes are novel and perhaps surprising. They are not. Second, it leaves readers with the impression that the studies covered represent the final, definitive word on which procedure offers the best risk-benefit profile. They do not. More context on the other studies that have been performed in this area — some much larger and more representative of the experience of a broad cross-section of patients — would have helped correct these deficiencies. For comparison, see how the competing HealthDay coverage did a slightly better job with some of these issues. This story makes sweeping claims about gastric bypass being “better” than other procedures for the treatment of obesity. In medicine, however, the “better” treatment is almost always the one that the patient is more comfortable with after a careful consideration of risks and benefits. While it is true, as this story states, that gastric bypass produces more weight loss faster than the lap band and has a bigger impact on diabetes, these advantages come with an increased risk of serious complications, including death. In addition, gastric bypass isn’t reversible whereas the band can be removed if the patient changes his or her mind. Meanwhile, band placement may be safer initially but the device sometimes fails or causes other problems that require a second operation. Moreover, patients need to follow-up more frequently with their doctor for adjustments or they won’t continue to lose weight. Patients need to consider these and many other factors before deciding which procedure is the better choice for them.

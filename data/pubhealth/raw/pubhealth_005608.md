@@ -1,0 +1,9 @@
+# PubHealth Item 5608
+
+Dataset source id: 5624
+Document id: 10064
+
+Fact-check label: false
+
+Evidence and explanation:
+"""Blog posts tend to be breezy, but they should still be rooted in the facts. This post took too much liberty with the findings from a recent study on bone density screening and left readers with the impression that regular screenings don’t offer much benefit. There is a case to be made for this impression, but the story does not make it. Compounding the problem is a significant factual error at the top of the story. The U.S. Preventive Screening Task Force does not recommend screening every two years. It recommends """"routine screening"""" without specifying the interval for testing: a wise choice in the absence of much data. The task force simply cautions that testing more frequently than every two years is not supported by data: """"No studies have evaluated the optimal intervals for repeated screening. Because of limitations in the precision of testing, a minimum of 2 years may be needed to reliably measure a change in bone mineral density; however, longer intervals may be adequate for repeated screening to identify new cases of osteoporosis."""" The U.S. Preventive Services Task Force reports that """"half of all postmenopausal women will have an osteoporosis-related fracture during their lives, including one-quarter who will develop a vertebral deformity and 15 percent who will suffer a hip fracture. Hip fractures are associated with high mortality rates and loss of independence."""" This study is important because it addresses the issue of screening intervals for a test that is already widely used in older women and likely to be used more widely as our population ages. Until now the decision about how often to screen has been guided more by the availability of insurance coverage than by sound clinical evidence."""

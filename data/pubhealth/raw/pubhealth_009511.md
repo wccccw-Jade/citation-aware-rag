@@ -1,0 +1,9 @@
+# PubHealth Item 9511
+
+Dataset source id: 9538
+Document id: 16976
+
+Fact-check label: false
+
+Evidence and explanation:
+"""Palin wrote on Facebook, """"As unbelievable as it sounds, your tax dollars are funding the federal government's Zombie Apocalypse Plan. I kid you not."""" People who worry about the zombie apocalypse will not be comforted to hear this, but there is no plan. The CDC played off the zombie apocalypse craze in 2011 as way to pass along real information about preparing for emergencies that don't involve zombies. They wrote up a tongue-in-cheek blog post, which successfully generated plenty of attention. So when the zombies come, you’re on your own. And Palin’s claim is False. May 28 update (2:04 p.m.): Since our fact-check first posted, our zombie friends have alerted us to some more zombie government business that we think is worth mentioning. None of it affects our rating of False. In the first case, the Washington Examiner reported on the Department of Homeland Security allowing federal government contractors to potentially be reimbursed for attending HALO Corp.'s 2012 Counter-Terrorism Summit. As part of the summit, Halo put on a """"live war game of a zombie apocalypse, complete with 40 actors in full zombie makeup,"""" the Washington Examiner reported. In the second, Foreign Policy magazine found a 2011 military training document that included plans for a zombie attack. But it’s not really a """"plan."""" It’s part of a training exercise, the magazine reported. """"The document is identified as a training tool used in an in-house training exercise where students learn about the basic concepts of military plans and order development through a fictional training scenario,"""" Navy Capt. Pamela Kunze, a spokeswoman for U.S. Strategic Command, told CNN. """"This document is not a U.S. Strategic Command plan."""""""

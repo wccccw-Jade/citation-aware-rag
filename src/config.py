@@ -17,9 +17,9 @@ def _env_bool(name: str, default: bool = False) -> bool:
 
 
 class Settings(BaseModel):
-    raw_data_dir: Path = Field(default=Path(os.getenv("RAW_DATA_DIR", "data/raw")))
-    processed_data_dir: Path = Field(default=Path(os.getenv("PROCESSED_DATA_DIR", "data/processed")))
-    index_dir: Path = Field(default=Path(os.getenv("INDEX_DIR", "faiss_index")))
+    raw_data_dir: Path = Field(default=Path(os.getenv("RAW_DATA_DIR", "data/ragpapers/raw")))
+    processed_data_dir: Path = Field(default=Path(os.getenv("PROCESSED_DATA_DIR", "data/ragpapers/processed")))
+    index_dir: Path = Field(default=Path(os.getenv("INDEX_DIR", "data/ragpapers/index")))
     chunk_size: int = Field(default=int(os.getenv("CHUNK_SIZE", "800")))
     chunk_overlap: int = Field(default=int(os.getenv("CHUNK_OVERLAP", "120")))
     top_k: int = Field(default=int(os.getenv("TOP_K", "5")))

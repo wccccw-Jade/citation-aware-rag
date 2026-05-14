@@ -1,0 +1,9 @@
+# PubHealth Item 7892
+
+Dataset source id: 7916
+Document id: 11612
+
+Fact-check label: mixture
+
+Evidence and explanation:
+"""This story about an association between long-term statin use and a lower risk of rheumatoid arthritis covers many of the bases, but it doesn’t do as good a job as the other story we reviewed at giving readers a sense of the preliminary nature of the research. While we applaud stories that include specific numbers, this one probably left many readers scratching their heads about what the numbers meant. For example, the story reported that “those not taking statins had a 51 percent higher risk of developing rheumatoid arthritis over about 80 percent of the follow-up period.” Huh? Many of the numbers quoted are provided without context and as a result provide little in the way of information. Giving readers an easier statistic, such as """"number needed to treat"""" would have cut through the confusion and provided important context to the true impact of the study. Like the other story we reviewed, this one fails to put the reported difference in rheumatoid arthritis rates in perspective. It reports the percentage reduction without telling readers the baseline risk for this population. Indeed, like the other story, it reports that among almost 2 million people included in the database analyzed by researchers just a couple of thousand people developed rheumatoid arthritis over the course of a decade. That is a rate of about one-tenth of one percent. While a “40 percent” reduction sounds big, it is impossible to tell from this story just how many people might be affected. An association is not the same as an effect. News reports of research should be consistent and precise in the use of the terms in order to avoid creating an impression of a causal relationship when one has not been demonstrated."""

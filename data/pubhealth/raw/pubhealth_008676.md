@@ -1,0 +1,9 @@
+# PubHealth Item 8676
+
+Dataset source id: 8703
+Document id: 9117
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This release reports on two separate studies, one combing the medical histories and records of more than 6,000 women, and another where 96 patients were surveyed. In the first study, researchers found that a significant number of young women had iron deficiency that wasn’t quite as severe as anemia. In the second study, they tried to find a way to predict who might have iron deficiency by asking about fatigue and other factors, but were unable to find a predictive question. The release declares that doctors should screen all teens for “iron deficiency” but this conclusion seems beyond the scope of the two studies. Finding teens who may suffer health issues from iron deficiency is a great goal. However, whether universal screening is the best way requires further research. For more context about the potential harms of over-screening, see this blog post from our archives. Screening every 16-year-old girl in the US for “iron deficiency” may not be the best idea. This news release goes too far in reporting on two studies about iron deficiency, which is a health issue for some teens. Readers are not given any balancing context on whether the screening could cause anxiety or lead to false-positive diagnoses that could lead to unnecessary treatment. These studies were exploratory and attempt to identify factors that medical staff could use to more selectively screen teens (or screen earlier) for iron deficiency. The American Academy of Pediatrics does not recommend routine screening for anemia. The release stated that several adverse associations exist with anemia (lower math scores, poor attention) but those are likely associated with more severe anemia and it is not clear that the relationship is causal. In fact, screening more aggressively for iron deficiency could result in over-treatment.

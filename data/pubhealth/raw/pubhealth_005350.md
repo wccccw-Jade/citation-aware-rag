@@ -1,0 +1,9 @@
+# PubHealth Item 5350
+
+Dataset source id: 5363
+Document id: 11303
+
+Fact-check label: false
+
+Evidence and explanation:
+Carrying a misleading headline, and some not-quite-accurate and confusing descriptions of the study, this news release describes research designed to evaluate the impact on overweight or obese teens of complying with a healthier snacking regimen — one involving peanuts and peanut butter. It could have been markedly strengthened by less emphasis on quotes stating the obvious and questionable (“…unhealthy eating habit(s) can lead to an unhealthy weight”; “snacking is more common during the adolescent years”), and more emphasis on the design, context and hopeful outcome of this small, but rigorous randomized controlled intervention trial. Families, students, schools, and public health specialists are in a frustrating battle to prevent and address obesity and its damaging consequences. As this release notes, this may be especially true in poor, urban and minority children and teens whose diets are more likely to be composed of fast food meals, and sugary, greasy, nutritionally deficient snacks after school. Widely publicized efforts — like New York City’s ban on large-sized soda pop sales — to introduce teens (and adults) to healthier diets, haven’t seemed to do much to increase desire for carrot sticks, fruit, and yogurt in these populations. So any study that suggests a) it really is possible to get teens to try, and to stick with a nutrient-rich snack like peanuts instead of unhealthy snacks; b) that providing such snacks may reduce body mass index despite the peanut’s high energy content; and c) a snack may find favor with adolescents’ famously picky food preferences, is bound to get attention, even if the good results are modest and the trial relatively small.

@@ -1,0 +1,9 @@
+# PubHealth Item 6854
+
+Dataset source id: 6878
+Document id: 10627
+
+Fact-check label: false
+
+Evidence and explanation:
+This release reports on a study looking at the effects of taking daily doses of a readily available garlic supplement on the buildup of so-called soft plaque in coronary arteries. After one year of supplementation the rate of accumulation of this plaque had been reduced by 80%, according to the release. Our greatest concern with the release is its unsubstantiated claims about the benefits and the serious conflicts of interest (plural) at play. The paper discussed in the release was published as a paid supplement to the Journal of Nutrition and presented at a symposium sponsored primarily by commercial interests from the nutrition industry. [Editor’s note: In this review, we characterize the garlic study as being “not yet available” (see below under “Why This Matters”) because the release described the study as “scheduled to be published.” Our reviewers felt that the release’s description was explicit about the fact that the study was not published — and that if it had been published, the release should have noted this. An official from the Los Angeles Biomedical Research Institute contacted us to clarify that the study was in fact published and available at the time the release was issued. We are passing this information along to readers.] If correct, this research would suggest a fairly easy and inexpensive way to reduce the buildup of plaque in the heart’s arteries which would be a boon in treating coronary artery disease. However, the release provides barely enough information to make such claims and is exceedingly vague in the specifics of the work. Moreover, the release touts a study scheduled to be published but not yet available. Writers lured by this release would do well to show justifiable caution.

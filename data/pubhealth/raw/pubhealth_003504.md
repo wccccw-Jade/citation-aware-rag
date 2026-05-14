@@ -1,0 +1,9 @@
+# PubHealth Item 3504
+
+Dataset source id: 3514
+Document id: 9148
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This Cleveland Clinic news release describes a “new” blood test called IsoPSA that is supposed to be more accurate than traditional prostate specific antigen (PSA) blood tests. Instead of determining PSA concentrations in the blood or other bodily fluids, IsoPSA recognizes the protein’s structural changes. Researchers believe this test could help distinguish prostate cancer from benign conditions and identify patients with high-grade disease. It’s not exactly clear what’s new here, however. These types of structurally-based PSA tests have been around since 2009. The news release does a decent job cautioning readers on overdiagnosis and overtreatment after positive PSA tests. It also discloses conflicts of interest, as the principal investigator is a co-founder and chief medical officer of Cleveland Diagnostics — the biotech company that funded this study. We wish we were given some numbers to put some of the claims into perspective. Benefit data were given in relative terms and described with vague, comparative wording. Also missing are discussions on the study design and limitations, as this study did not have a control group. PSA screening has been the subject of debate the past few years. In fact, many experts believe screenings may do more harm than good in the long run, especially since routine PSA screenings lead to over-diagnosis of harmless cancers. This then leads to treatments for prostate cancer, which come with higher risks for side effects. One European study showed an additional 48 men who were not at risk of dying from prostate cancer had to be treated to prevent one death from the disease. Another alternative to traditional PSA blood tests is certainly of public interest, especially if the test is comparable in cost while being more sensitive to aggressive prostate cancers.

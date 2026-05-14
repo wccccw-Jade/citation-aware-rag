@@ -1,0 +1,9 @@
+# PubHealth Item 1227
+
+Dataset source id: 1226
+Document id: 8974
+
+Fact-check label: false
+
+Evidence and explanation:
+This tiny, industry-sponsored study of how the polyphenols found in Montmorency tart cherries might impact gut bacteria adds to a growing list of similar industry-sponsored studies investigating a wide range of possible health benefits of this domestic cherry. This study did not show that Montmorency tart cherries may enhance gut health, and this news release did not even explain that there’s no scientific consensus on what defines “good” bacteria, “bad” bacteria, or a “healthy” gut. The combination of unjustified language and lack of supportive data is a major weakness of this news release. Yes, the industry sponsorship and limited sample size (9 human subjects) is acknowledged, but other key limitations (lack of control group; reliance on subjects completing diet questionnaires) are not, and the end result is a news release with an arguably promotional tone. The microbiome has become an important line of research into human health but this research is preliminary, at best. So what’s the harm in promoting preliminary research? Check out this customer review of a Walmart tart cherry juice product: It was recommenced that I try this because of an awful gout condition. I bought a few bottles and had them on hand for the next flare up. Well that happened yesterday and I took my cholchicine but drank the entire 32 oz bottle and this morning I am basically pain free! We’re hoping this person wasn’t diabetic. We share this because it shows that plenty of people (there were similar comments related to a host of touted health benefits) will act on unproven nutritional studies that are funded by the companies selling the product, and are brought to the public’s attention (as in this case) by public relation firms whose primary motivation is promotional, not educational.

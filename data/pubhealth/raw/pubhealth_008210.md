@@ -1,0 +1,9 @@
+# PubHealth Item 8210
+
+Dataset source id: 8234
+Document id: 9047
+
+Fact-check label: false
+
+Evidence and explanation:
+Getty Images The news release focuses on a study published in Nature Chemistry Jan. 8, which found that a compound called JPC11, found in stinging nettle plants and ants, is effective at attacking some kinds of cancer cells. However, while the release explains how JPC11 can attack cancer cells, it does not tell readers of the many hurdles that lie between the current discovery and any possible future use of the compound to fight cancer in humans. The research published in Nature Chemistry reflects only work done testing JPC11 against some types of cancer cells in vitro. In other words, JPC11 has not yet been tested in an animal model, much less begun the lengthy process of clinical trials that are necessary to determine whether it may be used on a large scale by human patients. The release acknowledges in a quote from a lead researcher that “It will take time to progress from the lab to the clinic” but the caution seems weak in comparison to the claims and speculation made elsewhere in the release, including in the headline. While estimates can vary, most agree that it takes more than a decade to move a new drug from the laboratory to clinical practice — as well as research funding that is estimated to range from hundreds of millions to billions of dollars. Given that JPC11 has yet to be tested in animals (or, at least, those tests are not yet published), it will be a long time before it could be used to treat cancer patients. And there is the very real possibility that it will never be used to treat cancer patients. Most potential pharmaceutical treatments wash out during animal testing or clinical trials. It’s important for releases on anti-cancer research to be clear on where potential new treatments are in the development process. This release does not do that.

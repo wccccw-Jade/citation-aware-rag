@@ -1,0 +1,9 @@
+# PubHealth Item 7632
+
+Dataset source id: 7656
+Document id: 10354
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release from the Entomological Society of America promotes a study published in its journal about a mosquito repellent that comes in the midst of a cacophony of news reports about the Zika virus outbreak. The clip-on device consists of a very small fan that blows “a cloud” of insecticide around the wearer. The study is weak, and that carries over into the even weaker PR release. There are numerous problems with the release, from the lack of data to its over-blowing the results. It’s likely that if a person was wearing the device, it may not function as the device in the study performed. It borders on fabrication to claim, as this release does in the headline, “Clip-on device offers protection against mosquitoes that transmit Zika.” We’re not sure why a professional association of entomologists whose mission is to educate scientists, teachers and the public would promote a product that’s been around since 2009 as if it’s a new device created specifically for combating a new virus threat. Consumer Reports reviewed the device years ago and gave it a thumbs-down for effectiveness and safety. The mosquito-borne Zika virus outbreak in Central and South America has been getting lots of media attention, some of it causing alarm, and that’s only going to grow following the recent announcement that President Barack Obama has requested $1.8 billion in emergency funding to combat the virus through vaccine development, mosquito control and public education. In addition, news media are reporting that there’s a possibility the virus may spread from a woman to her fetus, and that the virus could be transmitted through sexual relations. Without even understanding the nature and possible extent of the risks, companies and organizations may be looking for ways to cash-in on the scare while it’s a hot topic.

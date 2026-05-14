@@ -1,0 +1,9 @@
+# PubHealth Item 8494
+
+Dataset source id: 8521
+Document id: 9101
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release reports on a meta-analysis that examined the effects of a plant-based vegetarian diet on cholesterol and triglyceride levels measured in the blood. The release does a good job of describing the benefits of a plant-based vegetarian diet compared to other diet types as it relates to cholesterol. It also makes mention of other mechanisms that could account for the observed changes seen in cholesterol levels and appropriately uses terms like “association” and “correlation” when describing the findings rather than cause-and-effect language. However, the release goes too far in crediting a vegetarian diet for reductions in heart attacks, strokes, and premature death. Those outcomes weren’t part of the analysis. Other things that would have made the release better: less reliance on a very subjective anecdote and an explanation of the limitations of observational studies. It would have also been good to note that cholesterol is a surrogate marker for heart disease, not a specific health outcome. Finally, readers would be better served with a more balanced comparison with other types of diets, including the Mediterranean diet. A healthy diet can be used as a form of prevention and treatment for many chronic diseases including heart disease, diabetes, and cancer. However, what makes a diet “healthy” can vary from person to person. Research from both observational studies and randomized clinical trials can help healthcare providers and patients identify a diet type that best suits a patient’s medical and lifestyle needs. It’s important that when reporting on this research journalists don’t minimize the efforts required to implement and sustain these changes.

@@ -1,0 +1,9 @@
+# PubHealth Item 9455
+
+Dataset source id: 9482
+Document id: 10391
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release draws from a Phasel/ll safety study of 91 patients who were given a concentrated form of higher-dose radiation known as stereotactic body radiation therapy, or SBRT, instead of typical radiation therapy for early-stage prostate cancer. The study was designed to test the toxicity of increasing levels of radiation, not to assess the survival rate. While the five-year study showed benefits, the release failed to provide the numbers and details that we believe would help readers understand the risks vs. benefits. The “cure” rate referred just to men who had no evidence of rising prostate-specific antigen (PSA) — and the study acknowledges that most men were not actually followed for 5 years so a “cure rate” was statistically estimated. However, over a third of the men had low-risk cancer where the 5-year cancer-specific survival is estimated to be 100 percent. It’s not certain that these men actually required treatment. The National Cancer Institute estimates there will be about 180,890 new cases of prostate cancer diagnosed in the United States this year. Some of them will be treated with active surveillance, the “watch and wait” treatment. More aggressive cancers may require surgery, radiation or chemotherapy. Among those treated with radiation, stereotactic radiotherapy (SBRT), an alternative form of radiation therapy described in this release, may offer a shorter course of treatment (five sessions) compared to external beam radiation therapy which is typically delivered over the course of about six weeks. The shorter SBRT approach suggests an important convenience benefit to patients. Treatment toxicity with this procedure was also low, according to the release, although there was no control group in the study to compare it with.

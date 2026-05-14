@@ -1,0 +1,9 @@
+# PubHealth Item 7573
+
+Dataset source id: 7597
+Document id: 11452
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The release focuses on a paper published in the British Dental Journal that evaluated the effect of cognitive behavioural therapy (CBT) on patients with dental phobia or related fears concerning dentistry. The release reports that CBT allowed many patients with dental phobia to receive dental care without relying on sedation, and that CBT and sedation complement each other as ways of helping patients with dental phobia address their dental health needs. The release did a good job describing benefits but was very vague on what researchers meant by the term “sedation” and the types of procedures most feared by those with phobias. In addition, the release didn’t delve into any of the limitations of this study, which was essentially a case series — considered a very low level of evidence. A lot of research has been done on dental anxiety — and it’s very common. Most such studies find that at least 10 percent (and as many as 20 percent) of people have dental anxiety or dental phobia. These fears make people less likely to see a dentist, and put them at greater risk of oral health problems — which can, in turn, have significant impacts on an individual’s quality of life. (Anyone who has ever had a toothache will agree with us.) In short, identifying ways to help people deal with dental anxiety and phobias has the potential to improve the quality of life for a great many people. In addition, there have been many studies (reported in a meta-analysis and systematic review) that have demonstrated the usefulness of CBT in preventing the need for sedation in these patients. As sedation carries certain risks and does not address any underlying issues leading to dental phobia, CBT could be a positive alternative for many patients.

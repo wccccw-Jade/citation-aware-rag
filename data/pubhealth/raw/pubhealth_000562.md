@@ -1,0 +1,9 @@
+# PubHealth Item 562
+
+Dataset source id: 561
+Document id: 10552
+
+Fact-check label: mixture
+
+Evidence and explanation:
+"""The question of whether hysterectomy (surgical removal of the uterus) is overused or appropriately performed for benign conditions such as fibroids or abnormal uterine bleeding is controversial and hotly debated. What is clear is that, regardless of treatment choice, women should be informed about the availability and appropriateness of the many available, safe, and effective alternatives to hysterectomy. Furthermore, it should always be the case that women are actively making the treatment decisions along with their doctor. How bothered a woman is by her symptoms, how she feels about the risks and recovery involved in the different treatments, her desire for future childbearing, among others, should all factor into the decision-making process. This story does a nice job of describing the controversy over the potential overuse of hysterectomy for uterine fibroids. It appropriately describes how fibroids do not need to be treated unless they are causing a lot of bothersome symptoms. It also describes the available alternatives to hysterectomy, although it could have done more to discuss the availability of some of the newer options such as myolysis and uterine artery embolization. The story fails to discuss costs of hysterectomy and the alternatives. Other than to describe hysterectomy as """"invasive"""" and requiring a hospital stay and recovery time, the story does not discuss the harms of hysterectomy or the alternatives. Finally, although the story mentions a """"90 percent success"""" rate of the alternative procedures, this is not sufficient quantification of benefits. Not only is it not clear how """"success"""" is defined, but also for which procedure and compared to what."""

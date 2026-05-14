@@ -1,0 +1,9 @@
+# PubHealth Item 3181
+
+Dataset source id: 3191
+Document id: 10655
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The story reports on a recent meta-analysis that demonstrated switching from tamoxifen to anastrozole (trade name Arimidex) can decrease the risk of breast cancer recurrence in women with estrogen-positive tumors. Switching hormone therapies mid-course would be a novel approach to hormone therapy treatment. However, the story does not provide an absolute benefit of this switch; many women with early-stage estrogen-positive cancer have very high survival to begin with, so the 29% additional relative risk reduction may actually not be a very big number. The story does not provide the cost of anastrozole or tamoxifen. Hormone therapy is a regimen of daily medication for 5 years., so whether switching medications or continuing with tamoxifen has major cost implications is debatable. Instead of just reporting sales figures for Astra-Zeneca, the story should have explained how much these drugs costs consumers. The story does not discuss the potential side effects of anastrozole, one of the aromatase inhibitor class of hormone therapies. These are listed in the source article for this story. The paper just had to report them. Anastrozole and tamoxifen may increase menopausal symptoms such as hot flashes or vaginal discomfort, though anastrozole slightly less so than tamoxifen. Also, anastrozole may increase the risk of bone or joint pain, and it may also increase LDL or “bad” cholesterol. Lastly, there are no additional sources of information and no attempts at independent corroboration within this story. There is also no discussion that AstraZeneca, makers of anastrozole, funded the research and currently pay the lead authors of the study speaking fees and other honoraria.

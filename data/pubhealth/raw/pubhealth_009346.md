@@ -1,0 +1,9 @@
+# PubHealth Item 9346
+
+Dataset source id: 9373
+Document id: 9739
+
+Fact-check label: true
+
+Evidence and explanation:
+Resveratrol is an antioxidant compound found in grapes and red wine. Like a competing Time story, this CNN piece overreaches in its description of a randomized controlled trial of resveratrol’s effects on biomarkers associated with Alzheimer’s disease. It suggests that resveratrol “may actually have benefit in slowing progression of this disease,” which goes beyond anything that this small safety-focused study could tell us. But after that early misstep (and a sensational headline that touts “new hope”), the story recovers to highlight the need for additional work before it can be determined whether resveratrol may be beneficial. And in that respect it goes well beyond the Time coverage. All in all, the story does a nice job of balancing the promise of the work while keeping readers grounded in the reality that we are a long way from finding a new tool to fight Alzheimer’s. Alzheimer’s affects more than 5 million people in the United States, and that number is expected to double over the next 35 years. It is the sixth leading cause of death in the United States. And while the number of patients diagnosed is great, the number of people affected is even greater. It is difficult for loved ones to watch a friend or family member lose his or her sense of self, to say nothing of the financial and emotional burden that comes with increased responsibilities for taking care of Alzheimer’s patients as the condition advances. New tools and treatments that can slow the progress of Alzheimer’s are important and worth covering. But it is also important to present the limitations of new studies, so as to avoid giving a false impression of the findings to doctors, patients and their loved ones.

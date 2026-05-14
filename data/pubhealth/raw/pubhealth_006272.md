@@ -1,0 +1,9 @@
+# PubHealth Item 6272
+
+Dataset source id: 6294
+Document id: 10078
+
+Fact-check label: true
+
+Evidence and explanation:
+This story was generally clearly written and delivered an important reminder to women that screening too often isn’t harmless – and that there’s a reason for evidence-based screening guidelines. Unfortunately, the story is confusing in a way that could mislead women about how often Pap smears are recommended. The story cites scenarios of TWO negative Pap smears and asks what the next step should be. “…a woman age 30 to 60 has had two consecutive normal Pap tests but no HPV tests; two normal Paps and a negative HPV test; or a negative HPV test but no recent Pap tests. In all of those cases, guidelines recommend waiting three years before screening the patient again..” But the standard recommendation is THREE negative Pap smears before moving to every 2-3 year screening. The study’s scenarios stipulated that a woman has “a current normal Pap smear result” in addition to the past history above. Readers could be misled, since the story implies that only 2 negative smears are needed (or a single negative HPV) before adopting less frequent testing. The story ended with some sound advice for women: “We need to shift toward the wellness visit as opposed to, ‘You have to come in here every year for a Pap,'” (one expert) said. There are other important preventive interventions that happen during a visit “just for a Pap smear,” such as counseling about smoking cessation, diet, and exercise, and screening for other problems such as sexually transmitted disease and depression. Doctors may be slow to adopt new Pap smear guidelines because the public health message about the benefit of routine preventive visits (what is confusingly termed here a “wellness visit”) has not been strongly articulated.

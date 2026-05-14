@@ -1,0 +1,9 @@
+# PubHealth Item 287
+
+Dataset source id: 286
+Document id: 9137
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release reports on a study examining substances that will stop preterm births by stopping uterine contractions. The researchers looked at strips of uterine tissue from both humans and mice, initiated contractions in the tissue using chemicals known to bring on labor, and then tested a bitter substance on the tissue. They write that this substance decreased contractions more effectively than current drugs used for this practice. They also briefly mentioned they tested the same drug in pregnant mice. The release neglects to share the name of the “bitter substance” (chloroquine) used to halt contractions in the human and mouse tissue, nor does it say how the experimental substance compared with any of the current treatments or name any of them. The release also would have served readers better by including a clear explanation that bitter taste receptors — usually only associated with the tongue — also exist in other cells in the body and that stopping early contractions is not always the best course of treatment. Preterm birth is one of the leading causes of infant mortality, according to the National Institutes of Health. The World Health Organization states “Common causes of preterm birth include multiple pregnancies, infections and chronic conditions such as diabetes and high blood pressure; however, often no cause is identified.” While not all babies born prematurely experience complications, being born too early can lead to short or long-term health problems. Stopping early labor may be one preventative way to reduce risks from preterm birth. A variety of drugs are currently used for stopping early contractions but have limited effectiveness and may carry risks.

@@ -1,0 +1,9 @@
+# PubHealth Item 4553
+
+Dataset source id: 4563
+Document id: 10795
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Both stories relied on journalism tropes. In the Reuters story, researchers were “closing in on an accurate test for autism.” Here they are “finding more pieces of the autism puzzle of with the help of MRI scans”. The latter is more accurate. If you now have three pieces of a 500-piece puzzle, you still have more pieces than you did before. The story follows through with this more cautious lead by presenting a better — if not complete — analysis of the evidence and using independent sources to bring some much needed perspective on the findings. Unfortunately, like the Reuters story, this one gave readers no solid quantification of harms or benefits, and no cost information. The currently available specific testing methods for the diagnosis of autism and autism spectrum disorders are blunt instruments. While more accurate than routinely used tools, the current autism diagnostic tools are not as sensitive and specific as needed. That is why a good diagnostic tool would be a welcome addition. It remains to be seen however if the promise of diffusion tensor MRI screening will be realized. To be useful, a diagnostic test for autism should have a high degree of sensitivity especially in young children. Identifying children at risk early is essential if any intervention is to work in reducing the impact of the disorder. Screening for autism early and making decisions based on that screening can have very real consequences. In the absence of proven clinical treatments for autism, parents spend whatever they can on natural remedies, specific diets and behavioral therapies. In the absence of real proof, journalists need to make sure any evidence they help to promote has been properly vetted.

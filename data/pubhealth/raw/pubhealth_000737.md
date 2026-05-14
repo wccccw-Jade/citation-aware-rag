@@ -1,0 +1,9 @@
+# PubHealth Item 737
+
+Dataset source id: 736
+Document id: 9986
+
+Fact-check label: mixture
+
+Evidence and explanation:
+"""This story gets the broad brushstrokes right on a new study about bariatric surgery and cancer: It conveys that women who get bariatric surgery appear to have reduced risk of cancer, while men don’t. It puts the findings in context of previous research. Its greatest strength is the use of two solid quotes, from different sources, indicating that this study leaves a lot of questions unanswered about the obesity-cancer link. Still, the story fails on some very basic practices: It fails to mention the treatment’s costs, harms or alternatives. These could easily have been added; they should be included in nearly every story about the benefits of a medical treatment. An additional shortcoming: It fails to put what appears to be a large percentage risk reduction into terms a reader can understand. A 40 percent reduction in cancer risk is a big deal. A drop in risk in this population from 8 percent to 6 percent–that’s still a big deal, but easier for a reader to understand. The question that leaps to mind for many readers will be: Can a lower cancer risk be a """"tie-breaker"""" for women considering bariatric surgery? It would have been very useful to hear clinicians’ thoughts on that. Which brings us to this: Take a look at the report on this study that appeared in the Guardian newspaper in the UK, published in partnership with BMJ. It’s a careful, plain-English description of the findings and their implications for the public. It directly addresses that question of applicability. The AP report is 556 words. The Guardian’s is 676. It’s true that the AP story is 18 percent shorter. But it carries an elevated risk of reader misunderstanding. That’s a risk-benefit tradeoff worth pondering."""

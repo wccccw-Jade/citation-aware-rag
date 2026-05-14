@@ -1,0 +1,9 @@
+# PubHealth Item 3778
+
+Dataset source id: 3788
+Document id: 9232
+
+Fact-check label: false
+
+Evidence and explanation:
+An Arizona company, HSRx Group, claims it has an over-the-counter (OTC) topical analgesic that is superior to a competitor’s joint relief tablet in relieving joint pain and improving range of motion. But the release contains no evidence from the “independent clinical study” it references in the headline and text. No study authors are named in the news release, and contrary to a statement in the release, no further information on the study is available on the company website. We reached out to the company to ask for a copy of the research but received no reply. An online search of Osteo-Rx, the product that’s the subject of the release, led to several sites selling the product in the supplement category, not as an OTC drug. Unlike approved OTC drugs, supplements are not regulated by the Food and Drug Administration. Adding to the confusion, the news release calls the product a topical analgesic, which indicates it’s a cream, but sites selling Osteo-RX online only have it pictured in tablet form. Osteoarthritis is prevalent among those past middle age. With more and more baby boomers hitting their senior years, joint pain is a growing concern. OTC interventions for joint pain — solutions that work — are welcome and important. But in this release, claims suggest scientific credibility but they do not represent genuinely credible scientific research. Many readers may be fooled by a sentence in the release claiming that the drug’s benefit has been “proven by independent clinical research.” We looked behind the curtain and asked — where is the study? Who are the authors? When was it published? What does it prove? People in pain from arthritis deserve the real evidence — not empty and misleading PR releases.

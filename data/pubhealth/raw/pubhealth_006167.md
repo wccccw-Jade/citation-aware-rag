@@ -1,0 +1,9 @@
+# PubHealth Item 6167
+
+Dataset source id: 6186
+Document id: 10414
+
+Fact-check label: false
+
+Evidence and explanation:
+Misleading to the point of deception, this news release ignores all primary and secondary analyses of the study it ostensibly reports on — which were uniformly negative and showed no benefit — and instead treats a positive subgroup analysis as if it were the main finding of the study. It also failed to mention the potential for serious harm from the drug, and wasn’t transparent about the financial interests that might bias the opinions of one of the study authors. This is just not an acceptable practice. Yet it appears that journalists and other web producers bit on the bait and followed the lead of the news release unquestioningly. That’s where avoidable harm occurs. Since the drugs used in combination in this study (Lupron and acetylcholinesterase inhibitors) are already on the market, it’s conceivable that desperate family members and caregivers of Alzheimer’s patients will demand treatment based on these hyped results. (A broadcast television news story even encourages patient family members to “ask their doctors to consider putting them on the drug.”) The benefits touted by the release were seen only in a smaller subgroup of patients — not the main study — and subgroups need to be treated very carefully for a variety of reasons. Most importantly, the randomization of patient characteristics in the various groups of the study may not have been maintained in the subgroup analysis. If the patients in the subgroup who received Lupron were less severely ill or had other differences compared with those in the control group, then the treatment may appear to be beneficial, when in fact the result is due to confounding. This release doesn’t address such important limitations, and that’s unfortunate.

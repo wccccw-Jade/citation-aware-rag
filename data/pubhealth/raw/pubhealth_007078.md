@@ -1,0 +1,9 @@
+# PubHealth Item 7078
+
+Dataset source id: 7102
+Document id: 11243
+
+Fact-check label: mixture
+
+Evidence and explanation:
+"""This story described a product called ArteFill, and said it was “billed as the first permanent filler.” But the story never challenged that claim, and didn’t quantify potential benefits or harms. It said """"known side effects are minimal."""" But on the FDA website, it’s easy to see that side effects include: * Lumpiness at injection area more than one month after injection* Persistent swelling or redness* Increased sensitivity* Rash, itching more than 48 hours after injection And several contraindications for use are listed. Perhaps consumers should judge if those sound """"minimal"""" or not. The story also never mentioned that one of the conditions of FDA approval last fall was that a five-year study for safety be done after approval, a clear sign that reviewers were not convinced that all the evidence on safety was yet in. The story also profiled only one woman who had the injections, saying that “she thought she looked fresh” and “was sold” “in less than 30 minutes.” That is hardly a balanced testimonial, especially when the FDA website makes clear that “In a clinical study most patients needed more than one injection to achieve optimal wrinkle smoothing. The average number of treatment sessions was 2.28. There was some caution provided by a second source, from the American Society of Plastic Surgeons, and some useful background given by the reporter at the very end of the piece. But Dr. Gupta’s joking summary about whether he or the reporter had a “need” for the product only tends to promote its use and promote the disease-mongering idea that wrinkles, indeed, are a disease that must always be treated. Such a parting comment can undo any balance that may have existed in the piece prior to that point."""

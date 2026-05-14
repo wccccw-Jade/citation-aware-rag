@@ -1,0 +1,9 @@
+# PubHealth Item 872
+
+Dataset source id: 871
+Document id: 11166
+
+Fact-check label: mixture
+
+Evidence and explanation:
+We typically love the Healthy Skeptic column and truly look forward to its thoughtful analysis of health claims being made for various products and treatments. In this piece about DHA supplements, though, we felt there wasn’t enough hard-hitting skepticism. The story did a great job explaining the supplements themselves and discussing the way they are marketed. It also provided good cost information. Most importantly, it presented strong evidence to counter the claims that DHA makes kids smarter. That evidence, however, was undercut by the only two people quoted in the story. Two medical doctors who give their own children DHA. These experts essentially say that kids should take the supplements even if the evidence supporting its benefit is weak. The article quotes one of these experts saying, “There’s no downside to it.” Glossing over potential risks and touting uNPRoven benefits are usually areas where the Healthy Skeptic finds fault. We fear this story will become yet another piece of marketing for an health supplement that has no documented health benefit. Young children don’t make most diet choices for themselves, and they certainly don’t buy themselves health supplements. Parents understandably want to help their children succeed in school, and if they see a possible brain booster in a product such as a DHA supplement, they are going to buy it, especially if they see the product being touted in the Los Angeles Times and other mainstream publications. The Times owes it to its readers to be more critical of these products and to help parents understand what reasonable steps they can take to help their children do well in school without taking an unnecessary pill.

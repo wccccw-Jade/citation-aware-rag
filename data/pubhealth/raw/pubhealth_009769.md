@@ -1,0 +1,9 @@
+# PubHealth Item 9769
+
+Dataset source id: 9796
+Document id: 10282
+
+Fact-check label: true
+
+Evidence and explanation:
+Image shows blue-fluorescing Vyxeos nano-liposomes being engulfed by leukemia cells. Credit: Celator PharmaceuticalsThis is a company announcement of the results of a phase 3 trial of its new chemotherapy drug Vyxeos (cytarabine: daunorubicin) Liposome for Injection (also known as CPX-351) compared to the standard therapy (cytarabine and daunorubicin, or 7+3) in patients with high risk acute myeloid leukemia (AML). The study results have not yet been published. Despite the use of some exaggerated language over the implications of this study, and the lack of a cost reference, the news release delivered plenty of data about the benefits in the treatment group versus the comparator group. The release appears thorough in summarizing the study, although we can’t be sure since the results haven’t been made available for independent assessment. AML is a cancer of the myeloid line of blood cells, where abnormal white blood cells grow rapidly and accumulate in the bone marrow, interfering with the production of normal blood cells. Any chemotherapy advance that can extend the lives of patients with high risk AML without adverse drug effects is highly welcomed. It is possible that the liposome formulation of these two previously used chemotherapies will help patients survive longer than other therapies and be an advance in a disease where there are very few options and low survival rates. It’s important to assess this release now since the manufacturer indicated it plans to seek U.S. and European regulatory approval for the drug this year. It should be pointed out that the Vyxeos injection appears to combine the same drugs used in the standard therapy, but with a nano particle liposomal membrane package delivery system.

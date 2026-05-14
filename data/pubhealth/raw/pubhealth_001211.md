@@ -1,0 +1,9 @@
+# PubHealth Item 1211
+
+Dataset source id: 1210
+Document id: 9067
+
+Fact-check label: true
+
+Evidence and explanation:
+In a 12-year study of more than a million women in the Kaiser Permanente of Northern California system, researchers concluded that the HPV screening test alone may be enough to detect the vast majority of cancers and so-called “pre-cancers” without the added second test known as the Pap test. In the study, women received both tests. The study examined patients who had cancer or pre-cancer to determine whether their disease would have been missed by HPV testing alone. The release states: “Given the rarity of cancers among screened women, the contribution of the Pap test to screening translated to earlier detection of at most five cases per million women per year.” This study concludes that double-testing or co-testing is only protecting a tiny minority of patients, and that a single HPV test may be enough. Even though economics is part of the reason for the study, the release does not tell us how much money might be saved if a single test became the standard of care. Prevention by early detection is a key part of saving lives from cervical cancer. The Pap smear has been widely used in the United States since the 1950s. As a result, the incidence of cervical cancer has dramatically decreased. However, the fact that certain strains of human papilloma virus (HPV) caused almost all cervical cancer was not discovered until decades later. With the introduction of testing for HPV starting after 2000, the role for the Pap and HPV test has been evolving. This study addresses the question of whether it is time to abandon the original Pap test in favor of just using the HPV test — or whether both are better than either alone. The answer seems to be that the Pap smear’s days are numbered.

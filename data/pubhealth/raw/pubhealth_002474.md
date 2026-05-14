@@ -1,0 +1,9 @@
+# PubHealth Item 2474
+
+Dataset source id: 2481
+Document id: 10657
+
+Fact-check label: true
+
+Evidence and explanation:
+"""This story reports on the FDA approval of a new drug, Januvia, for the treatment of type-2 diabetes. Januvia is yet another option in a large sea of existing therapies for type -2 diabetes. Januvia may represent an improvement over other therapies in its convenience and a possible decreased risk of side effects. Januvia can be taken once a day orally, as opposed to injections or multiple daily oral doses for other drugs. However, because Januvia represents a new approach to treating diabetes, little is known about its long-term safety or efficacy and it is still unclear how it will fit in with existing approaches. This story does provide the reader with some context for the controversy around this drug, but could have gone further to inform the reader. The story does not quantify the benefits of treatment. The story does state that the effects of the drug were """"modest,"""" but this is not adequate information on the benefits of treatment. Although the story indicates that further research is needed, it does not adequately describe the nature of the existing evidence. Furthermore, the story states that the drug will cost $4.86, but there is no indication of how this cost compares to existing therapies. Furthermore, it is likely that often the drug will need to be combined with other drugs, adding to the costs. By accurately describing the prevalence and seriousness of diabetes, the story does not engage in disease mongering. The story does mention alternative treatments, such as diet and exercise, metformin, and insulin, however the story could have done more to explain how this new drug will fit in with existing therapies. Furthermore, the story should have compared the side effects of the new drug to some of the newer drugs on the market, such as Byetta, and not to some of the older drugs."""

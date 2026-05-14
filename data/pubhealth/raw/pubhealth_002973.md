@@ -1,0 +1,9 @@
+# PubHealth Item 2973
+
+Dataset source id: 2983
+Document id: 9679
+
+Fact-check label: false
+
+Evidence and explanation:
+No data or research results are presented as evidence to back up the family’s story of help for their daughter. This story mistakenly substitutes an anecdote for scientific proof and appears almost to promote the nationally franchised Brain Balance centers. Most news organizations would include more than one source for such a story, and some balancing arguments about other alternative treatments. Problems in behavior for children growing up are frequently complicated and not easy to diagnose or treat. It is estimated that about 9 million visits per year in the United States to a clinic or doctor are associated with ADHD. The numbers of children diagnosed with ADHD and other psychiatric disorders has increased substantially over the past two decades or so, as have the numbers of children treated with stimulant and other medications. See what Dr. Allen Frances, former psychiatry chair at Duke and head of the DSM IV Task Force, wrote. This story suggests that easing the problem for a young woman with ADHD, as well as other disorders, was as simple as visiting a center in New Jersey. (The Science-Based Medicine website has questioned the evidence behind these centers.) A better story could have honestly outlined the experience of this family, while not pretending that a single case proves the unstudied treatment is therefore proven to work for most patients. While medication helps some of these kids, others are overtreated and non-medication interventions are given short shrift, and, as opposed to what this article implies, the standard of care is to always try behavioral help with organizational skills and making sure the child is getting enough exercise to burn off energy first.

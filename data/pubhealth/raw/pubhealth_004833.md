@@ -1,0 +1,9 @@
+# PubHealth Item 4833
+
+Dataset source id: 4843
+Document id: 9840
+
+Fact-check label: mixture
+
+Evidence and explanation:
+“Shows promise” – trumpets the headline. In a tiny sample of 24 men, with more questions raised than answered. The story allows supporters to say that the new approach, which involves using extreme cold to destroy nerve tissue (a technique known as cryoablation), “could someday become a standard treatment” for PE. But the study discussed here doesn’t come close to the evidence needed to justify such a bold claim. The story also didn’t apply quite enough scrutiny to statistics regarding the prevalance of PE (which struck us as disease-mongering), nor did it explain whether the improvement in stamina reported by the researchers made a difference in the men’s sexual satisfaction – or that of their partners. Those significant concerns aside, we thought the story did a good job of explaining the nuts and bolts of how the procedure works. We also liked that it raised questions about the durability of the treatment and potential for long-term adverse effects. While many men report that they have had trouble ejaculating early at one time or another, it doesn’t appear that there is really any “normal” amount of time it should take. Some men are quick, others are slow — and the amount of time considered appropriate can vary from individual to individual and across cultures. That’s important background to consider in any discussion of new treatments for PE. Because while some men and their partners clearly suffer significant impairment related to PE and would benefit from new treatments, others who might be labeled “premature” would be better off not knowing that such a syndrome exists. As we explore new treatments for those who truly suffer impairment, we should strive to avoid pathologizing the normal range of human behavior.

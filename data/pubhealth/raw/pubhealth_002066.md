@@ -1,0 +1,9 @@
+# PubHealth Item 2066
+
+Dataset source id: 2068
+Document id: 8982
+
+Fact-check label: true
+
+Evidence and explanation:
+This news release about a trial that randomly assigned people with bladder cancer to either robot-assisted or open surgery buried the real news under a weak lead that garbles the findings. The news here is that, contrary to assertions of many proponents of robot-assisted surgery, it is possible to randomize patients in order to get a valuable comparison instead of relying on weaker study designs that can’t answer the fundamental question about how old and new techniques compare. The release is rated as satisfactory on many criteria because key information was included in the body of the release, but the headline proclaiming that robot surgery is “as effective” as open surgery misses the larger point. The headline and lead also put a pro-robot spin on the results, which could also be summarized as robot surgery is “not clearly worse.” Also not explained: robot-assisted surgery is more expensive. The final sentence of the release, a quote from a researcher, should have been the lead: “It is important to conduct these trials before widespread adoption of technology, as has been the case with robotic prostatectomy (removal of the prostate).” We are bombarded with releases and news stories trumpeting results from studies of robot-assisted surgery that don’t actually compare the new technology to existing practice. These studies often lack any control group or use historical data that may not be truly comparable. The promoters of expensive new devices then claim that they are relying on the best available evidence. This trial shows better evidence can (and should) be gathered. And in this case, good quality evidence indicates little difference in the techniques, despite what all the big hospital billboards about robot surgery proclaim.

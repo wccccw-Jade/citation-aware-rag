@@ -1,0 +1,9 @@
+# PubHealth Item 5180
+
+Dataset source id: 5190
+Document id: 11245
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Drawing on concerns raised earlier this year by a study that found sun damage to skin continues even after exposure to the sun has stopped, this article cites several products that it says may help limit the damage, but it offers scant evidence to support their use. The article takes a consumer’s guide approach to address the potential impact of post-sun exposure skin care. It is an interesting, under-explored area but the primary evidence is anecdotal from those selling the products they tout as beneficial. Reader comments left on the newspaper website were not flattering: This article is not a thorough coverage of well known remedies for sun burn. It is clearly a paid advertisement thinly disguised as reporting. people have to realize you can make any claim you want with these things, you don’t have to prove it. Is this an infomercial? Where is the evidence? Please explain the mechanism by which this glop enters skin cells – for that matter, prove that it does! This is a commercial of products which are intended for health protection but were never clinically tested. The incidence of skin cancers has been increasing in recent decades, according to the World Health Organization, with 2 million to 3 million non-melanoma skin cancers and 132,000 melanoma skin cancers expected to occur this year. That incidence is expected to continue to rise. If using a protective skin product after exposure to the sun could cut one’s skin cancer risk, that might be useful information to many people. What’s more, Americans spend billions of dollars each year on skin care products, so aside from the vital health questions, readers deserve to know whether they are getting what they are paying for.

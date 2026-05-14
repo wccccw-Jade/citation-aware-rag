@@ -1,0 +1,9 @@
+# PubHealth Item 2202
+
+Dataset source id: 2206
+Document id: 10671
+
+Fact-check label: true
+
+Evidence and explanation:
+The story provides the reader with a comparison of anti-depressants' effectiveness and the risk of suicidal thoughts or actions in young children and teenagers. The story describes results of a recently published meta-analysis and explains why the results of this new study may differ from data on which an FDA warning of increased suicidal behavior in children taking anti-depressants was based. The story provides the number needed to harm as well as other quantitative information on the benefits of anti-depressants for particular mood disorders. The story focuses on only one potential harm of treatment, i.e. suicide and suicidal ideation. It would have been reasonable to report on other common side effects of these medications (e.g. stomach problems, insomnia, irritability, and mania in some children). While these medications are considered safe – even with the FDA warning – there is little long-term data on their safety in these groups. The original version of the story by the Associated Press included several items left out by the Cleveland Plain Dealer when it picked up the story: an interview with a second, independent expert source; mention of other treatment options such as psychotherapy, especially cognitive behavioral therapy. The story interviews one of the lead authors of the study. However we are not told if he has financial ties with the pharmaceutical makers of anti-depressant medications. The JAMA article gives conflict of interest info and there are potential conflicts that are not reported in the news story. Other clinical and patient perspectives are needed to provide balance to the story and as a means of discussing this treatment option for children and teenagers.

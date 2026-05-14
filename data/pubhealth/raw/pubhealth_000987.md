@@ -1,0 +1,9 @@
+# PubHealth Item 987
+
+Dataset source id: 986
+Document id: 11486
+
+Fact-check label: true
+
+Evidence and explanation:
+Irritable Bowel Syndrome (IBS) is a common, though mysterious condition. Drugs that have come on the market recently have been somewhat disappointing, though one wouldn’t know that given how heavily marketed they are. This story reports on a new approach to treating IBS: psychotherapy. This story does a very good job of explaining the new approach and placing it in context with existing therapies. By accurately describing the prevalence of IBS, the story avoids disease mongering. The story clearly states that psychotherapy has been around for a while, but that it is a new approach for treating IBS. The story clearly states that cognitive behavioral therapy is available, but it is not clear how widely available it is and how difficult it may be to find a practitioner. The story states that psychotherapies are “without side effects.” While that may reflect the existing data, it would have been better for the story to comment on potential side effects or harms without dismissing them. The story mentions drug treatment as the alternative, but it could have provided more information on lifestyle changes like diet and exercise. The story provides sufficient details about the design of the recent studies and it does provide quantification of benefits in absolute terms for the 10-week and 4-week groups compared to no treatment. Although the story suggests that the therapy can be expensive, this is not sufficient information on costs. Because the story quotes multiple sources, the reader can assume that the story does not rely on a press release as the sole source of information. Although there was a press release issued from the meeting, the story does not lift text from it and the story also quotes researchers who were not included in the press release. http://www.ddw.org/wmspage.cfm?parm1=451 Overall, a solid piece of journalism.

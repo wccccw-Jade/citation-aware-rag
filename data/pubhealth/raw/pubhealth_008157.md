@@ -1,0 +1,9 @@
+# PubHealth Item 8157
+
+Dataset source id: 8181
+Document id: 9158
+
+Fact-check label: false
+
+Evidence and explanation:
+Even though this news release about the first FDA-approved neurostimulator intended to increase tear production in patients with dry eye is carefully worded, it glosses over key points and leaves out useful information and context. It says primary endpoints were met, without explaining precisely what those endpoints were. It reports the total number of patients in two trials (145), but not how many were in each one or whether any dropped out or had unsatisfactory results. It does not mention that one trial involved just a one-day test in which some patients compared the device to a sham device. It includes a quote that calls the device a “technological breakthrough,” even though there have not been any trials comparing the device to existing treatments. Another quote from a university professor fails to note that he receives consulting and speaking payments from the company. Dry eyes can result from a number of diseases, medications, use of contact lenses, and aging. It is a fairly common condition (with a prevalence of about 14 percent) and in serious cases, dry eyes can cause pain and blurred vision, and increase the risk for infection, inflammation, and ulcers of the corneas. But this release doesn’t satisfactorily explain how patients benefit from the neurostimulator device. It does underscore the importance of Clinicaltrials.gov and PubMed. These federal websites provide information about human clinical trials and follows up with published research results. The news release referred to two studies, but left out useful information. Searches of the public websites revealed that one of the studies lasted just a single day, and that there have been other trials of the device that were not mentioned in the release.

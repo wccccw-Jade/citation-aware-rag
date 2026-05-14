@@ -1,0 +1,9 @@
+# PubHealth Item 5344
+
+Dataset source id: 5357
+Document id: 11040
+
+Fact-check label: true
+
+Evidence and explanation:
+This 5-star story is an example of excellent health journalism. The story provides a thorough review of the pros and cons of MRI breast cancer screening. The reporter cites unbiased sources who provide evidence-based advice. What is particularly noteworthy in this story is the discussion of the value of early screening and treatment, and whether this screening is finding cancer that would cause harm. This is not a concept often found in stories such as this. The story notes annual incidence of breast cancer, as well as the estimated risk of a woman developing breast cancer during her lifetime, depending on whether she is at higher or lower risk of the disease. The story notes who might benefit from the additional screening—i.e. only those women at higher risk–and provides the downside of overzealous screening for breast cancer in lower-risk women. The story does an excellent job detailing the pros and cons of MRI screenings for breast cancers for any woman who is considering this as an adjunct to, or in lieu of mammography. The story lists data that 5 percent to 25 percent of MRI tests (not just those for breast cancer) are wrong, causing psychological distress and unnecessary treatment. The story reviews various methods of screening for breast cancer and notes the follow-up procedures (i.e. biopsies and other surgeries) and the medical decisions that must be made if there is a suspicion of cancer. The story lists the additional cost of this screening and notes that it may not always be covered by insurance. The story also mentions the cost to public health for these expensive diagnostic tools. All in all, an excellent job by a veteran reporter at a top newspaper.

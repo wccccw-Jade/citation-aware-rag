@@ -1,0 +1,9 @@
+# PubHealth Item 1085
+
+Dataset source id: 1084
+Document id: 10908
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This story shows many strengths, and wisely sets a single research report from the New England Journal of Medicine inside a larger debate about whether thousands of young men should receive the costly vaccine Gardasil. The story wades into discussions of sexual orientation and even at what age an individual knows this truth about him or herself. These difficult topics are germane to the epidemiology of the many human papillomaviruses, and which people of both sexes are at highest risk from infection. Bravo for reading the editorial that accompanied the study article, and chasing down its author on deadline to get her comments. Bravo for asking “why” when confronted with the seemingly contradictory news that Gardasil can prevent genital warts but is not recommended by the CDC for universal prevention in young men. Since Gardasil (and competitor, Cervarix) debuted a few years ago, there have been heated disagreements about the price and most helpful distribution of the vaccines and whether both sexes should receive them. This major study, demonstrating effectiveness in young men, adds important information to complex questions of cost and prevention. But it needs to be reported in a way that provides some of the history and context for readers. HPV infection is transmitted sexually, so questions of prevention within the entire US population of men and women involve potentially vaccinating both sexes. However, both sexes are not at the same level of risk for potentially deadly cancers years later. Women bear the brunt of the health risks, but men can pass the infection to their partners and can suffer from cancerous and non-cancerous effects of the virus. This new study provides additional information for the ongoing discussion about the public health role of immunizing young men against HPV.

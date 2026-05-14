@@ -1,0 +1,9 @@
+# PubHealth Item 7750
+
+Dataset source id: 7774
+Document id: 10186
+
+Fact-check label: false
+
+Evidence and explanation:
+Man has deep tissue massage on the back.This news release from the American Massage Therapy Association (AMTA) encourages people to seek out massage therapists in order to fend off seasonal colds and flu, since regular massages “make the immune system stronger,” the release says. To support this point, the news release cites three studies from 2001, 2004 and 2010 and talks vaguely about the results of each trial. Sweeping, empty language is used, such as “enhanced immune function” and “significant changes,” without further elaboration. Hardly any data is given, including how many people participated in each study, what exactly the trials measured, the extent of the benefits and for how long each trial ran. And how does the AMTA know that these effects were due to the massage therapies themselves and not other factors? It is also unclear what exactly is newsworthy about this topic, since all of the studies took place years ago. More importantly, the release makes sweeping assumptions between what was actually studied (and in what population) and their recommendations for the general population about “seasonal diseases.” Even without looking at the original studies, this is sloppy and done haphazardly. Note: For a deeper dive into this issue, take a look at Tim Caulfield’s recent post on Immune Boost Bunk. People often seek alternative therapies to stay healthy, especially during flu season. This may be especially important for those who have compromised immune systems and those who could be more affected by the flu, such as young children and the elderly. But it’s always concerning when professional organizations tout approaches that aren’t backed by solid evidence. This has the potential to steer people away from prevention methods that are actually shown to be effective.

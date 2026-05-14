@@ -1,0 +1,9 @@
+# PubHealth Item 2125
+
+Dataset source id: 2127
+Document id: 10585
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release from the California Walnut Commission describes a study showing that a healthy diet including walnuts is associated with lower risk of impaired physical function in older women. Researchers examined data from more than 50,000 participants in the Nurses’ Health Study, a large-scale, decades-long epidemiological project funded by the National Institutes of Health, that assessed risk factors for cancer and cardiovascular disease. They found an association between a diet that included certain fruits, lettuce and walnuts and reduced physical impairments. The news release echoes a host of previous industry declarations that walnuts “may” provide a certain health benefit that in reality could probably be obtained from a range of foods. Laudably, this news release does offer some cautions about the findings. It describes study limitations and states that researchers “emphasized that overall diet quality, rather than individual foods, may have a greater impact on reducing risk of physical function impairments.” Physical function — defined as the ability to perform certain tasks such as climbing stairs, walking several blocks, and dressing yourself — is a key driver of mobility and independent living in older adults and a strong predictor of mortality. However, the direct role of diet in preventing the decline of physical function hasn’t been well studied. Biological research has shown that greater adherence to a healthy diet is associated with better lipid and inflammatory profiles and lower cardiovascular disease risk, which are strongly related to physical function. This study’s large sample size, long-term follow-up, and wide range of data points seem to bolster evidence of a connection between a healthy diet and prolonged quality of life.

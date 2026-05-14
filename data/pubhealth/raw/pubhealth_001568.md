@@ -1,0 +1,9 @@
+# PubHealth Item 1568
+
+Dataset source id: 1570
+Document id: 11182
+
+Fact-check label: mixture
+
+Evidence and explanation:
+So, yes, it mentioned the drop out rate but then said it wasn’t unusual. But didn’t ever explain why so many dropped out. Yes, it said the drug hadn’t been priced yet, but we don’t find that sufficient (details given below). Yes, it had one external perspective, but that was someone who works for another diet drug company (a fact that at least the story notes). In cheerleading fashion, the story let unnamed experts predict FDA approval. Yet the story never evaluated the quality of the evidence sufficiently enough to let readers know whether a study like this could be trusted. This story matters because obesity is an incredibly common problem in the US, with major impacts on morbidity, mortality, quality of life, and costs. People, doctors, health plans, and drug companies all want treatment options that help people lose weight and keep it off safely. This story reports on several new drugs that are likely to gain market approval by the FDA, which would effectively double the number of drug treatment options currentlly available to patients and providers. The biggest problem with weight loss drugs in the past has been that the side effects seemed to greatly overshadow their impact on body weight, and all weight loss drugs deserve close scrutiny on their side effect profile. Given the high prevalence of obesity in our country (1/3 of all adults), close attention should be paid to the cost of any new interventions, which if applied broadly could dramatically impact national health care expenditures. There is so much hype right now about this coming wave of diet drugs, and reporters need to dial the company claims back a notch (at least) and examine how much better these drugs work than lifestyle changes or existing therapies.

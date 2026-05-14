@@ -1,0 +1,9 @@
+# PubHealth Item 6124
+
+Dataset source id: 6143
+Document id: 10860
+
+Fact-check label: true
+
+Evidence and explanation:
+A Vanderbilt University news release about an important study on prostate cancer treatments and quality of life left us disappointed: Why so few specifics on the measured benefits? In this 3-year study of more than 2,500 men with prostate cancer, researchers compared how these patients rated their quality of life after treatment by surgery, radiation or active surveillance. The study found that patients who chose active surveillance reported fewer side effects, but the release disappoints with a lack of numbers and precision. The release does not even tell us the number of participants in the study. Since this is a very timely study about a widely discussed topic, we wish the release had provided numbers and context. An estimated 250,000 men are diagnosed with prostate cancer in the United States each year, according to the National Cancer Institute, and about 80 percent of those cancers are localized — meaning the disease has not spread from the organ. These patients deserve clear information on the risks to their quality of life from surgery and radiation, as well as potential benefits. The emotional impact of a cancer diagnosis was not examined in this study. Previous research has suggested that emotional distress is an important predictor of men opting for surgery after receiving a prostate cancer diagnosis. Because of the length of the study, the risk of death from prostate cancer following any treatment can not be concluded. As the release notes, that will require studies lasting 10 years or more. Both individual patients and society-at-large have a lot to gain or lose from the way prostate cancer is treated, as discussed in this Journal of the National Cancer Institute economic analysis.

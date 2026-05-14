@@ -1,0 +1,9 @@
+# PubHealth Item 8950
+
+Dataset source id: 8977
+Document id: 8941
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release covers a study that tested whether a tropical plant extract improves fibromyalgia symptoms in rats. It says the study of soursop — also known as graviola or guanabana — was published, but doesn’t say where. We couldn’t find it. The release feeds rampant misinformation about this plant, falsely announcing that soursop extract is a remedy for chronic pain, anxiety and depression associated with fibromyalgia and can improve the lives of patients with that very common condition. Not until two-thirds of the way into the text do we learn those claims are based on a rat study. There’s no specific data about the findings, no caution about harms, and no mention that benefits found in animal studies seldom translate to humans. Nor does it mention the plant’s widespread availability — a situation we find worrisome given unproven medical claims that glut the internet. In sum, this one left us with a very bad taste in our mouths. Fibromyalgia can be difficult to treat effectively. The condition is not uncommon, and although evidence-based treatment is available, the goal is symptom management. Many patients are interested in “natural remedies” to avoid long-term reliance on prescription medicines. But news releases based on animal studies are obligated to alert these interested readers that positive findings don’t yet apply to humans. We hold not only the university responsible for this news release, but the American Association for the Advancement of Science, whose EurekAlert! news release service disseminates releases for a fee, but does not enforce standards that would prevent such weak releases from being disseminated worldwide by their service. We’ve written in more depth about this troubling policy in the past.

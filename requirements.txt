@@ -1,5 +1,6 @@
 numpy>=1.26.0,<2
 pandas>=2.2.0
+datasets>=2.19.0
 pydantic>=2.7.0
 SQLAlchemy>=1.4.0,<3
 psycopg2-binary>=2.9.9

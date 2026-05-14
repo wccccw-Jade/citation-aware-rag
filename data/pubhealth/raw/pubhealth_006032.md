@@ -1,0 +1,9 @@
+# PubHealth Item 6032
+
+Dataset source id: 6048
+Document id: 10110
+
+Fact-check label: true
+
+Evidence and explanation:
+This was an excellent story looking at practice variation and trends in medicine, namely, that of medically-managed birth which can potentially result in harms to patients and may increase healthcare costs. Cultural trends underpinning increased use are handled well: The story speculates that the increased practice of inducing labor may be influenced by obstetrician and patient schedules and the idea that it is equally safe to schedule a birth as it is to wait for a natural labor and delivery. The story is quite balanced and notes ways to reduce practice variation by adhering to established guidelines. The story also notes that requests for early labor induction may be restricted or denied by certain payers and at some healthcare settings, as the practice is not in accordance with most previously mentioned guidelines. The harms they include are well-described (if poorly supported by definitive evidence). The story addresses cost by implying there is an overall cost savings when labor is not induced early and the birth process is not medically managed if a mother and fetus are otherwise healthy. This story suggests that savings may be in the form of fewer birth complications, decreased risk of hemmorrhage and transfusion, less pain medication for longer labors, shorter hospital stays for infection or unplanned caesarean births and fewer days in neonatal intensive care for problems related to immature lungs and related respiratory problems. It is optimistic to think that the sort of data they discuss is sound; actual evidence-based cost data is meager or absent. The article likely overstates the evidence, but it does directly address cost issues. Overall, a solid piece of reporting that addresses some of the complex societal issues that may be driving the phenomenon of medically managing childbirth.

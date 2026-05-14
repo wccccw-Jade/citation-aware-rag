@@ -1,0 +1,9 @@
+# PubHealth Item 2345
+
+Dataset source id: 2349
+Document id: 11365
+
+Fact-check label: mixture
+
+Evidence and explanation:
+A study of about 600 patients at a non-profit Orlando hospital group showed that two markers in the blood of patients who had blows to the head could predict whether they had suffered head injuries. The news release about the study, published in JAMA Neurology, drew immediate widespread press coverage, including stories in the New York Times, Newsweek, NBC News and Time, whose story we also reviewed. We thought the release was well-written, but could have been improved with a better summary of the study evidence, by addressing funders, and by including a caveat that more study is needed. We were a bit troubled by the release talking about children’s injuries when this study only evaluated adults. Thousands of people — both children and adults — suffer blows to the head and some suffer a concussion (also now know as traumatic brain injury or TBI). Unfortunately, no perfect test exists to quickly diagnose the level of severity of the injury other than symptoms or anatomic changes detected on a computed tomography (CT) scan. In the majority of cases, the symptoms resolve over time but in a minority of cases, symptoms worsen. A blood test for a potential marker of damage to the brain might one day help keep athletes and workers from returning to their work (or play) too soon. A simple test that could distinguish between those who have a mild injury from those with more damage would be useful. We previously reviewed the media’s handling of another approach using eye movements to distinguish between the two groups. In both instances, the research findings were encouraging. But we cannot stress enough that encouraging results are not conclusive. The title of the report clearly overstates the study results. While the test may eventually be useful in the detection of concussion there is little evidence at the moment that it can.

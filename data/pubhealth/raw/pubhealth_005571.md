@@ -1,0 +1,9 @@
+# PubHealth Item 5571
+
+Dataset source id: 5587
+Document id: 11423
+
+Fact-check label: mixture
+
+Evidence and explanation:
+A news release from the University of Texas MD Anderson Cancer Center describes a journal article about a study that found patients with epithelial ovarian cancer (EOC), the most common form of ovarian cancer, had better overall survival times if they were taking beta-blockers — a fairly common medication used to reduce blood pressure. However, the study doesn’t seem to support the sweeping claim of the news release headline that the heart medication was “shown to prolong ovarian cancer patients’ survival.” There’s no mention of any of the limitations of the study design or the potential harms associated with the use of beta blockers. Our review details these concerns and provides some suggestions for improvement. [Editor’s note: we also looked at Wall Street Journal story about this study to see if the problems we found in the release were evident in the story. Our review has the details.] Ovarian cancer is the eighth most common cancer for women in the United States, and is diagnosed in approximately 20,000 women each year. It is responsible for about 14,000 deaths each year. It is, in short, all too common and can be all too deadly. Evidence that a drug already on the market could prolong life for EOC patients is certainly worth reporting. However, it’s important to clearly define the limitations of that evidence. In matters of life and death, patients and their families are often willing to grasp at straws. Hope is a precious commodity, and it is important that EOC patients and their families not be given false hope. Misleading news releases can lead to misleading media coverage, and research institutions need to be sure they are writing about research findings responsibly.

@@ -1,0 +1,9 @@
+# PubHealth Item 142
+
+Dataset source id: 141
+Document id: 9747
+
+Fact-check label: true
+
+Evidence and explanation:
+This Wall Street Journal article nicely summarizes the findings of a retrospective study of 1,400 cases of women with ovarian cancer; some of whom had been prescribed beta-blockers for high blood pressure and appeared to have better outcomes than those not taking beta-blockers. It hits on nearly all of our criteria, and was more thorough and balanced than an MD Anderson news release that initially announced the findings to the world. (More on that below.) A bit more detail on the cost of these drugs, and a bit more restraint in discussing the outcomes of a small group of women who were taking a particular class of beta-blocker and had much better survival statistics, would have rounded out this story. We often say that news releases can set the tone for subsequent media coverage of new research, and that a poor news release can lead to a great deal of misinformation reaching the public. We’ve compared this phenomenon to sheep following one another. However, it’s also true that good reporting can fill in the holes left by an incomplete news release and present a more balanced portrait of findings to readers. In this case, MD Anderson announced the results of this study with a news release that has been reviewed separately on HealthNewsReview.org and found wanting in several areas. Specifically, it used inappropriate language to describe the benefits and lacked a discussion of harms and limitations of the research. This story by and large addresses those issues and demonstrates how good health reporting can play an important and useful role in informing the public. There are plenty of reporters out there who can’t be led like sheep, and our project aims to shine a light on them and hopefully cultivate many more of them.

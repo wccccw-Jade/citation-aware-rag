@@ -1,0 +1,9 @@
+# PubHealth Item 8825
+
+Dataset source id: 8852
+Document id: 9521
+
+Fact-check label: false
+
+Evidence and explanation:
+This story is a rehash of a misleading University College London news release that reported results of a phase 3 trial of a cancer treatment called vascular-targeted photodynamic therapy (VTP), which involves injecting a light-sensitive drug into the bloodstream and then activating it with a laser to attack tumor tissue. We also reviewed the news release. The story reported some quantified benefits and harms that were mentioned in the news release. But this coverage does not explain the full extent of quantified benefits and harms, offers no discussion of study limitations or the potential cost of this treatment, and falsely conveys that low-risk prostate cancer requires prompt treatment. There are no independent sources and no mention that the trial was funded by the biotech company that developed the treatment. News outlets that run PR pieces and call them news stories undermine the credibility of health journalism and erode the ability of real health reporting to advance public dialogue. This is a case in point. Of the millions of men diagnosed with low-risk prostate cancer, those who read this story could be misled into believing they need treatment for something that will never harm them. The exaggerated claims in this story could spawn needless anxiety for many men and prompt inquiries to their physicians about a treatment option that at this point has no obvious benefits. Few men with low-risk prostate cancer will die from it, and this story never makes that point. Unfortunately, it isn’t rare for misleading news releases to influence coverage. A recent study described in a HealthNewsReview.org blog post showed that exaggerations about medical findings in news releases increase the odds that news coverage will also exaggerate those findings.

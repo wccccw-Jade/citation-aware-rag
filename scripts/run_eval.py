@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -11,11 +12,16 @@ from src.pipeline import CitationAwareRAG
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--eval-path", type=Path, default=Path("data/ragpapers/eval/qa_eval.json"))
+    parser.add_argument("--output-path", type=Path, default=None)
+    args = parser.parse_args()
+
     settings = get_settings()
     rag = CitationAwareRAG(settings)
     rag.load_index()
-    output_path = settings.processed_data_dir.parent / "eval" / "eval_results.csv"
-    rows = run_evaluation(rag, Path("data/eval/qa_eval.json"), output_path)
+    output_path = args.output_path or settings.processed_data_dir.parent / "eval" / "eval_results.csv"
+    rows = run_evaluation(rag, args.eval_path, output_path)
     summary = summarize_metrics(rows)
     for index, row in enumerate(rows, start=1):
         print(

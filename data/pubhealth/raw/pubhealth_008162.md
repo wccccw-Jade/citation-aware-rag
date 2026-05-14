@@ -1,0 +1,9 @@
+# PubHealth Item 8162
+
+Dataset source id: 8186
+Document id: 9179
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release heralds the FDA’s first approved treatment for adults who get up at least twice nightly to urinate due to a condition known as nocturnal polyuria, or overproduction of urine at night. The news release does a good job of cautioning that this treatment isn’t for everybody who suffers from frequent nighttime urination, but it falls short in describing the size of the benefit, which is a small improvement over a placebo. It also downplays the fact that this is an old drug — desmopressin — being adapted for a new use. While it’s good to see old drugs re-purposed in ways that might be beneficial for patients, the flip side is that companies typically use this as an opportunity to raise the price of the medication. Frequent urination at night is a common annoyance, especially in older people. In other words, it’s prime click bait material. So it didn’t surprise us to see at least one media outlet exaggerate the benefits of this product. Men’s Health ran with this misleading story: “Here’s How You Can Stop Waking Up Every Night to Pee.” But in this case you can’t blame the news release which did a good job of explaining that this treatment is designed to treat only a specific subset of cases, known as nocturnal polyuria, in which the body produces a disproportionate amount of urine at night. It’s not for the entire 20 percent or so of men who suffer from frequent nighttime bathroom runs as Men’s Health implies. It would have been helpful if the release had shared the estimated prevalence of this condition. This appears to be an attempt to expand the market for an existing drug. If the pricing trend holds, this approval of an older drug for a new indication may result in a significant price increase.

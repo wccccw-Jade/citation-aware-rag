@@ -97,7 +97,7 @@ class DocumentResponse(BaseModel):
                 {
                     "id": "58bfcf60-9ce1-4c17-9516-1336009a542b",
                     "filename": "paper.pdf",
-                    "source_path": "data/raw/paper.pdf",
+                    "source_path": "data/ragpapers/raw/paper.pdf",
                     "content_type": "application/pdf",
                     "status": "indexed",
                     "error_message": None,

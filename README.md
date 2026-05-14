@@ -12,10 +12,13 @@ citation-aware-rag/
 ├── .gitignore
 ├── LICENSE
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── eval/
-├── faiss_index/
+│   ├── ragpapers/
+│   │   ├── raw/
+│   │   ├── processed/
+│   │   ├── index/
+│   │   └── eval/
+│   ├── nq/
+│   └── pubhealth/
 ├── notebooks/
 ├── app/
 ├── scripts/
@@ -38,7 +41,7 @@ citation-aware-rag/
 
 1. Create a virtual environment and install dependencies.
 2. Copy `.env.example` to `.env` and adjust settings if needed.
-3. Put PDFs or `.txt` files under `data/raw/`.
+3. Put PDFs or `.txt` files under `data/ragpapers/raw/`.
 4. Build the index:
 
 ```bash
@@ -83,7 +86,7 @@ python scripts/worker.py
 Upload a document. The API saves the file, creates a queued indexing task, and returns immediately with `task_id`:
 
 ```bash
-curl -F "file=@data/raw/1.pdf" http://127.0.0.1:8000/documents/upload
+curl -F "file=@data/ragpapers/raw/1.pdf" http://127.0.0.1:8000/documents/upload
 ```
 
 Poll the task until it becomes `indexed`:
@@ -132,7 +135,7 @@ Errors use a consistent response shape and include the request id:
 }
 ```
 
-The service persists uploaded document status and index task status in a database. Local development defaults to `sqlite:///data/app.db`; PostgreSQL can be enabled with:
+The service persists uploaded document status and index task status in a database. Local development defaults to `sqlite:///data/app.db`; uploaded files default to `data/ragpapers/raw`. PostgreSQL can be enabled with:
 
 ```bash
 export DATABASE_URL="postgresql+psycopg2://rag_user:rag_password@localhost:5432/citation_rag"

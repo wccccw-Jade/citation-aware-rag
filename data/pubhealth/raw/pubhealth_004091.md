@@ -1,0 +1,9 @@
+# PubHealth Item 4091
+
+Dataset source id: 4101
+Document id: 9161
+
+Fact-check label: mixture
+
+Evidence and explanation:
+No mention of the harms and costs of apomorphine in treating Parkinson’s disease symptoms are found in this American Academy of Neurology news release. The study followed 107 people with advanced Parkinson’s disease for 12 weeks after treating them with either apomorphine or placebo. The study measured the participants’ “off” times, which refer to periods when a medication isn’t working well, causing symptoms to worsen. Although the news release provides in-depth historical context and information on the availability of the drug, we wish it could have more critically evaluated the evidence, as well as provided more numbers to illustrate the benefit claims. A discussion on the limitations of evidence, namely how this study may have been through limited peer review, would have been useful. The news release does disclose the funding source — Britannia Pharmaceuticals, the maker of apomorphine — but it doesn’t mention that the first author has received speaking and consulting fees from Britannia for at least 8 years. Parkinson’s disease is a progressive disorder affecting the nervous system caused by the loss of dopamine-producing brain cells. It affects more than 4 million people worldwide, according to the US National Library of Medicine. About 60,000 new cases are identified each year in the United States. Although there is no cure, many of its symptoms (including tremor, slowed movement, rigidity and problems with balance) can be managed with drug therapies, the main one being levodopa. After long-term use, however, the benefits of levodopa may wear off more quickly after each dose, prolonging “off” times in Parkinson’s patients. If there is another medication that is safe and shortens “off” times, it may provide help to patients who develop resistance to a certain drug, especially with long-term use.

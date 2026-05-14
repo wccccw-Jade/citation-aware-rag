@@ -1,0 +1,9 @@
+# PubHealth Item 2863
+
+Dataset source id: 2873
+Document id: 11019
+
+Fact-check label: mixture
+
+Evidence and explanation:
+In this randomized controlled study of 871 patients, researchers found a slight improvement (44.1% for users of nasal irrigation vs. 36.6% for those using another treatment method) based on a measurement of clinical and self-reported symptoms from patients with sinus infections who were given instructions in how to use a salt solution to wash the inside of their nostrils. Patient volunteers in the study were assigned to one of four groups: those receiving a nasal irrigation solution, steam, a combination of steam and nasal irrigation and “usual care” which referred to medications or referral, at the discretion of the physician. The study found that after six months there was a very modest decrease among nasal irrigation users in the use of over-the-counter medications (59.4% v. 68.0%) and those intending to seek medical consultation for symptom relief in the future. The release uses careful language throughout and doesn’t over-sell the benefits. But the release is lacking on data that would quantify the benefits as well as information on cost and harms. This matters because chronic sinus infections are a reason millions of people may be prescribed antibiotics, even though such medicines often do not help the symptoms. Reducing the use of antibiotics could help the world avoid the growth of resistant bacteria — which are a big threat. This study about alternatives of nasal irrigation (washing with salt solution) or inhaling steam is aimed at proving that people can feel better without as frequent of doctor visits and without antibiotics — which often are not effective and contribute to the resistance problem. But the study itself showed such modest improvement for patients that it didn’t contribute greatly to this desired outcome.

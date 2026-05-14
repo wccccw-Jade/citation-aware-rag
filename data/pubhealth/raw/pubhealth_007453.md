@@ -1,0 +1,9 @@
+# PubHealth Item 7453
+
+Dataset source id: 7477
+Document id: 10109
+
+Fact-check label: true
+
+Evidence and explanation:
+This is a nice, concise piece that highlights a new surgical device designed to fit into an already crowded field. On its face, implants tailored for women’s knees have a certain appeal. This story asks whether their merits extend beyond marketing to improved outcomes after surgery—in the form of greater pain relief or patient satisfaction. Readers quickly learn that no one knows. The unfolding story covers a lot of ground in a very short space (375 words). It points out that there is so far no credible evidence to show whether the Gender Knee by Zimmer is as good as, better than, or worse than other artificial knees designed by competing manufacturers. Though it’s more expensive than other implants, quantifying the benefits of the Gender Knee is currently an exercise in speculation. Three different sources fill out the tale—a spokesperson for the medical society representing the nation’s orthopaedists, a spokesperson for knee implant manufacturer Zimmer, and chief of the knee service at one of the busiest joint replacement centers in the world (who has consulted for one of Zimmer’s chief competitor, the story notes)—a balanced group whose potential conflicts readers can judge for themselves. Unfortunately, the focused piece leaves out important information that would provide even more balance. For example, an extra sentence could have explained that knee osteoarthritis is a degenerative condition that causes pain and impairs mobility in mostly older men and women. Moreover, all knee operations have potential harms (e.g. blood clots, infection, even death), and all require time for recovery. In part, that’s why some people choose to opt out. For those that do, there are reasonably effective nonsurgical options. Aside from these relatively minor caveats, however, this is a well done story.

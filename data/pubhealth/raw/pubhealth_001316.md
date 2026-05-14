@@ -1,0 +1,9 @@
+# PubHealth Item 1316
+
+Dataset source id: 1318
+Document id: 10368
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release about a foot wrap device to treat symptoms of restless leg syndrome tries to portray study results as newer, more novel and more distinctive than they really are. While the study was just published in the Journal of the American Osteopathic Association, the results were submitted to the FDA more than five years ago and the key findings have been used to market the device that was cleared for sale in 2013. Besides omitting the history of the study, the release promotes this foot wrap as if it were the only alternative to drug treatment, when there are other devices also on the market, as well as recommendations for massage, hot baths, lifestyle changes and other ways people can try to control bothersome leg movements. The release would have been stronger had it noted that the device is already on the market, and at what cost. More details on the trial results, including limitations, as found in the published study, would also have been useful. Restless leg syndrome (RLS) is a common but poorly understood neurological condition that leads to discomfort in the lower legs. For most individuals, the symptoms are mild and mainly impact sleep. For those with more severe symptoms, the discomfort in the legs can also be bothersome during the day. More than nine million people in the US may be dealing with moderate to severe RLS. Several times that many have milder symptoms or similar conditions they may confuse for RLS. That means that many millions of people may be misled by a news release that misstates the novelty of a foot wrap device and the study being used to promote it. The potential for confusion is demonstrated by the number of news organizations that apparently believed these study results are new, when they’ve been circulating for years and used in product marketing since at least early 2015.

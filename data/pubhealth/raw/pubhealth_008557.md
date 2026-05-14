@@ -1,0 +1,9 @@
+# PubHealth Item 8557
+
+Dataset source id: 8584
+Document id: 11408
+
+Fact-check label: false
+
+Evidence and explanation:
+The story describes the condition of dry eyes, including what it is, how it may affect people, who is affected, and what treatments might be tried (although the information on available treatments is cursory). The story misses an opportunity to develop treatment information. Story limitations include no clinical trial data on specific treatments, including whether any of the treatments mentioned are effective (other than they “help”) and whether one is any better than another. Info is also lacking on what exactly is in the prescription eye-drops, other than to say an “anti-inflammatory” medication. Readers are told how often one drug must be taken “for maximum effect,” but weâ€™re not told what that maximum effect may be. Is it complete relief? Partial? Readers should also be aware that long-term safety of the prescription eye drops may be unknown if the duration of studies used for FDA approval were of short duration (a few months). Other limitations include lack of information about side effects, including short- or long-term side effects, and treatment costs. Last, the prescription eye drop treatment strategy is endorsed by a physician with ties to the manufacturer without attempt to obtain more objective input. If asked, many geriatricians would likely acknowledge that dry eyes is a common and bothersome symptom that can be easily managed and controlled with over-the-counter moisturizing drops. Yet, this story has elements of disease-mongering, telling readers about almost 5-million Americans over age 50 with symptoms ranging “from annoying to life-altering.” How many have simply annoying symptoms and may need nothing more than over-the-counter drops? No mention is made of the costs of any of the named approaches.

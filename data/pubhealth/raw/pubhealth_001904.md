@@ -1,0 +1,9 @@
+# PubHealth Item 1904
+
+Dataset source id: 1906
+Document id: 11598
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This release reports the results of a randomized, multicenter, sham-controlled clinical trial testing the safety and efficacy of a new approach to controlling essential tremors in the elderly — magnetic resonance imaging (MRI)-guided focused ultrasound — to alter the thalamus in the brain and thus control tremors. The approach would be an alternative to the current procedure — deep-brain stimulation — which is more invasive. The study showed substantial improvement in a reduction of tremors for many patients at three-, six- and 12-months. But it also showed that about a third of the patients in the study experienced not insignificant adverse effects from the procedure. The release presents a glowing picture of the promise of this new approach while disregarding the caveats offered both in the journal paper and an accompanying editorial about the study. To see how a news outlet covered this new research, see our review of a STAT article. Like the news release, the STAT story didn’t provide us enough quantification of the benefits or mention a potentional conflict of interest between researchers and device manufacturers. But the STAT article picked up on some things the release missed, including more discussion of the harms observed in the study. Estimates are that essential tremors affect as many as 10 million Americans, many of whom are not helped by medications and who may not be candidates for the current surgical remedy — deep-brain stimulation. If proven safe and effective after long-term studies, this less invasive alternative would give patients and health care professionals more options for dealing with a condition that negatively affects the quality of life for many.

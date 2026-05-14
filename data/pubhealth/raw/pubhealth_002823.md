@@ -1,0 +1,9 @@
+# PubHealth Item 2823
+
+Dataset source id: 2833
+Document id: 9911
+
+Fact-check label: false
+
+Evidence and explanation:
+"""Ovarian cancer is one of the most difficult cancers to find and treat early. There are many reasons for this, including the fact that there are no good screening tests and that the symptoms are vague and easily attributed to other causes. This story reports on new recommendations being issued by a group of cancer advocates to make women aware of the symptoms and urge them to get treatment if these symptoms come on suddenly and persist for two weeks or more. This story does accurately describe the symptoms and explains why this may be important, but does very little to actually inform the viewer. The story does not comment on the strength of the available evidence to support whether early intervention in women with this combination of symptoms results in better outcomes. The story does not comment on potential harms of the recommendations. The story should have discussed the very high numbers of women who will have these symptoms but not have ovarian cancer. Given that these symptoms are very vague, this is a big concern. The story continually refers to the combination of symptoms as if it is truly """"new"""" information. The truth is, these symptoms have been known for a long time. What is novel is that advocacy groups have formalized recommendations on evaluating women with these symptoms and seemed to have organized a campaign to raise awareness. Finally, although the story mentions the survival rate for early versus late stage ovarian cancer, this is not adequate information on the benefit of treatment. The story should have provided more information on what percentage of women with these symptoms will indeed have ovarian cancer and what percentage will not. Although it may not yet be known what the benefit is of intervening in women with these symptoms, the story could have commented on this."""

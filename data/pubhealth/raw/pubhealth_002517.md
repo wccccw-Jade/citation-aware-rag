@@ -1,0 +1,9 @@
+# PubHealth Item 2517
+
+Dataset source id: 2524
+Document id: 10603
+
+Fact-check label: true
+
+Evidence and explanation:
+Hay fever, or allergic rhinitis, is an allergic reaction to pollen-producing plants, most commonly ragweed. It’s a common condition, inducing such symptoms as coughing, sneezing, runny nose and eyes, and wheezing. Treatments include avoiding exposure to allergens, over the counter and prescription medications, nasal sprays, and standard immunotherapy or “allergy desensitization”. This story reports on the results of a new study published in the New Enland Journal of Medicine on a new approach to treating hay fever – a ragweed vaccine. The story adequately describes the design of the current study, rightly pointing out that it was small and preliminary and that the study did not demonstrate effectiveness in an important outcome. The story accurately describes what is known about the harms of the vaccine at this time. However, the story should have mentioned that more research is needed to determine how safe the vaccine is. The story quotes two experts – the author of the current study and an allergy expert with the National Institute of Allergy and Infectious Diseases. The story does mention alternatives, such as medications, nasal sprays and standard immunotherapy. The story did state that “a commercial product is still years away.” The story also states that further studies could “eventually lead to drug approval by the FDA.” That’s true, but they could also lead to FDA rejection. It’s almost a meaningless line and could have been deleted without losing anything from the story. The story states that the therapy could cost “thousands of dollars.” However, that’s a broad range and we wish the story had told readers whether that means two or three thousand or ten or twenty. We know itÃ¢â‚¬â„¢s an early idea and cost projections are somewhat speculative. Overall, a well-balanced story.

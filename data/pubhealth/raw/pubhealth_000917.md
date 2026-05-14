@@ -1,0 +1,9 @@
+# PubHealth Item 917
+
+Dataset source id: 916
+Document id: 11364
+
+Fact-check label: true
+
+Evidence and explanation:
+Most readers would take the headline “U.S. panel triples Vitamin D intake guideline” to mean that people should seek to increase their consumption, when in fact the committee concluded that while recommending a higher daily intake of vitamin D than another committee did in 1997, almost all Americans already consume enough D and calcium. By including multiple comments from members of the committee as well as other experts who dissent from some of the report findings, the story shows readers that while this report represents a consensus, it does not mean there is unanimity among researchers. This story should have alerted readers that at least some of the experts quoted appear to have financial interests in this field. The huge national spending on vitamin D supplements shows that people are interested in the potential health benefits. While this story does a generally good job on the details of the Institute of Medicine report and reactions to it, casual readers will be misled by the headline and lead sentence that are out of sync with the tenor of the recommendations. In addition, there is a tone to the article – largely through the voices of interviewees – that may lead readers to think that the IOM panel was far too conservative in its conclusions. In comparison, the NY Times piece early and often stresses – early and often – that supplements are “unnecessary, harmful” and that “this report will make people more cautious.” Readers may also want to see Paul Raeburn’s comments on the Knight Science Journalism Tracker about different framing of stories on this IOM report: “How did we arrive at so many stories out of one report? …None of these stories is wrong. They simply reflect better, or worse, choices concerning what to focus on in a report such as this with multiple conclusions.”

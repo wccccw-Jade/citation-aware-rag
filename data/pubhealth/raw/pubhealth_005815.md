@@ -1,0 +1,9 @@
+# PubHealth Item 5815
+
+Dataset source id: 5831
+Document id: 9961
+
+Fact-check label: false
+
+Evidence and explanation:
+This story reports on two trials of a new treatment aimed at helping to reduce the risk of long-term lung problems in babies born very prematurely. While it makes note of both the expense of the new treatment as well as the challenges in deciding which infants are more likely to benefit from it, the story does not do as good a job as it could at describing the problem of interest, how the study was done, or of providing support for some expert statements that are included. For example, the story implies that all babies in both studies received nitric oxide therapy, when in fact the trials were both randomized, and one was blinded and placebo-controlled as well. This detail is important because it helps to reinforce the validity and strength of the findings–results from a randomized trial are often more reliable than those from trials in which all participants receive a therapy, or those in which patients are selected to receive a therapy. The fact that infants in both groups–those who received the therapy and those who didn’t–had similar rates of adverse effects means that nitric oxide as used in the studies appears to be safe. The story did not explain how big the potential benefit was. No details were provided on the numbers of infants who either did or did not develop bronchopulmonary dysplasia or other outcomes among each group. It would have been helpful to know more about the expert cited in the story–his quote stating that this therapy is “not a rescue therapy for dying babies,” helps to place this new information in context, but when he goes on to say that it is the therapy for the majority of premature babies who survive, it implies that nitric oxide has already been adopted as standard of care. In fact, it is still experimental.

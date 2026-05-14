@@ -1,0 +1,9 @@
+# PubHealth Item 8372
+
+Dataset source id: 8396
+Document id: 11114
+
+Fact-check label: true
+
+Evidence and explanation:
+"""This example of thorough reporting provides a valuable service by warning readers of the shaky basis and likely harms of Lupron treatment of children with autism. Part of a series by the Chicago Tribune. Stories on similar contentious topics too often settle into “he said, she said” duels that stick readers with the task of trying to decide whom to believe. By contrast, this story highlights the fact that not all medical journal articles are equal: there are solidly-based reviews of the evidence and then there are reports that proclaim bold conclusions despite questionable methods and spotty data. These reporters thoughtfully weighed the claims and clearly point out which side has the strong preponderance of evidence. As one quote underscores, autism “has become a cottage industry of false hope, and false hope is no gift to parents."""" Without faulting this piece of solid reporting, it is worth noting that false hope is not spread only by a few “bad apples.” Though it is an issue beyond the scope of this story, the more common threat comes from those in the mainstream who push medical interventions beyond the evidence base… and weak reporting that fails to challenge those claims. One hopes the effect of this report will be to raise the level of healthy skepticism of “breakthroughs” and “cures” of all varieties. On the other hand, readers might conclude merely that they need to keep an eye out for a few renegades; that would be the wrong lesson. Nowhere is “Buyer Beware” a more essential credo than in health care. This story equips readers to be wary of providers who have professional credentials and authorship of medical journal articles, yet lack evidence to justify the interventions they impose on their patients."""

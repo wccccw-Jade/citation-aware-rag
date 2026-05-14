@@ -1,0 +1,9 @@
+# PubHealth Item 7013
+
+Dataset source id: 7037
+Document id: 11321
+
+Fact-check label: false
+
+Evidence and explanation:
+"""This is a classic case where one newspaper's (the Washington Post) original story on a topic was not done justice in a shortened version picked up by another news organization (the St. Louis Post-Dispatch). The article describes new American Cancer Society breast cancer screening guidelines that now recommend that certain women at high risk of developing breast cancer receive annual MRI in addition to mammograpy and self exam. The original Washington Post story ran 975 words; the St. Louis story ran 491 words. Many of the criticisms noted above were adequately addressed in the original Washington Post piece. Missing in the St. Louis version but covered in the Washington Post original story: what the evidence is for such a recommendation. absolute data on the benefits of MRI screening. a balanced perspective of harms of MRI and breast cancer screening. information on the likelihood that insurance might cover these tests, and discussion of cost-effectiveness. input from independent sources with different opinions. a quote like this: """"You can find a lot of cancer, but that's not the same thing as helping people live longer or better,"""" said Russell Harris of the University of North Carolina. """"It's unclear how many women really will be helped and how many will be hurt by over-diagnosis and overtreatment."""" We have written before on this site about how unfortunate it is that some readers in some markets don't get to see the original version of a story as it is syndicated and re-distributed and repackaged in other places. This is another example of the important information that a reporter put in the original story – information that was left out in a shortened version – all for the sake of saving 484 words."""

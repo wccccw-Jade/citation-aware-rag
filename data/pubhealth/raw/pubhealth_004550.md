@@ -1,0 +1,9 @@
+# PubHealth Item 4550
+
+Dataset source id: 4560
+Document id: 11488
+
+Fact-check label: false
+
+Evidence and explanation:
+This live TV report on a vision correction surgery using the Visian ICL (implantable) lens ignores several essential elements of journalistic practice. Its use of a dramatic stunt–a surgery done in real time with interviews before and after the procedure–implies the surgery is fast, uncomplicated and complete in a single session. This is not an accurate portrayal of the full treatment. It uses a single surgery–done on an employee of the same TV network by a surgeon with a commerical interest in selling the device and procedure–to explain the procedure. Whether the employee paid for this service or whether he received it free or at a discount is not known. If the patient has not paid full price as an independent consumer, his comments should not be considered objective. If he did pay full price, the network should have avoided even the perception of a conflict of interest by finding someone else to profile. The report does not include the clinical evidence of effectiveness, the list of potential harms or an assessment by independent clinicians or researchers. All of this is essential information for anybody who may consider the procedure. It fails to put this procedure in the context of any vision correction treatment other than Lasik, and does not indicate what qualifies or disqualifies a patient for this treatment. By creating a dramatic demonstration of a medical procedure and implying its success–without context, independent comment or reporting of potential harms and research findings–this segment violates almost every important principle behind responsible medical reporting. Besides all of these observations, we ask NBC: what makes this news now? what criteria were applied to the reporting and production of this story? why did you feature one of your own employees and did he get the operation free or at a discount?

@@ -1,0 +1,9 @@
+# PubHealth Item 9436
+
+Dataset source id: 9463
+Document id: 11622
+
+Fact-check label: false
+
+Evidence and explanation:
+This year’s Nobel Prize in Medicine went to Robert Edwards, a UK physiologist who, over 30 years ago, developed the technique for in-vitro fertilization (IVF). Since then, IVF has become an enourmous industry. An individual cycle of IVF can cost $10-15,000 but the average chance of success is roughly 1 in 5 (varying widely according to many factors). Therefore, any improvements in the technique to improve the success rate is welcome news to potential parents. This story reports on a new technique that entails observing the embryo divide and develop to attempt to predict which ones would have the highest chance of success. While this method may be truly an advancement in IVF technology, this story does little to educate readers on its potential importance. It provides inadequate information about the availability, costs and potential harms of IVF. It does not discuss the strength of the evidence to support the new technique nor does it describe the success rates of the procedure compared to existing methods. The story does not quote any independent sources that could have provided some perspective on the importance of the results, which is sorely missing from this story. Most distressing, the story exagerrates the perils of pregnancy by providing such scary statistics as the 50% miscarriage rate. In doing so, it overstates the need for reproductive assistance technologies, including IVF. In the end, this story appears to be little more than a thinly-veiled advertisement for IVF, an industry which is in little need of help. Couples who seek to have children using IVF face high costs and frequent failures. Stories on this topic must tread carefully to not raise unwarranted hopes.

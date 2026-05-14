@@ -1,0 +1,9 @@
+# PubHealth Item 2063
+
+Dataset source id: 2065
+Document id: 11061
+
+Fact-check label: false
+
+Evidence and explanation:
+This is a story about a method of screening for heart disease. Though the story mentioned that there are some experts who believe that the test is being overused, there was no direct comment about this to explain why overuse of a test is problematic. The story did mention that the test was for individuals who were at high risk, though it did not explicitly define what would put someone at high risk. The story did not provide insight into the evidence about the impact of coronary artery calcium on the risk of heart disease. It did not present information about the magnitude of benefit that might be attained with this test. Although there was some discussion about whether the test is used too often, there was little mention of the population for whom the test might provide useful insight about an elevated risk. The story failed to mention an estimate of how much an elevated calcium score affects risk, for example, of having a heart attack or sudden cardiac death. There was no discussion about the harms of treatment. This test does expose the patient to a small amount of radiation. It would be suggested that a woman who is pregnant or might be pregnant be sure to discuss this prior to the test. There is a chance that the test might appear positive even though there are no blockages of coronary arteries. As a result, the person might have additional testing that is unnecessary and that carries its own potential risks and side effects. Additionally – there may also be the harm of incidental non-cardiac findings. The story did not put the new test into the context of existing tests. The story would have had greater integrity had it included a statement from independent experts who no ties to the procedure or the hardware investment at their own facility.

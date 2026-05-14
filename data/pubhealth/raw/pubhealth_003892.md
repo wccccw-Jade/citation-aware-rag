@@ -1,0 +1,9 @@
+# PubHealth Item 3892
+
+Dataset source id: 3902
+Document id: 9696
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This brief HealthDay story explains the findings of a study by New York researchers comparing two classes of drugs — angiotensin converting enzyme, or ACE, inhibitors versus newer angiotensin receptor blockers, or ARBs — used to treat cardiovascular disease. It reports on a meta-analysis of more than 100 studies comparing either drug with a placebo or with each other and finds that both types of medications are equally effective. The only difference being that ARBs tend to produce fewer cases of dry cough as a side effect than do ACE inhibitors. This story is shorter and less nuanced than a competing Washington Post piece, and it relies excessively on a New York University news release. There is more information about the underlying mechanism of these drugs, something probably of less interest to readers, but less about what is new about this study and why it may be important. The story never clarifies what outcomes we’re talking about with this research — blood pressure, heart attacks, deaths? In addition, the emphasis on the finding of better tolerability does not discuss why this may be – there’s no mention of the greater likelihood of cough and angioedema with ACEIs. Finally, the statement about cost may be somewhat misleading. This story, and another by the Washington Post covering the same study, offer new information concerning a debate over the treatment of choice for cardiovascular patients and those at high risk for the disease. Earlier studies had favored the use of ACE inhibitors of ARBs but this new analysis suggests they are comparably effective. If that is the case, it gives patient populations and their physicians additional choices when determining the most effective treatment plan.

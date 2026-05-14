@@ -1,0 +1,9 @@
+# PubHealth Item 8696
+
+Dataset source id: 8723
+Document id: 9752
+
+Fact-check label: false
+
+Evidence and explanation:
+There was more to like about this story than its 2-star score might suggest. There is substantial and thorough reporting about the problems with current approaches to diagnosing dementia, and the story demonstrates great legwork in seeking out the opinions of experts who have used the device that’s profiled in the piece. A lot of 2-star stories seem to be thrown together without much original reporting, and that’s certainly not the case here. With that being said, the story does lack some key information regarding the benefits, costs, and harms of the device. There were also a few borderline calls where we felt that a Satisfactory score couldn’t be given for specific reasons, even though the story came close to meeting our standard. In short, a few small changes would have altered our ratings substantially and resulted in a higher score. But the story is still well worth a read, and delivers plenty of valuable information. We encourage you to explore our comments in the review below to see how we thought the story could have been improved. As the story rightly points out, dementia is a significant issue that will likely grow in magnitude in the future as the population ages. The ability to more easily diagnose people in the early stages of dementia would be helpful and welcomed by most clinicians. Existing methods are time consuming, cumbersome, and their interpretation is complex usually requiring considerable expertise. But there’s an important point to keep in mind: We do not have good treatments for Alzheimer’s and other dementias, and certainly no cures, so even an accurate “early” diagnosis is a mixed blessing and a false positive could do significant harm.

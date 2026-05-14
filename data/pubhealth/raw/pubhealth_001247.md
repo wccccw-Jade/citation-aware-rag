@@ -1,0 +1,9 @@
+# PubHealth Item 1247
+
+Dataset source id: 1246
+Document id: 10381
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The story explained in clear terms why nicotine gum is under scruitny right now and who is pushing for its expanded use. It listed many of the side effects of using the gum and explained nicotine addiction simply and elegantly. We wish, though, that it had presented more of the hard data from some of the studies that receive only fleeting mention, that it had provided cost information and that it had done more to discuss alternatives to nicotine gum. On the safety record for nicotine gum all we got in this story was one health behavior specialist saying, “There really doesn’t appear to be any great harm.” And a British regulatory proclamation that “there are no grounds to suspect appreciable long-term adverse effects.” Statements like “doesn’t appear to be” and “no grounds to suspect” could be haunting some day. The story states that NRT products have “amassed a strong safety record” but we’re never given any details. We also wish it had presented a more balanced perspective from the sources quoted. The two nicotine replacement users are probably not examples of how nicotine products are used widely. The use of nicotine replacement at high dose for 15 years is well outside any regulatory boundaries anywhere. As the story points out, “About one in five American adults smokes—a rate that has remained virtually unchanged since 2004.” As other studies have found, about 1 out of every 5 preventable deaths is also due to smoking. This is a massive public health challenge. People take up smoking and continue to do so despite the known risks for a variety of reasons. Just about 50% of smokers attempt to quit each year. Most fail. A major reason for the failure is the addictive power of nicotine. A story that highlights the public and personal health issues associated with smoking and smoking cessation is always welcome.

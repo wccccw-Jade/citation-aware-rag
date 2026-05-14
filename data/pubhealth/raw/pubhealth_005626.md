@@ -1,0 +1,9 @@
+# PubHealth Item 5626
+
+Dataset source id: 5642
+Document id: 11483
+
+Fact-check label: true
+
+Evidence and explanation:
+The Food and Drug Administration approved a new immunotherapy drug that acts as a “checkpoint” inhibitor in patients whose bladder cancer (urothelial carcinoma) has not responded to other chemotherapy. The drug, atezolizumab (marketed as Tecentriq), showed effectiveness in about 14 percent of 310 patients in a very preliminary study. The release notes that the trial measured tumor shrinkage as the main outcome. It didn’t note, as a NYT article did, and important for this type of trial, that it is unknown whether the treatment makes a difference in survival. A larger study is being done to examine this. Whether it makes a difference in quality of life is also important and will presumably be examined in the larger trial. The National Cancer Institute (NCI) estimates 76,960 new cases of bladder cancer and 16,390 deaths from this disease in 2016. This approval of a new drug for treating bladder cancer is part of a wider area of research into immunotherapy, in which drugs target mechanisms of the human immune response. Patients with the PD-L1 protein highly expressed in their tumors appear to be responding best to the drug. This drug is an example of targeted chemotherapy which is becoming more important as treatments can be fine-tuned to the cancers of individual patients. In patients with intractable cancers, immunotherapy appears to offer some new hope while also bringing sobering questions about affordability and disparity of access by income. The drugs are typically very expensive — with some estimates putting the treatment cost for a single patient as high as $1 million. When the FDA gives a compound a “breakthrough” designation, some physicians and patients can misunderstand what that means. That’s a topic recently explored in this post.

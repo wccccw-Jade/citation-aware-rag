@@ -1,0 +1,9 @@
+# PubHealth Item 5630
+
+Dataset source id: 5646
+Document id: 9391
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The story focuses on the results of a month-long trial of an experimental “male birth control pill.” The story does a fair job of describing the study, and discusses potential harms. However, the story does not place the new research findings into context regarding the broader field of research into developing a male birth control pill. Perhaps most importantly, however, the story does not give readers much information about how effective the pill may be at actually preventing pregnancy. Birth control pills for women have been a widely-used and valuable family planning tool for decades, but they have limitations: They place the responsibility for avoiding pregnancy solely on the woman, and not all women are able to take birth control pills without experiencing unwanted side effects. The development of a “male pill” would allow men to share responsibility for family-planning purposes and would allow couples to take advantage of “the pill” even if the woman is not comfortable taking a pill herself. In short, a male pill could have significant ramifications in regard to quality of life for many people. However, the idea of a male pill has also been around for decades, with claims of breakthroughs in the field dating back almost 40 years. Nonetheless, a safe, effective male birth control pill has yet to make it to the marketplace. This story does a good job of describing the latest study in a long line of related research — but fails to place it in the context of that long line of research. That context is valuable for understanding what makes this latest research novel. In addition, it’s not clear when (if ever) this technology may be available to consumers.

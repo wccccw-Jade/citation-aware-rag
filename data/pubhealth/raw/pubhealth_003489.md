@@ -1,0 +1,9 @@
+# PubHealth Item 3489
+
+Dataset source id: 3499
+Document id: 9170
+
+Fact-check label: false
+
+Evidence and explanation:
+A small group of patients were treated for low-back pain with 10 massages and more than half received some relief, according to this release from Indiana University-Purdue’s School of Health and Rehabilitation Sciences. The researchers are to be applauded for seeking evidence for a potential low-cost, non-pharmaceutical and non-invasive public health solution for a very common problem. Unfortunately, the release omitted some important details such as how many volunteers were involved, how long the study lasted, including any follow-up, and how improvement in back pain was measured. The study itself provides all that information (104 patients were studied for either 12 or 24 weeks) and the release would have been better with that and additional data included. Although almost everyone will have low back pain at some point in their life, relatively few develop persistent, disabling pain — so-called chronic low back pain. For these individuals, there are many available treatments, but none have been shown to consistently offer a “cure” or a large improvement that is sustained after the treatment is completed. Treatments often fall into categories of oral medicines, physical and behavioral therapies, and invasive procedures such as injections or surgery. This study examines one physical treatment — massage. This study looked at results over time in less than 100 patients treated by community-based massage therapists. The study showed that about half had an improvement in pain and function after 3 months, but this decreased to about 40 percent by 6 months. How these results compare to other treatments in usual practice settings is the actual “real world” question. One that is not answered by this study.

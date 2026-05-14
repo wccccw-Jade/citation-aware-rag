@@ -1,0 +1,9 @@
+# PubHealth Item 4421
+
+Dataset source id: 4431
+Document id: 11520
+
+Fact-check label: false
+
+Evidence and explanation:
+"""One of our medical editors – who follows prostate cancer research very closely – said she read this story several times and was still confused by what she called a “convoluted” approach. The story was about a change in the American Urological Association’s (AUA) past recommendation for annual PSA blood tests after age 50 to screen for prostate cancer. Instead, the AUA says men should be offered a baseline PSA test at age 40, and follow-ups at intervals based on each man’s situation. The story was unclear about the extent to which men would stand to benefit or be harmed from PSA testing. A strength was that it included perspectives from NIH’s Dr. Barry Kramer – that there is no proof that a baseline test will save lives. And from the American Cancer Society’s Dr. Otis Brawley – """"I am very concerned that the urology community and the American public may think there’s more value in PSA than there actually is."""" But a weakness is that the story kept going back to the well of quotes of people who promote SOME screening…… Doing a baseline test """"makes a lot of sense to me"""" “If you’ve got a PSA of less than one in your initial screen, you can wait to get another PSA for five years” """"Everybody has to get screened at least at some baseline"""" …..without ever talking about NO screening as a legitimate option. That’s a big failing – because the story failed to connect the dots to show that the AUA’s new recommendation is still out of line with other groups, including the US Preventive Services Task Force which states: The current evidence is insufficient to assess the balance of benefits and harms of prostate cancer screening in men younger than age 75 years. The USPSTF recommends against screening for prostate cancer in men age 75 years or older."""

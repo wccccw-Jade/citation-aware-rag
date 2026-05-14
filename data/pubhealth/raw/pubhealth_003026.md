@@ -1,0 +1,9 @@
+# PubHealth Item 3026
+
+Dataset source id: 3036
+Document id: 11513
+
+Fact-check label: false
+
+Evidence and explanation:
+First, we want to acknowledge that this story was a “brief” in the magazine – one of three such briefs in this particular issue of the magazine. In total, the three health briefs consumed less than 500 words. This particular story was only 106 words. There is a price to pay for brevity, one that was observed in this story. It’s not the reporter’s fault; this is the assigned format. The magazine should reconsider the value of such briefs, for the following reasons. The story reported that “Women who drink cola-regular, decaffeinated, or diet-may be putting themselves at risk for osteoporosis.” The brevity of the story gave it a feel of sensationalizing the results of a single scientific study rather than attempting to place the results of that study within a context that would inform the reader. The data only show an association between a dietary parameter (cola consumption) and an intermediary measure (bone mineral density) rather than for the disease (osteoporosis) itself. Bone density is an imperfect predictor of osteoporosis. Secondly, the study reported a dose response between bone mineral density and cola consumption and only found statistically significant lower bone mineral density for those women drinking more than 3 servings of cola per week. The story made it sound as though any cola intake put a woman’s bones at risk. Without providing background about the type of study from which the information was derived, the link between the measures used and the disease outcome of interest, or a clear indication of the magnitude of potential harm or benefit that can be obtained through dietary change, this story provided little information for a reader to follow up on.

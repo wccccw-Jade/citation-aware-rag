@@ -1,0 +1,9 @@
+# PubHealth Item 9160
+
+Dataset source id: 9187
+Document id: 11349
+
+Fact-check label: true
+
+Evidence and explanation:
+This was a carefully reseached piece about vitamin D, following a scientific workshop on the subject. It was overzealous in describing purported benefits but did call for caution. The scientists quoted are all leaders in the field. The article would have been much stronger if it had not had so much hyperbole (“Wonder Pill. Really.” in the headline?) and was better organized. It should also have included information about potential harm and cost. While it is true that by its very definition as a vitamin, vitamin D is a substance required by the body for optimal function, the article could have done a cleaner job of separating demonstrated benefits of vitamin D from some of the hyperbole. Educating about this vitamin, and highlighting some of the reasons why many people don’t have adequate vitamin D levels would have resulted in a more informative, balanced piece. It would have given the reader a frame work for thinking about what their own levels might be and what that means to them in terms of disease risk. The story comes close to disease-mongering at several points. At the end of the article, a physician says that at his osteoporosis clinic, they “just assume that every patient is [vitamin D] deficient”. It also quotes a recent review as stating that vitamin D deficiency is “a largely unrecognized epidemic in many populations worldwide.” But the article also tempers some of the “excitement” about vitamin D by saying “Much of vitamin D’s potential is still just that: potential.” And the story included a section labeled “a call for caution” with a quote, “Too many people expect nutrients to work like drugs…That kind of approach is likely to lead to disappointment.” Overall, the number of sources and perspectives was excellent, as was the citation of several studies.

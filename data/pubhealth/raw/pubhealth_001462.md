@@ -1,0 +1,9 @@
+# PubHealth Item 1462
+
+Dataset source id: 1464
+Document id: 10220
+
+Fact-check label: true
+
+Evidence and explanation:
+This story reports on the hype, the promise and the controversies around proton beam therapy. The potential benefit of proton beam therapy is that it can accurately target deep-seated cancers without damaging surrounding tissues. For this reason it is an attractive idea for certain rare and serious tumors such as tumors of the brain or eye where surgery or conventional radiation would be very destructive. However, it is increasingly being used to treat more common cancers, such as prostate and lung cancer. Moreover, proton beam therapy is extraordinarily costly because the equipment involved requires huge investments from hospitals. Given the current economic climate in healthcare, the acceleration of this technology has raised serious questions about its cost-effectiveness and issues around access to care, given that it is currently only available in academic medical centers. This story does a good job of describing the problem of limited availability to those patients who could truly benefit from proton therapy while at the same time it is increasingly being used in cancers for which there is questionable benefit, especially prostate cancer. The story also rightly points out the limited evidence that it is any better than conventional radiation and that the low risk of side effects may be an underestimation. The story also highlights the perverse incentives to use the therapy to treat prostate cancer so that hospitals can recover their high costs of investing in the technology. However, the story could have more explicitly compared the cost of proton beam radiation to conventional radiation to give the reader a sense of the scope of the cost difference. Overall, this was a very enlightening in-depth piece about a growing concern in health care.

@@ -1,0 +1,9 @@
+# PubHealth Item 356
+
+Dataset source id: 355
+Document id: 10547
+
+Fact-check label: mixture
+
+Evidence and explanation:
+For women with early stage breast cancer, the decision to undergo chemotherapy after surgery is a difficult one to make. This story reports on the recent FDA approval of a genetic test that may help in the decision making process. The goal of the test is to help predict if the cancer is likely to recur. Theoretically, if the cancer is unlikely to recur, then chemotherapy can be avoided. If there is a higher likelihood that the cancer will come back, a woman might decide she wants to do everything she can to prevent that from happening. While this story does a good job of explaining the potential importance of the test, it does not present important information for the consumer, most notably, the lack of evidence that this test improves outcomes in patients. The story does not describe the cost of the test, does not adequately describe potential harms of the test, nor does the study quote any experts who can put the test in context with existing approaches. The story does not exaggerrate the prevalence or seriousness of breast cancer. However, the story verges on 'treatment mongering' by stating that 'one in seven women in the US will have breast cancer in their lifetime.' While this may be true (although some question the framing of the statistics in this manner), according to government statistics (SEER), fewer than half of these women would be eligible for the test if it can only be used in women under the age of 61 with early stage cancer. Most importantly, the story does not adequately describe the strength of the available evidence. Specifically, the story does not state that there is no evidence that the test, in combination with treatment, results in better outcomes, such as decreased mortality or improved quality of life. To date, the test has only been shown to predict whether or not the cancer is likely to recur.

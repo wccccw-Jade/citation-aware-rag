@@ -1,0 +1,9 @@
+# PubHealth Item 6332
+
+Dataset source id: 6354
+Document id: 11111
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release from UCLA Health Sciences uses a story-telling approach to inform readers how scientists observed that women with relapsing-remitting multiple sclerosis (RRMS) experienced lower rates of relapses during their third trimester. The story told here is well-written, engaging, and effective. The researchers discovered that these intermission periods coincided with the periods when women had the highest levels of estriol in their blood. Estriol is a relatively weaker and, it’s assumed, safer female sex hormone. When researchers gave estriol with conventional medication, or placebo and conventional drugs, to 164 MS patients they found a lower rate of relapses among those getting the estriol. The trial is published in the journal Lancet Neurology. It’s a Phase II, randomized and controlled trial that was first presented at a national neurological meeting in April 2014. The release offers important, interesting and substantial detail about the clinical observation that led researchers at UCLA to experiment with estriol but doesn’t explicitly state that it is still too soon for neurologists to recommend estriol therapy. The release also omits some key data concerning the reduction of relapse among the patient volunteers. There are precious few treatments that have a significant impact on MS relapse rates and none that can reverse or improve cognitive, visual and physical disabilities that occur in most patients over time. The availability of a relatively safe, effective, and likely low-cost hormone therapy that, taken as a pill, can reduce relapses and nerve cell damage due to inflammation would be welcome news. If confirmed in a larger Phase lll trial, estriol might have potential value, as the release points out, for MS as well as other autoimmune disorders.

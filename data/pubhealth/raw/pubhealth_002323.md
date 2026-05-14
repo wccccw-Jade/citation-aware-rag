@@ -1,0 +1,9 @@
+# PubHealth Item 2323
+
+Dataset source id: 2327
+Document id: 10063
+
+Fact-check label: true
+
+Evidence and explanation:
+The American College of Pediatrics announced new guildelines doubling the amount of vitamin D recommended for infants, children and adolescents. The new guidelines state that all children should receive 400 IU* per day of vitamin D beginning from the first few days of life to prevent and treat rickets. These guidelines are based on a review of recent scientific studies and evidence showing that 400 IU of vitamin D per day is safe for pediatric poulations. This amount of vitamin D may also play a role in reducing the risk of osteoporosis in adulthood and preventing infections, autoimmune diseases, cancer, and diabetes. The interview segment could have been far more informative and helpful for viewers. This is one case where a news release – from the American College of Pediatrics – is actually more helpful than the news segment – www.aap.org/pressroom/nce/nce08vitamind.htm. The addition of a nutrition expert would have been helfpul, as would a comment on supplementation cost and at least a cursory discussion of the evidence supporting this increase in dose and the health-related benefits to be expected in children. An additional area that merits exploration (and an expert might have covered) is that the supplementation should be specifically with vitamin D, not necessarily a multivitamin, as there is less evidence to support this in all children. For the reader’s reference, rickets continue to be reported in the U.S. in infants and children. Sunlight is the best source of vitamin D but it is difficult to determine the safe amount of sunlight exposure needed to to synthesize vitamin D in the skin. Most children (and adults) do not get enough vitamin D in their diet and supplements are often needed. *400 IU is the amount of vitamin D provided by 1 quart of fortified milk.

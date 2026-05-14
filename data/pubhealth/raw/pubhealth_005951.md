@@ -1,0 +1,9 @@
+# PubHealth Item 5951
+
+Dataset source id: 5967
+Document id: 10495
+
+Fact-check label: true
+
+Evidence and explanation:
+This news release describes results of a retrospective study by Group Health on the link between antidepressant drugs and weight change over a two-year period in adults with already-diagnosed depression. The results of the study suggest that compared to a “reference” drug, fluoxetine (best known as Prozac), an SSRI or selective serotonin reuptake inhibitor, only bupropion (marketed as Wellbutrin), an NDRI (norepinephrine-dopamine reuptake inhibitor) was associated with modest long-term weight loss and only in non-smokers. The news release doesn’t give us any details on costs or side effects associated with the drugs nor does it tell us how the data was measured or analyzed. It also doesn’t include several limitations of the research included in the published study. [Editor’s note: Dr. Arterburn, the lead study investigator quoted in the news release, is a former reviewer and contributor to HealthNewsReview.org.] Depression takes a significant toll on human health, well-being and productivity. It’s a challenging condition to treat, costs billions every year worldwide, and suicide is a too-frequent outcome. Antidepressants are among the mostly commonly prescribed (and heavily marketed) drugs available, and a vast literature about their use suggests there is no particularly significant difference in their effectiveness. All carry some side effects as well. Because many SSRIs have long been linked to weight gain, for obese depressed patients, trying buproprion first might make good sense. Average monthly costs vary widely depending on the availability of generics and doses, and in most cases costs are comparable and covered by insurance, so “differentiators” such as weight issues are not insignificant.

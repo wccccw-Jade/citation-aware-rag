@@ -1,0 +1,9 @@
+# PubHealth Item 3336
+
+Dataset source id: 3346
+Document id: 10161
+
+Fact-check label: false
+
+Evidence and explanation:
+“It’s safe, quick, and the effect is durable – from one treatment.” We challenge the news release’s ability to make this claim after a look at just two patients. While immunotherapy has taken the cancer treatment world by storm, the use of “immune checkpoint inhibitors” can produce debilitating side effects. In about 40% of patients, one of those side effects is severe inflammation of the colon, a problem that brings treatment to a halt until the colon clears up. In this preliminary, “proof-of-concept” study, a team of MD Anderson Cancer Center researchers found that fecal transplants returned the colons of two afflicted cancer patients to a healthy state. While such results suggest that clinical trials will be a welcome next step, they don’t give oncologists or public information officers carte blanche to tout the effectiveness of the strategy. Nature Medicine thought the small study deserved a spot in its “Brief Communication” section, but communication professionals at the cancer center should have taken a pass on this one and waited until more robust evidence becomes available. If this intervention ends up being fully evaluated and proven successful, treating colitis related complications could possibly be done without using corticosteroid therapy (which has its own complications at high doses and over long periods of time. But until then, keep in mind that the sometimes severe side effects of immunotherapy have patients casting about on the internet for solutions. You can learn how to perform your own DIY fecal transplant thanks to YouTube—minus the careful screening procedures, of course—so recommending a procedure such as this must be the result of careful clinical exploration.

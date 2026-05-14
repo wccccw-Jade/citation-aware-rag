@@ -1,0 +1,9 @@
+# PubHealth Item 4832
+
+Dataset source id: 4842
+Document id: 9374
+
+Fact-check label: true
+
+Evidence and explanation:
+This Wall Street Journal article describes results of an unpublished, non-peer-reviewed study of a gene-based test designed to help physicians prescribe antidepressants in people with moderate-to-severe depression who have failed on at least one of the drugs. The story, both in the narrative and in some quotes, adds some moderating context and healthy skepticism to the enthusiastic “landmark” claims from a company release. It also is clear about the cost ($1,500) of the test offered by Myriad Genetics. But it needed to examine more closely the fact that the test can’t really tell a psychiatrist or other physician which of the dozens of antidepressants may work best–only which are most likely to cause problems and should be avoided. If this is the case, what’s driving the (small) benefit? Is it because people whose treatment was guided by genetic testing experienced fewer side effects and therefore were more likely to adhere to treatment? We’re not told. Federally-funded surveys of mental health in the U.S. consistently estimate that around 15 to 20 million adult Americans have moderate-to-severe depression that warrants treatment. The good news is that there are dozens of antidepressant drugs approved by the FDA for use alone or with other, non-drug therapies. The bad news is that, as the WSJ article underscores, finding the right medicine for any given patient is largely a matter of highly subjective clinical judgment and trial and error, sometimes for years. Moreover, the drugs are often not cheap and may cause side effects. Thus, the application of gene-based “precision medicine” testing — in this case to test for a dozen or so genes that may help predict how classes of drugs are metabolized and used by the body and brain — is potentially big news.

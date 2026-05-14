@@ -1,0 +1,9 @@
+# PubHealth Item 7283
+
+Dataset source id: 7307
+Document id: 10141
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This story presented some recent research results that in one case documents cognitive effects of chemotherapy and in the other pathologic changes in an animal model following exposure to chemotherapy. The information in these studies provides evidence of a previously under-appreciated side effect of chemotherapy. Importantly, however, the story does not provide adequate balance of these harms by including background about the beneficial role that chemotherapy often plays, not uncommonly resulting in years of living. Reporting scientific evidence on a problem reported by patients that is dismissed by clinicians may be useful to patients and their families. This information may improve patient management of the situation by allowing them to plan more appropriately for the period after chemotherapy with the particular drugs studied. An important omission from this story was a cautionary note that this side effect was observed following treatment with particular chemotherapy. It is not known at this time whether the use of other chemotherapy agents also results in this side effect. The opening sentences are a bit inflammatory and not supported by the information presented. The Inagaki study suggested a temporary issue with cognition and brain structure. The Noble experiment was done in a test tube and in mice and may or may not relate to humans – a point that was not emphasized. The dose of drugs used was not well described in the Noble article relative to those achieved during standard chemotherapy. It would be easy for a reader to walk away with the impression that chemotherapy kills brain cells more than tumor cells based on this reporting. This story serves as useful information about a potential side effect, which has value to patients as they work to make informed treatment decisions.

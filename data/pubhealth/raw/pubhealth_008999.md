@@ -1,0 +1,9 @@
+# PubHealth Item 8999
+
+Dataset source id: 9026
+Document id: 9526
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The story focuses on a recent study published in BMC Psychiatry that reports some patients with schizophrenia or bipolar disorder consider their pets as part of their social network. The finding highlights the importance that some patients with mental illness place on pet ownership, and how some of those patients draw support from their interactions with pets and the routine of caring for their pets. This story accurately describes the study, but — in our opinion — doesn’t go far enough in placing the work in context. For example, the headline uses strong language: “Pets help people manage the pain of serious mental illness.” However, that headline is based on the self-reporting of 25 patients in the United Kingdom who already own pets and consider them part of their social network. A small, observational study may be interesting, but it needs to be followed up with more robust research to figure out what role — if any — pets can play in treatment for patients with schizophrenia or bipolar disorder. The story needed to make that more clear. Schizophrenia and bipolar disorder directly affect thousands of people in the U.S. each year, and indirectly affect the loved ones of patients who are dealing with these mental disorders. Treatment is a lifelong process, and these disorders can pose challenges for patients in terms of maintaining social ties with family and friends. Because these conditions do affect the quality of life for a great many people, stories about treatment options for people with schizophrenia or bipolar disorder can carry a lot of weight. Patients, or their loved ones, may jump at ideas for new forms of treatment. That makes it particularly important for news stories on new research findings to place the work in context.

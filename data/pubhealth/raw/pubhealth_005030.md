@@ -1,0 +1,9 @@
+# PubHealth Item 5030
+
+Dataset source id: 5040
+Document id: 9178
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The release summarizes a Swedish study that found men who took erectile dysfunction (ED) drugs following a heart attack had a lower risk of dying or being hospitalized for heart failure than men who did not use these drugs. The release does a good job providing information about this retrospective observational study. The study design, number of subjects and results are provided in a straightforward manner. The release also commented on the limits of observational research and didn’t make cause-and-effects claims such as that the drug “reduces risk.” The study obtained data on ED drug from national health records data and inclusion for the study was at least a single prescription for the drugs during the study period. How even a single prescription for an ED drug can in some way alter risks is unclear. There is a suggestion that the effect may be dose related but the study itself is silent on the issue. The release did note that the ability and desire to engage in sex may be a marker of reduced risks. The safety of the use of drugs to treat ED in men who have suffered a myocardial infarction (heart attack) has been in question for many years. The risks of administering both a PDE-5 inhibitor such as sildenafil (Viagra) and nitroglycerin (for improving blood flow in heart disease patients) has been a concern. An observational study that suggests that the use of the ED drugs does not add to risk is a welcomed piece of information. The study itself did not claim that ED drugs are associated with reduced risk of subsequent heart attacks. And as noted in the release, the ability and desire to engage in sexual activity may point to enhanced longevity rather than drugs used to treat ED.

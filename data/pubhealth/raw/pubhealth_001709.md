@@ -1,0 +1,9 @@
+# PubHealth Item 1709
+
+Dataset source id: 1711
+Document id: 9032
+
+Fact-check label: mixture
+
+Evidence and explanation:
+The subject of the news release is a newly published, randomized, controlled study comparing the effects of a Mediterranean diet and a lacto-ovo vegetarian diet (which excludes meat and fish but allows eggs and dairy) on total body weight, BMI, fat mass, and cholesterol levels. The release clearly outlines the differences in the two diets and makes it clear this is the first head-to-head comparison of these two diets within groups of meat consumers. But the news release falls short in not including many of the study’s limitations, as well as making it clear to readers that the study outcomes are based on surrogate markers that cannot draw direct conclusions about “preventing heart disease” or stroke as implied. According to the CDC, heart disease is the leading cause of death in the U.S., with more than 600,000 deaths per year. Dietary patterns are known to affect our risk for heart disease, and represent an opportunity for each of us to modify that risk. What concerns most of us is having the duration or quality of our life affected by a heart attack, stroke, or other cardiovascular disease. So studies which actually look at hard outcomes like that — rather than surrogate markers such as cholesterol levels measured over just a few months — are more relevant to more people. Furthermore, studies which look at the effect of diet on major diseases like cancer, heart disease, diabetes, and stroke aren’t just widespread, but often lead to wide-ranging and wide-reaching news coverage. Such studies usually have significant limitations, debatable outcomes, and are prone to unjustified or hyperbolic language. This places a premium on journalists covering such studies to look for independent viewpoints, and a premium on readers for staying skeptical.

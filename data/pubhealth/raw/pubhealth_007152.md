@@ -1,0 +1,9 @@
+# PubHealth Item 7152
+
+Dataset source id: 7176
+Document id: 11002
+
+Fact-check label: mixture
+
+Evidence and explanation:
+One can tell a lot about how a story is going to be from its lead quote. This HealthDay story on a new study indicating potential cancer prevention benefits from bone density drugs — quoted Dr. Gad Rennert, the study’s lead author, sounding “These [new] findings are meaningful because they point to a possible protective effect of this class of drugs being relevant to prevention of many different cancers. … This is [similar] to the effect that we and others have shown for [cholesterol-lowering] statins.” From there on, Rennert is allowed to pump up the benefits of these drugs and to sweep aside any concern about their risks or broad application to a large population. Contrast that with the Reuters Health story which chose to quote Eric Jacobs from the American Cancer Society saying, “The lower risk of colorectal cancer risk seen among bisphosphonate users in this study is intriguing….However, these results should be interpreted with caution and require confirmation by additional studies.” From that point on, the story took a cautious, objective look at the study’s findings. We wish both stories had done a better job parsing the evidence, but we think that, overall, Reuters Health provided better context for readers. Roughly 1 out of every 20 people in the US will develop colorectal cancer at current rates. If taking a simple pill for $10 a month can keep cancer at bay, the world would be a much better place. Because solutions to significant health challenges are usually not that simple, this story and others that covered the same study should have been more cautious in explaining the results and showing readers why they might not translate to an immediate benefit for them.

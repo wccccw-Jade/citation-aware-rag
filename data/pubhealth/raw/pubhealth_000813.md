@@ -1,0 +1,9 @@
+# PubHealth Item 813
+
+Dataset source id: 812
+Document id: 9601
+
+Fact-check label: true
+
+Evidence and explanation:
+The story focuses on the use of silver diamine fluoride (SDF) to treat and prevent dental cavities, particularly in children. The story does a good job of addressing cost, discussing benefits in context, and drawing on input from a variety of independent sources. But the article seems to be somewhat one sided, praising the therapy much more strongly than discussing the downsides of the treatment or the potential need for ongoing repeat treatment. And it sidesteps a solid discussion of what the medical evidence says about SDF. As well, we found this headline problematic. “A cavity-fighting liquid lets kids avoid dentists’ drills.” Yes, SDF could help many kids avoid dentists’ drills for some cavities– but, due to lack of availability, a lot of kids won’t be able to use SDF, and even kids who can use SDF won’t be able to use it if they have particularly large cavities. “A cavity-fighting liquid lets some kids avoid dentists’ drills” would have been more accurate and informative. According to the CDC, cavities are extremely common in young children: 19.5 percent of children aged 2-5, and 20 percent of children aged 5-11, have cavities. SDF offers a relatively faster, less painful, low-cost alternative to the traditional “drilling and filling” treatment of cavities. There has also been news coverage of an increase in the use of general anesthesia on young children in order to treat cavities, though we were unable to find any research on the subject. If SDF can be used to address cavities, allowing children to avoid treatment that requires general anesthesia — and related risks — that’s certainly worth covering. As with medical stories, it’s vital that dental stories like these take a look at the research/evidence for a particular intervention and discuss it with readers, which this one didn’t.

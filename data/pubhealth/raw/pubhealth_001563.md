@@ -1,0 +1,9 @@
+# PubHealth Item 1563
+
+Dataset source id: 1565
+Document id: 10116
+
+Fact-check label: true
+
+Evidence and explanation:
+This news release describes the cost savings and safety of home infusion services from 13 previously published studies compared with infusion services at a clinic or hospital. Home infusion appears safe and clinically effective while saving money in the studies reviewed, but the release does not address limits in the review. We aren’t given any numbers to back up the claims that clinical outcomes were equal and that patients preferred the home setting. The release notes that CVS has a home infusion business–Coram–so at least they make this transparent. We applaud CVS for attempting to quantify the cost savings and other potential benefits of the service — and the claim that there are advantages are likely valid — but some context/background from other, independent studies would be helpful. Besides the lack of quantification, the release doesn’t delve into the potential risks from using the home infusion service. Treatments for chronic diseases, which often require drugs administered through infusion, are one of the fastest growing costs in the US health care system. If patients can be served at home, rather than in outpatient clinics or hospitals, it saves both money and time. But outcomes studies, which compare outcomes and safety between locations, are essential to judging whether home infusion is equal to clinic or hospital infusion. This release does not go far enough with numbers to quantify benefits and risks. We also see that CVS has a conflict of interest, because they have a business arm, Coram, that sells home infusion services. It appears this release (and study) are getting attention just as Congress is “discussing how to implement a comprehensive home infusion benefit for Medicare beneficiaries.”

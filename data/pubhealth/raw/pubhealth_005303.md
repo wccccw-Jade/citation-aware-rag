@@ -1,0 +1,9 @@
+# PubHealth Item 5303
+
+Dataset source id: 5316
+Document id: 10317
+
+Fact-check label: true
+
+Evidence and explanation:
+The story describes a new method of administering an existing drug to a subset of patients in the early stages of a debilitating form of Multiple Sclerosis (MS). The story discusses why this method of delivery may be an improvement over existing immunosuppressant drug regimens for difficult-to-treat MS cases. And it explains why more information about risk and efficacy of the high-dose treatment is needed before it can be accepted for clinical use. The story adequately describes the small, open-label, pilot-stage study of 9 MS patients. The story appropriately notes inclusion criteria for the study (i.e. patients in the early stages of aggressive MS) and cautions that the preliminary findings may not apply to other people with different subtypes of MS. The suggestion by a study researcher that results of this study could lead to a cure for MS seems premature, especially given the small number of people involved and outcomes at 2 years; however, the story does note the limited information available for HiCy therapy and the need for future randomized controlled trials with a larger group of patients. The story mentions the harms of treatment typically seen in patients taking the pulsed dose of cyclophosphamide, as well as side effects seen in the small group of patients in the HiCy trial. The cost of currently available low-dose, pulsed immune suppressing drugs could have been mentioned. It would be good to know if there would be a potential cost-saving for the patient with HiCy therapy. But the story does note the economics driving drug research and implications for the development of new treatments for people with difficult-to-treat chronic conditions. Overall, though, this was a solid report.

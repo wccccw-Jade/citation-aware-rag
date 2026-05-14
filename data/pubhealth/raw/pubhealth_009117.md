@@ -1,0 +1,9 @@
+# PubHealth Item 9117
+
+Dataset source id: 9144
+Document id: 10829
+
+Fact-check label: false
+
+Evidence and explanation:
+The release is an overview of a recent journal article that reports findings on a new blood test that detects liver fibrosis — or scarring of the liver — based on differences in “DNA methylation.” The release says the new technique can also detect the severity of the fibrosis in patients. The release does not, however, discuss cost, potential harms (such as the possibility of misdiagnosis), how this technique may be better than other early diagnostic techniques (such as using magnetic resonance enterography [MRE]), or adequately discuss the limitations of the study. It also engages in some fear-mongering and unjustifiable language. Non-alcoholic fatty liver disease (NAFLD) is not uncommon. An aptly named 2011 paper in the BMJ, “How big a problem is non-alcoholic fatty liver disease?,” points to existing research that states “94% of obese patients…67% of overweight patients…[and] 25% of normal weight patients” in a European population had NAFLD. The paper also notes that “The overall prevalence of NAFLD in people with type 2 diabetes ranges from 40% to 70%.” A 2008 paper estimated NAFLD prevalence at between 20 and 30 percent in developed countries. NAFLD, in itself, is “often considered a relatively benign condition,” according to the 2008 paper. But it can also be a precursor to more serious conditions, such as cirrhosis. In depth analysis of the condition has historically hinged largely on liver biopsies, which require invasive procedures. However, there are now a number of techniques aimed at collecting liver fibrosis data at various stages of the condition’s development. While this release compares the new technique to the use of biopsies, it’s not clear how it compares to any of the other techniques that are in various stages of development.

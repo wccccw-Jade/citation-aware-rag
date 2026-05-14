@@ -1,0 +1,9 @@
+# PubHealth Item 1620
+
+Dataset source id: 1622
+Document id: 10373
+
+Fact-check label: false
+
+Evidence and explanation:
+"""The headline of this story (which was the same in other media that picked up the AP story) paints a somewhat unrealistic expectation. The story did not explain that the study was a retrospective analysis of data on patients who were prescribed statins for specific indications, not a prospective study comparing the effects on longevity of statins on two matched groups of individuals. There are inherent weaknesses in such """"observational"""" studies which the story didn't explain. While the results from this single research study that showed that for those elderly at higher cardiovascular risk, the use of statins was associated with longer survival – surprise about these results was expressed by the study's first author. This should help temper premature extrapolation of these findings to individual patients for those who read beyond the headline. The story reported that """"those at greater risk of death received the greatest benefit of being on the drugs"""" and that """"statin users actually lived an average two years longer despite the patients having more health risk factors and being older than non-statin users."""" But the reader is given no basis for comparison. How much greater was the initial risk compared to other groups? Neither the baseline risk nor the benefit were adequately quantified. The story didn't discuss any potential harms from statin use, nor did it discuss the cost of statin drugs. The story admits that the quote from the principal investigator came from a news release, not from a direct interview. Since no other source is quoted, and since key points from the study as it appeared in the journal article were missed, it appears that this story relied solely or largely on a news release."""

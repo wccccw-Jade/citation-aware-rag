@@ -1,0 +1,9 @@
+# PubHealth Item 3177
+
+Dataset source id: 3187
+Document id: 10692
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Given the aggressive treatments that some people pursue for chronic low back pain, it is important for journalists to report research that points to a benefit from non-surgical therapies as well. This isn’t the first study of massage for low back pain. Prior studies haven’t shown much benefit for low back pain that is less than 1 month in duration, but prior studies have shown benefit for those with pain for more than 3 months (chronic). As such these results aren’t breaking new ground. What it does show is that two forms of massage give similar results and that the benefits of massage in terms of pain diminish over time. Massage did show peristent improvement in function at 26 weeks. At 52 weeks function was better in the relaxation massage group but not the structural massage group when compared to usual care (though the direct comparison of the two massage groups didn’t significantly differ). In summary, this study adds to the evidence that massage provides short-term benefit for patients with chronic low back pain that diminishes over time in terms of pain, but maintains its benefit in terms of function. This is good news, but it isn’t a cure. Chronic low back pain is a common problem for which there is rarely a cure and for which many treatments appear to provide similar modest benefit but wtih very different risks and costs. Journalists join patients in the search for a cure, and the “dramatic” results reported appear to start us down that inaccurate slope. The story doesn’t say that the short-term benefits don’t all persist. But it does save itself by highlighting that the long-term benefit seen in the patient described may be as much attributable to treatment (exercise) she received after completing massage, as to the massage itself.

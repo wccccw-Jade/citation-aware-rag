@@ -1,0 +1,9 @@
+# PubHealth Item 1383
+
+Dataset source id: 1385
+Document id: 10252
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This news release from the Food and Drug Administration (FDA) announces the agency’s recent approval of a new drug marketed as Nuplazid (pimavanserin) for the treatment of hallucinations and delusions associated with Parkinson’s disease (PD). The release leaves several crucial questions unanswered. We’re not told how much the drug will cost or how significant is the improvement offered by Nuplazid over placebo. A recent article in Stat that summarized an FDA panel’s recommendation to approve the drug, which the FDA followed, found that “In the pivotal trial behind Acadia’s marketing application, Nuplazid showed only modest improvements over placebo, and was tested in a way that makes it difficult to compare against other treatments.” A public memo from the FDA on Nuplazid seems to suggest for about every two patients who are expected to benefit greatly from Nuplazid, another patient will suffer a significant side effect. The release provides very little quantitative information but spends a great deal of time explaining the many symptoms of PD. About 40 to 50 percent of PD patients experience some form of psychosis, ranging from mild hallucinations to severe paranoid delusions. Medications used to treat PD tremors are considered the top risk factor for developing psychosis. Other risk factors are advanced age and severity of the disease as well as cognitive decline. Because PD patients are at risk of developing new side effects with the addition of new drugs, any news of an improved anti-psychotic with fewer side effects would be welcome news. It’s unclear what the newly approved drug Nuplazid, supposedly developed specifically for PD psychosis, has over existing generic drugs used to reduce or manage psychotic symptoms.

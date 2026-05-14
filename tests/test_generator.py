@@ -44,8 +44,8 @@ def _retrieved_chunk() -> RetrievedChunk:
     chunk = ChunkRecord(
         chunk_id="chunk-1",
         doc_id="doc-1",
-        source_path="data/raw/1.pdf",
-        title=Path("data/raw/1.pdf").stem,
+        source_path="data/ragpapers/raw/1.pdf",
+        title=Path("data/ragpapers/raw/1.pdf").stem,
         text=text,
         page_number=3,
         start_char=0,

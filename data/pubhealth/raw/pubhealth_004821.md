@@ -1,0 +1,9 @@
+# PubHealth Item 4821
+
+Dataset source id: 4831
+Document id: 9307
+
+Fact-check label: true
+
+Evidence and explanation:
+The San Antonio Breast Cancer Symposium typically generates extensive media coverage of new research studies. However, not all of the studies presented are of the same caliber and some will never undergo the peer review that will lead them to be published in a medical journal. This means reporters needs to be at the top of their game when evaluating the news releases they receive about studies that will be presented at the meeting. This story from HealthDay does many things right — it covers costs, side effects, study limitations, and more. This earned it five stars from us. However, we do think the story would have been even stronger if it had better emphasized a key fact: The overall reduction in hot flashes was roughly 28 to 23 in the drug group and 28 to 25 in the placebo group. That’s not much, and raises eyebrows in light of a physician in the story calling it “game-changing.” Many breast cancer treatments are known to cause hot flashes. Some premenopausal women have treatments that put them into immediate menopause; others enter menopause naturally while they are being treated for breast cancer; and still others are postmenopausal and find the drugs used to treat their breast cancer cause their hot flashes to return or become more frequent. Hot flashes and night sweats can affect quality of life, and it would be great if there was an easy way to control them without using menopausal hormone therapy which has never been recommended for women with breast cancer as it is known to increase breast cancer risk. However, as multiple studies have shown, many drugs over the years rarely perform much better than a placebo–as was the case in this study of oxybutynin. Yet, this study got widespread play as game-changing.

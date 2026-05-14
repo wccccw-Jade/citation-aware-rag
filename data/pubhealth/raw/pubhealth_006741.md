@@ -1,0 +1,9 @@
+# PubHealth Item 6741
+
+Dataset source id: 6765
+Document id: 9606
+
+Fact-check label: true
+
+Evidence and explanation:
+A man with ALS participates in a fundraiser for research in New York City. This story describes a small Phase 2 safety-focused trial of stem cell injections to treat amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig’s disease. The trial involving 15 patients tested whether the stem cell injections, previously performed in low doses at Emory University, would be safe in progressively larger doses administered at multiple medical centers. The study was published in the journal Neurology. There isn’t much news here; the question remains open as to whether stem cells could be a safe and effective therapy for ALS. Nothing from these studies suggest that this treatment may slow or reverse progression of ALS. Given that, the story did a good job outlining the harms and risks from the procedure, and it included quotes from independent experts. But it is another example of how stem cell therapies get news coverage, even when the research is still preliminary. ALS is a rapidly progressive, fatal disease that attacks the nerve cells that control muscles. It’s relatively rare, with 3.9 cases in every 100,000 Americans, according to the National Institutes of Health. Most people with ALS die from respiratory failure, usually within 3 to 5 years from the onset of symptoms, according to the NIH, though about 10 percent of those with ALS survive for 10 or more years. There is no cure, though the drug riluzole can prolong survival. Converting patients’ stem cells into healthy motor neurons is one ongoing research pathway for a possible treatment. The concept of replacing these dying spinal nerve cells with new ones seems intuitively appealing, but it is unknown whether this could slow the progression or ideally reverse it.

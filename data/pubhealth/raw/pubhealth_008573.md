@@ -1,0 +1,9 @@
+# PubHealth Item 8573
+
+Dataset source id: 8600
+Document id: 10536
+
+Fact-check label: mixture
+
+Evidence and explanation:
+"""This Los Angeles Times story reports on research into abiraterone, a new drug being studied to treat aggressive prostate cancer. The report overstates the importance of early research and improperly anticipates the findings of studies not yet completed. It predicts approval and arrival on the market the same year as the lead investigator, whose work is funded by the drug’s patent holder. It garbles the findings in a way that exaggerates the benefits shown. These significant shortcomings are unfortunate. The story itself, unlike many that involve early stage trials, is probably worth reporting. The drug operates by a novel mechanism and appears to be very effective against a fatal form of cancer that resists most treatments. A number of other studies are underway and experts in the field are genuinely hopeful this drug will provide an effective treatment for aggressive cancer. With a few key additions, the story could have been more responsible. The report should have said the results are from a Phase I trial and that efficacy and safety have not been proven. In order to justify its enthusiasm, the story should have provided some detail about what similar published studies have found. The reporter should have described the benefits shown in the research more accurately. The story should have said the drug may not be approved; it should not have predicted a date for an event that is not certain to happen. It should not have speculated that the drug """"could find use among most"""" of the 28,000 U.S. men diagnosed with aggressive prostate cancer each year. And it most certainly should not have taken quotes from a patient directly from a press release. That is inexcusable."""

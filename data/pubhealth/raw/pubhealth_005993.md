@@ -1,0 +1,9 @@
+# PubHealth Item 5993
+
+Dataset source id: 6009
+Document id: 10210
+
+Fact-check label: false
+
+Evidence and explanation:
+Watchman device. Illustration: Pat Lynch/YaleNewsThis is a brief news release about a device that, when implanted into the hearts of people with atrial fibrillation — irregular heartbeats — may prevent clots from forming. The study it’s based on is not a clinical trial, although it uses data from two completed clinical trials that compare the device and blood thinners. We are impressed by the cautious tone of the news release. But we wish that the release had contained more detail, more numbers, and more information about possible conflicts of interest. As it stands, we are left to conclude that the device may be more cost-effective than blood thinners, and may be not. And we are given no information about the device’s efficacy in reducing stroke risk in people with atrial fibrillation. Atrial fibrillation — an irregular heart rhythm that can cause palpitations and heart failure — affects about 2.2 million people in the United States each year, according to the National Heart, Lung, and Blood Institute, and that number is expected to double by 2020. In addition to doubling a person’s risk of death, atrial fibrillation causes 15% to 20% of strokes and costs an estimated $6.4 billion to treat each year in the United States. The chance that a person will get atrial fibrillation increases with age, and it affects an estimated 6% of Americans age 65 and older. If a new device is more cost-effective than current treatment, cardiologists and their patients might want to know. Side effects from blood thinners include bleeding, a concern in older people especially, because of their increased propensity for falls. This has been a concern with the device as well, which was finally approved last year by the FDA, with questions still being raised about its effectiveness.

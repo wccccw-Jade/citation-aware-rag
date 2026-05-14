@@ -1,0 +1,9 @@
+# PubHealth Item 7881
+
+Dataset source id: 7905
+Document id: 11517
+
+Fact-check label: true
+
+Evidence and explanation:
+We are pleased when we see a major newspaper willing to devote 1300 words to an important story about breast cancer screening. This in-depth Philadelphia Enquirer piece about a new 3-D mammogram puts the extra column space to reasonably good use, but it could have done better. Importantly, it zeroes in on the likely benefit of the new technology — reducing false positive screens — and explains that the test will not help us solve the larger problem of determining which cancers need to be aggressively treated and which ones don’t. But there was room in this article to include some truly independent voices, which this story did not seek out. There could have been a better characterization of costs, too. We also wanted to see more detail about the harms of the new test, as well as the studies that formed the basis for the FDA approval of the device. Readers should also be informed of the expected availability of this new test, which was vaguely described. Screening for breast cancer remains an important public health issue given the prevalence of the disease and the fact that cancers detected earlier are easier to treat. The problem of false positive testing in mammography is a big one, and new technology to improve this rate will have direct patient benefit. As the story points out, the inaccuracy of 2-D mammography leads to many women undergoing follow-up X-rays and biopsies that cause significant anxiety. The new 3-D test will be valuable if it can reduce the need for that extra testing, but we should be aware that finding more cancer may mean more treatment of tumors that would never cause a problem. There is a pressing need for tests that distinguish the aggressive cancers from the slow-growing ones.

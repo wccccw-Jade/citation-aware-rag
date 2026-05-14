@@ -1,0 +1,9 @@
+# PubHealth Item 7568
+
+Dataset source id: 7592
+Document id: 9136
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release from the American Gastroenterological Association describes results of a clinical trial in 42 children with overweight or obesity and claims that a prebiotic powder that alters gut microbes can reduce body fat. It inappropriately claims that weight changes seen after four months will continue on the same trajectory for a full year, and only reports the weight differences that researchers predict will occur after a year — while omitting the actual results observed in the study after four months. That’s highly misleading. Prebiotics are non-digestible food ingredients, including fiber. The prebiotics used in the study were oligofructose-enriched inulin. The intervention may have slowed the acquisition of body fat in some children, but the release doesn’t tell us how that benefit is related to alterations in gut microbes or why it would reduce future risk factors in adulthood. The release acknowledges the need for a “larger clinical trial,” but the lede suggesting there may “soon” be a new tool in the fight against childhood obesity may be as far as some readers get. As the AGA release correctly points out, overweight in childhood tends to persist into adulthood and is an early risk factor for adult disease and death from obesity-related diseases. The study also is likely to be instantly newsworthy given the promise of an inexpensive dietary supplement that anyone can buy. The two quotes in the release — from an AGA advisory board member and one of the researchers, are appropriately cautious and a bit hyped, respectively. So the release could have been greatly strengthened if there had been more quantitative and qualitative information, and at least a nod to previous research and still unanswered questions about the safety, efficacy and use of prebiotic and probiotic products.

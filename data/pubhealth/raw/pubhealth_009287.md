@@ -1,0 +1,9 @@
+# PubHealth Item 9287
+
+Dataset source id: 9314
+Document id: 9274
+
+Fact-check label: false
+
+Evidence and explanation:
+This release falls short in providing the reader with useful takeaway information about an important and interesting study published in PLOS ONE. The study involved the use of bile acids to prevent cardiac fibrosis in mice. The use of hyperbole, beginning with the title, the lack of adequate information about the study design, limitations and results, along with a suggestion that the treatment is even close to use in humans, is unfortunate. The study is important in that it adds to the existing knowledge about fibrosis in the heart and possible ways to prevent its occurrence. The release does little to demonstrate that fact in transparent ways. A new basic science discovery by researchers at the University of Alberta and McGill might translate into useful treatments for some people with heart failure over a decade from now (or never). The folks in Edmonton are understandably proud of their researchers, but contrary to the language of the release, their discovery offers no quick fix for anyone currently suffering from heart failure. One bile acid derivative did prevent heart failure in one strain of mutant mice, but it did not reverse or treat heart failure. Fibrosis is just one feature of “heart failure” which is really a diverse set of conditions, and it is possible a future treatment based on this research could make some patients feel better and live longer. While we currently have some medical treatments (ACE inhibitors, beta blockers, aldosterone antagonists, high tech pacemakers and defibrillators) that are shown to do that for certain patient groups, we still have no cure for heart failure. After years of additional research, the discovery in Alberta might or might not lead to additional treatments for congestive heart failure.

@@ -1,0 +1,9 @@
+# PubHealth Item 8278
+
+Dataset source id: 8302
+Document id: 9770
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Will new technology reduce the need for animal testing? This Newsweek story addresses an important topic with plenty of research and reporting. It tells how new chip-based technology that models human organs could potentially replace animal studies as a means of testing new drug candidates — possibly leading to cheaper and faster approvals. But while there’s a reasonable exploration of the evidence and some caution about the early state of the technology, the story feels unbalanced. The story only quotes researchers with a vested interest in the success of the technology, and its language describing potential benefits gets a little ahead of the evidence in places. Inclusion of an independent source with expertise in this area probably would have helped with many of these concerns. We make some other suggestions for improvement below in our review comments. Many non-profit organizations call for the end of animal experimentation, which is a controversial topic around the world. In addition, a common refrain from companies and researchers developing novel agents is the time and capital required to take a therapeutic from conceptualization to testing in non-animal then animal and finally human subjects. It is recognized that we need better experimental systems to identify new therapeutics and test their effectiveness and safety before trying them in human subjects. So it is welcome to see novel systems being designed that may do a better job. However exciting such new technology may be, this article presents an optimistic picture that is not fully supported by evidence. While we can hope that this will represent a better way to screen therapeutics for human studies, we can’t yet say that there is evidence that this is safer, less costly, or that it better identifies successful agents.

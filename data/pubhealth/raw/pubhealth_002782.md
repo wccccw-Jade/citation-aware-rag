@@ -1,0 +1,9 @@
+# PubHealth Item 2782
+
+Dataset source id: 2792
+Document id: 11298
+
+Fact-check label: false
+
+Evidence and explanation:
+"""This story reports on the use of botox injections to treat spasmodic dysphonia, a rare but disturbing condition in which an individual could lose their voice. Botox is being increasingly used to treat a variety of neurological conditions that involve involuntary muscle movements, or spasms. This story vividly describes what it must be like to have this difficult condition, but does little to provide consumers with important information, such as the evidence to support the use of Botox, how much the injections cost and any potential harms of the treatment. The story does indicate that Botox is widely used for wrinkles but that it is a relatively new idea for spasmodic dysphonia. While stating that Botox is now """"the standard of care"""" for this condition, the story does not give any sense of how many practitioners are available who are skilled at the specialized injections nor does it state how much they cost, which could be substantial given that the injections are needed every 4 or 5 months. Furthermore, the story does not adequately describe the strength of the available evidence to support the use of Botox for spasmodic dysphonia. The story says that """"The injections help about 90% of patients with the most common type of spasmodic dysphonia."""" But 90% of how many? In what trials? It does not mention any harms, such as difficulty swallowing. The story does indicate that over time Botox wears off and that the individual may become resistant to it, but this is not adequate information on harms. Finally, the story does not provide enough information on alternative treatments. The story mentions vocal therapy briefly, but does not discuss the advantages and disadvantages of vocal therapy compared to Botox. Nor does the story mention other treatments such as surgery or counseling."""

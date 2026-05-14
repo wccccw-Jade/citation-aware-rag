@@ -1,0 +1,9 @@
+# PubHealth Item 7657
+
+Dataset source id: 7681
+Document id: 10882
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Early-stage research is attractive, but there’s baggage. Preliminary studies have indeed shown an association between diabetes drugs and reduced spread of lung cancer, yet anytime we try to interpret early research, we need to keep in mind why further studies are needed. With abysmal survival rates, lung cancer needs more options. An effective and safe—or worthwhile in the net balance—strategy to prevent, treat, or put the brakes on this deadly form of cancer would be most welcome. Thus we are eager to see future research to test the hypotheses presented in this early research. But it’s early research, which means the results have a lot of footnotes. Not simply legal fine print, each footnote is a potential game-changer, conveying some pretty daunting uncertainties. We think it’s important that coverage of such early research address the uncertainty. A mountain separates early research like this from more advanced clinical studies, and the mountain is mean and unforgiving. Early research comes up with new exciting ideas (it generates hypotheses). But over time we’ve found that a big proportion of these ideas don’t pan out when tested in bigger, tougher trials. They slip on the mountain and we move on to another idea. So it’s important to convey the stage of research and how many years of hard, uncertain work lie ahead before we can think about giving metformin to smokers. It’s challenging to report on preliminary research. Less information is publicly available, which means the journalist has less to go on, and then we readers get less. But the story is new, it’s hot, it’s exciting, and there’s an awesome potential to improve a lot of lives. We understand the pressures and readers’ interest, which we share, yet maybe even just one more sentence could’ve set the tone for how early this research is.

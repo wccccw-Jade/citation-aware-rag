@@ -1,0 +1,9 @@
+# PubHealth Item 1123
+
+Dataset source id: 1122
+Document id: 11264
+
+Fact-check label: false
+
+Evidence and explanation:
+lung cancer illustrationThe release, which summarizes a study of patients 80 or older who underwent stereotactic body radiation therapy (SBRT) for early stage lung cancer, should have stuck to what the researchers actually studied. In the headline, main text and quotes, the release makes unjustified claims about treatment effectiveness, claiming SBRT can “safely add years to the lives of elderly patients who have early stage lung cancer but cannot undergo an operation for it.” However, the study was merely a look back at a few dozen cases that produced results the researchers considered evidence that age, by itself, should not disqualify patients. There was no comparison group that would allow any conclusions about effectiveness, including longer survival. The release does not mention cost nor does it report funding or author disclosures. Many research studies investigating the benefits and risks of various therapies exclude very old individuals. As such, it is often difficult to provide evidence-based recommendations for this population. A study of elderly people, if evidence-based, would be helpful to patients, their families and physicians. But it is important for news releases to be clear about what was studied and what was not. This summary of the experience of a few dozen elderly patients may provide some assurance that patients should not be disqualified from considering SBRT for early stage lung cancer merely because they are old. However, there was no control group, no comparison to other treatments that would support claims of effectiveness and added years of life. Muddling study results with the opinions of researchers that are based on their clinical experience or interpretation of other studies produces a confusing picture of the evidence or lack thereof.

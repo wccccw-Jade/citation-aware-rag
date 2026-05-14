@@ -1,0 +1,9 @@
+# PubHealth Item 1636
+
+Dataset source id: 1638
+Document id: 9405
+
+Fact-check label: false
+
+Evidence and explanation:
+This story excitedly describes the “remarkable” finding that by deleting an enzyme called BACE1 in a mouse model, researchers were able to stop the amyloid plaques found in the brains of people with Alzheimer’s from developing. The enthusiasm is tempered later in the story, when it is noted that previous advances in treating Alzheimer’s in mice have not translated into success in treating Alzheimer’s in people. The story tells readers there are BACE1 inhibitors in clinical trials in humans, and quotes the study’s lead researcher as saying these drugs could provide hope for Alzheimer’s patients, “if” they can be used long term and don’t have side effects. But that’s a very big “if.” Missing from the story is this background: a number of BACE1 inhibitors have been studied in human clinical trials and were not found to be effective. In fact, just before this story was published, Merck announced it was halting a BACE1 trial after an interim analysis showed it was unlikely that a positive benefit/risk ratio could be established. The story also glosses over potential harms. The public jumps at any hint of a cure for Alzheimer’s, which is the most common cause of dementia. According to this 2017 report from the Alzheimer’s Association, an estimated 5.5 million Americans are living with Alzheimer’s, and 5.3 million of them are age 65 and older. It is the sixth leading cause of death in the U.S. Before people die from the disease, they can live for many years fully dependent on others for their care. Coverage about Alzheimer’s shouldn’t tease people with unjustified language that pumps up hope for a cure. For more on the importance of context and cautionary language when covering stories like this, read “How to report on preliminary Alzheimer’s research results.”

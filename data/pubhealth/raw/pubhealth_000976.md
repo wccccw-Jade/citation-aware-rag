@@ -1,0 +1,9 @@
+# PubHealth Item 976
+
+Dataset source id: 975
+Document id: 8940
+
+Fact-check label: mixture
+
+Evidence and explanation:
+A brief news release from the Mayo Clinic does a disservice to an interesting yet unpublished study that demonstrates an oral anticoagulant medication might be a good solution for preventing blood clots in cancer patients. The release discusses a conference presentation given at the American Society of Hematology annual meeting, but doesn’t mention any numerical data or describe how the study was conducted. It focuses mostly on the problems associated with commonly used injectable medication heparin, and how an oral medication might be better for patient quality of life. But the news release dedicates only one small paragraph at the end to the actual findings of the study, leaving readers with questions about study design and potential harms of the new treatment. Cancer patients, especially those with advanced cancers or certain types of cancer, are at increased risk of developing blood clots. This study evaluated a new treatment for patients with cancer who have developed blood clots. This new therapy is an oral blood thinner that is approved for other conditions, but not this one. Standard therapy for blood clots associated with cancer is a low molecular weight heparin that is injected daily under the skin. Clearly, having a medicine that would be as or more effective and could be taken by mouth would be a great advantage to patients. The striking absence of any data in the news release could have been easily remedied. We looked up the abstract of the conference presentation upon which this is based and found some data. But journalists may not look that far and patients and consumers aren’t likely to either. And they shouldn’t have to; the data should be in the release.

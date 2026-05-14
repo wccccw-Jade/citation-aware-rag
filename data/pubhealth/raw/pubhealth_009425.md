@@ -1,0 +1,9 @@
+# PubHealth Item 9425
+
+Dataset source id: 9452
+Document id: 9993
+
+Fact-check label: false
+
+Evidence and explanation:
+"""The 457 word story presents a glowing appraisal of a study reported in an abstract at a scientific meeting. The study has not been subjected to peer review and the abstract provided is, by its very nature, incomplete in many of the study details necessary to draw any definitive conclusions. Despite these limitations, the headline suggests the antibiotic has been demonstrated to be effective and its effects are """"lasting."""" The information on the disease, the approach used, the study results and the interpretation is provided by the senior author of the study. The study results are not accurately depicted and no statistics are provided to support the notion that the drug reduced symptoms as compared to placebo. The story correctly notes the linkages between the study, the senior investigator and the manufacturer of the drug. Unfortunately, many patients with Irritable Bowel Syndrome are severely impacted by the symptoms and do not find adequate relief or long term relief from available treatments. As a result, many resort to off label use of available drugs to combat the disorder. The primary investigator of the study has written a book entitled, """"A New IBS Solution"""" in which he promotes among other treatments the use of rifaximin, a use that has yet to be approved by the FDA. New treatments for this common, sometimes debilitating disorder would be most welcome. Despite suggestions of an association between IBS symptoms and bacterial overgrowth in the small intestines, the role of antibiotics has not been clearly established. While the new data are encouraging, especially for those with severe symptoms, the article is overly optimistic considering that the study was presented at a conference."""

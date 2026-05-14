@@ -1,0 +1,9 @@
+# PubHealth Item 9535
+
+Dataset source id: 9562
+Document id: 11107
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release reports on new results from an on-going and major clinical trial — the SPRINT (Systolic Blood Pressure Intervention Trial) — that compared the outcomes of two groups of elderly hypertensive people given different systolic blood pressure goals — 140 mm of mercury versus 120 mm of mercury. And while it does report that the clinical outcome for those in the lower target group was better than that of the higher target group, the release (from the National Institutes of Health [NIH] section dealing with heart and lung disease) gives scant details that might help readers apply the results to their own situations. The omissions mirror problems we’ve seen in previous NIH press communications about the SPRINT study, which we’ve called attention to repeatedly on our blog: NIH, news media, need to slow down on the SPRINT hype NIH SPRINT study sparks questions about overtreatment of mild hypertension Do published SPRINT study results live up to premature NIH news release hype? Informed patients need one thing not provided in SPRINT trial news: what were the absolute benefit/harm numbers? The public has gotten conflicting recommendations on what the optimum goal for blood pressure treatment should be for seniors. The recommendations range from 140 mm Hg for adults to 150 mm Hg for adults aged 60 and up, and to 160 mm Hg for people over 80. The release states that, “About three-fourths of the U.S. population aged 75 and older live with hypertension, a leading contributor to cardiovascular disease and death,” which certainly argues for the importance of any strategy that can mitigate this condition. If changing either a medication or its dosage can bring about a better clinical outcome, then surely that is important.

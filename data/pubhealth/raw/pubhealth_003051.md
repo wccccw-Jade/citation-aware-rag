@@ -1,0 +1,9 @@
+# PubHealth Item 3051
+
+Dataset source id: 3061
+Document id: 9777
+
+Fact-check label: false
+
+Evidence and explanation:
+This brief article announces the discovery of a potential new and highly effective way to detect pancreatic cancer by looking for the presence of a certain type of protein in the blood. The article would have been much stronger had it included interviews with independent sources, and provided attribution for some of the statistics provided. Like the competing NBCNews.com and Los Angeles Times stories that we reviewed, this story passes along the claim that this test is 100% accurate. However, unlike those competing stories, this piece doesn’t in any way try to qualify that claim or address the study’s important limitations. That probably shouldn’t come as a surprise given evidence that the story leaned heavily on a news release. Editor’s note 6/29/15: The story we reviewed herein was complemented by a more complete story published by the Houston Chronicle hours later. One thing that was better in the later piece was the addition of an independent perspective. That piece also went beyond the news release and included interviews with key experts. We wish the newspaper had alerted online readers that another version would be forthcoming. Even after learning of the later version today — 5 days after it was published — we revisited the original story and there’s still no mention of, nor link to, a later, more complete story. (At 11:48 a.m. on June 29, the newspaper did finally add a link at the top of the first story, reading, “An updated version of this story is available here.”) Health news stories should attempt to critically analyze the results they report on, especially when those results involve extraordinary claims such as “100% accuracy” in a screening test. But it’s hard to provide critical evaluation when the coverage is based on a news release and independent sources are not consulted.

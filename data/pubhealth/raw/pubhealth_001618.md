@@ -1,0 +1,9 @@
+# PubHealth Item 1618
+
+Dataset source id: 1620
+Document id: 9149
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release from Proove Biosciences Inc. reports on a test designed to identify those at risk of becoming addicted to opioids so doctors can improve their prescribing practices. The release summarizes a study showing that the company’s algorithm, which combines genetic markers with lifestyle and behavior variables, accurately distinguishes between healthy patients with no history of opioid abuse and patients receiving opioid addiction treatment. The study, however, may be comparing people with opioid use disorder with the wrong control group, given that a more useful distinction would be between those who have become addicted and those who have used opioids in similar circumstances without becoming addicted. In addition, the news release fails to provide information about the study’s funding source, nor does it note that four of the study’s six authors work for Proove. According to the Centers for Disease Control and Prevention (CDC), opioid overdose killed more than 33,000 Americans in 2015. Almost half of those who died were using a prescription opioid, although not necessarily one that had been prescribed to them. Many of those who become addicted to prescription opioids or heroin develop those addictions after being prescribed opioid painkillers. Reducing the number of deaths caused by opioid abuse has emerged as a national health priority, although policy-makers have not been able to address how to go about it — much less fund an opioid abuse reduction program. An inexpensive and reliable test that could accurately predict one’s risk of becoming addicted to opioids could be a welcome development. However, this tool and others like it have been criticized for both reliability and questionable marketing practices.

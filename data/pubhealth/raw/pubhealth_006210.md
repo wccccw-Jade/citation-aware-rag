@@ -1,0 +1,9 @@
+# PubHealth Item 6210
+
+Dataset source id: 6232
+Document id: 8976
+
+Fact-check label: false
+
+Evidence and explanation:
+The news release concerns a very small (12 human subjects) preliminary trial to assess if a swallowable capsule can measure intestinal hydrogen gas as well as the existing method of breath testing. Such breath testing is used to aid in the diagnosis of a small handful of uncommon gastrointestinal disorders. What’s problematic here is the lack of supporting data from the study, as well as overreaching claims that the test “beats breath test diagosis” and is “3,000 times more accurate than current technology.” This kind of hyperbolic language is not supported by the study. Harms also are not mentioned and benefits are framed in such a way that erroneously suggest the technology will help “diagnose many gut disorders … paving the way to solving previously undiagnosed conditions.” On the plus side, we were encouraged to see that the financial conflicts of interest of at least one of the two main study authors were made clear. It’s not uncommon for us to come across early results of studies involving a small number of human subjects being presented with grandiose clinical implications. Such language is a red flag and, as with this news release, sometimes comes from the very people we’re counting on to accurately interpret the data for us — the lead authors. If you’re going to employ language like “revolutionary” and “breakthrough” in reference to study involving 12 healthy subjects, at the very least include data. Likewise, explain to people what you mean when you say something is “3,000 times more accurate” than current technology. While this test might be able to detect much smaller concentrations of gas than existing methods, the researchers certainly haven’t established that this makes any difference in the ability to diagnose disease — and that’s something that should have been clearly pointed out to readers.

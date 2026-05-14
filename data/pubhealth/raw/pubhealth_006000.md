@@ -1,0 +1,9 @@
+# PubHealth Item 6000
+
+Dataset source id: 6016
+Document id: 9549
+
+Fact-check label: false
+
+Evidence and explanation:
+Time magazine’s story states that a University of Colorado study has provided evidence that increasing the amount of healthy fat in one’s diet “can boost your chances of getting pregnant.” No, no, no. We just can’t know this yet: It’s mouse research. Involving all of 10 mice. The story acknowledges this later, stating that “(m)ore studies need to replicate and confirm the role that omega 3 fatty acids might play in fertility.” But not before making big claims, such as “researchers say that a common fat found in fish like salmon, and plants like flaxseed, may play a role in boosting fertility.” Given the scant evidence this study provides to women trying to get pregnant, we question its news value in a national news magazine web site. And this isn’t our first time to critique TIME on writing about preliminary rodent research, nor many other outlets, including the PR machines who are often behind the curtain, pitching these stories to journalists. We generally recommend putting these studies away and waiting until more conclusive human research comes along. But, if there’s no way around it, we recommend following this model for how to do it more accurately. CDC data show that more than one of every 10 women age 15-44 in the United States (12.3%, or 7.5 million) have impaired fertility, and more than 6.9 million women have used infertility services in an attempt to become pregnant. Infertility can be heart-breaking, and many women who have difficulty getting pregnant are eager for any news that promises to help them conceive. However, the emotional intensity of the struggle to get pregnant means journalists must be especially careful not to offer false or premature hope for an easy fix.

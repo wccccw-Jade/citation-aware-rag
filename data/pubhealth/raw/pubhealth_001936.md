@@ -1,0 +1,9 @@
+# PubHealth Item 1936
+
+Dataset source id: 1938
+Document id: 9192
+
+Fact-check label: mixture
+
+Evidence and explanation:
+This release touts the end of the biggest clinical trial to date on the drug Xarelto (rivaroxaban), used to prevent major adverse cardiac events such as heart attacks and strokes in people with coronary artery disease or peripheral artery disease. As we found with a recent release on the drug Repatha (which we also reviewed), this release does not provide findings from the study but instead acts more like a preview for the findings to be released at an upcoming scientific meeting. The release describes the study parameters (number enrolled, dosage, time frame, etc.) and discusses in clear detail the drug’s availability. But it left out potential harms from Xarelto and it also doesn’t cover the drug’s costs, talk about any of the specific benefits of the drug, or compare it to other treatments. In short, it’s like a Superbowl ad for the drug without the all the fast-talking caveats at the end. For a more general discussion of data-free drug announcements see Managing Editor Kevin Lomangino’s recent post on a “troubling PR trend.” Coronary artery and peripheral vascular disease are both common and will continue to become more common as the population lives longer. Medications to prevent new heart attacks or loss of limbs due to peripheral artery disease are always welcome (though prevention would be cheaper). Even when drug makers are required to disclose when it reaches “primary endpoints,” it’s to the benefit of investors, regulators, the medical community and hopeful patients to avoid hyping the results, emphasize study limitations, and highlight the lack of vetting by peers. That context is going missing in a number of announcements from big drug companies.

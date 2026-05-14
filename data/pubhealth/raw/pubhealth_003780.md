@@ -1,0 +1,9 @@
+# PubHealth Item 3780
+
+Dataset source id: 3790
+Document id: 12305
+
+Fact-check label: true
+
+Evidence and explanation:
+An Oklahoma judge on Friday said Johnson & Johnson must pay that state $465 million for fueling the opioid epidemic through the deceptive marketing of painkillers, down from his original award of $572 million.

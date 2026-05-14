@@ -1,0 +1,9 @@
+# PubHealth Item 3085
+
+Dataset source id: 3095
+Document id: 9125
+
+Fact-check label: false
+
+Evidence and explanation:
+In this release from medical journal publisher Elsevier, researchers at the Cleveland Clinic recommend using sterotactic radiosurgery as a first-line treatment for trigeminal neuralgia (TN), a very painful nerve disorder of the face. The study involved 50 people and used patient submitted questionnaires to evaluate the success of the treatment. The release doesn’t offer any numbers to put the effectiveness in context; we’re only told that volunteers “reported an improved quality of life and lower rates of depression after radiosurgery.” The release also omits costs and harms and is unclear about the availability of the surgery. While the intervention is said to be effective, more details are needed before readers accept the news release’s claim that “Doctors should consider radiosurgery for patients with trigeminal neuralgia.” Trigeminal neuralgia is a nerve pain syndrome with an unknown cause. It’s symptoms can vary from mildly intense to quite severe pain. For some, symptoms resolve on their own over time and for others, symptoms can persist. There are a number of medications that are used for treating trigeminal neuralgia. These medicines can help but may have side effects. The treatment described in this piece, radiosurgery, involves radiation treatment and may be considered a second-line treatment after medicines have failed to help or have caused intolerable side effects. Though the study does not compare radiosurgery to alternative treatments, outcomes show that symptoms decrease after treatment. Since the study did not compare stereotactic radiation with other types of treatment, it is hard to say that this study supports a role for using this treatment earlier in the course of a patient’s symptoms.

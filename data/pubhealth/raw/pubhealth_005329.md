@@ -1,0 +1,9 @@
+# PubHealth Item 5329
+
+Dataset source id: 5342
+Document id: 10435
+
+Fact-check label: true
+
+Evidence and explanation:
+"""In December, an FDA advisory panel will decide if it should revoke the approval of the drug Avastin for treating metastatic breast cancer based on the results of two major trials suggesting that the serious side effects outweigh the time that patients live without the disease getting worse. This story met many of our criteria, but failed to provide important details about the trials, including the patient population and how many women developed serious side effects in each treatment group. While the story included various viewpoints on whether this drug should continue to be used as a first-line therapy for metastatic breast cancer, it focused largely on the drug’s success in just one patient. This personal story is misleading to readers. Two major trials found that Avastin is not particularly effective for treating metastatic breast cancer and it causes serious side effects. The story missed this main issue by devoting an extraordinary amount of space to just one woman’s success story. Metastatic disease is very difficult and one treatment is not likely to work for everyone; however, it is not compelling to argue that the FDA should approve every drug because not all patients will respond to the same treatment regimen. It would have been more insightful if the story suggested that the median is not the message and that if this or other drugs work for a subset of women, then researchers should find markers to help predict which patients will benefit from which therapy. This is another example in which an honest application of our criteria may render a score out of whack with our general impression. We urge journalists and consumers not to fixate on """"the star score"""" but to read our full reviews."""

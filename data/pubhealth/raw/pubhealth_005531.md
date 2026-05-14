@@ -1,0 +1,9 @@
+# PubHealth Item 5531
+
+Dataset source id: 5547
+Document id: 9211
+
+Fact-check label: false
+
+Evidence and explanation:
+This news release covers a randomized trial of 54 women with early-stage breast tumors that studied the safety and efficacy of a vaccine that uses messenger cells in the immune system, called dendritic cells, to target a protein on cancer cells. The study’s main goal was to compare the safety and immune responses using varying routes of vaccination, including a lymph node, a breast tumor, or both. The news release quantifies some benefits and mentions harms, but it doesn’t spell out costs, availability or study limitations, leaving the reader to wonder why these findings are significant. The headline of a “promising” treatment for early stage breast cancer patients isn’t supported by the facts. News releases that don’t spell out study limitations are bound to spawn misleading replications across the internet, particularly when they purport to advance the idea of harnessing the body’s immune system to fight cancer. That’s the case here, where we found numerous online blurbs based on this news release, such as: “Vaccine Shows Promising Results for Early-Stage Breast Cancer Patients: Moffitt Cancer Center is working on a new vaccine that would help early-stage breast cancer patients who have HER2 positive disease.” The bottom line: there’s no evidence that this procedure produces a long-term benefit such as reduced mortality. All but one patient who responded to this treatment had been diagnosed with a noninvasive condition called ductal carcinoma in situ (DCIS), which poses a very low risk of death from breast cancer. Further, this study was designed mainly to compare various paths of vaccination, not to determine the broader question of whether the treatment actually saves lives.

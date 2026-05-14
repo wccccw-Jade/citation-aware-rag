@@ -1,0 +1,9 @@
+# PubHealth Item 7597
+
+Dataset source id: 7621
+Document id: 9597
+
+Fact-check label: false
+
+Evidence and explanation:
+This story from ABC News looks at the use of virtual reality (VR) technologies to help treat patients suffering from post-traumatic stress disorder (PTSD). Unfortunately the information is relayed in a cursory and anecdotal way: The story includes the viewpoint of only one patient and the patient’s psychologist. The story doesn’t place the work in a broader context. For example, readers could easily assume that PTSD treatment with VR is a new phenomenon, when it has been the subject of research for almost 20 years. Also lacking: The context of other established, effective therapies; a discussion of the availability of VR treatment options for PTSD patients; what such treatments may cost; or whether there are any potential risks associated with such treatment. PTSD is, unfortunately, far from rare. According to the U.S. Department of Veterans Affairs’ National Center for PTSD, 10 percent of U.S. women and 4 percent of U.S. men will experience PTSD during their lifetime, and those percentages are higher for veterans. The center estimates that 8 million U.S. adults experience the condition each year. PTSD can have significant adverse effects on a patient’s relationships and overall quality of life. There is some evidence that it can also increase the likelihood that an individual will try to commit suicide. In short, PTSD is a serious condition that affects a great many people. It is important to discuss this condition openly and honestly, both to destigmatize PTSD and to raise awareness of treatment options. But it is important to answer fundamental questions that people may have about those treatment options. Are they available? Are they affordable? How well do they work? What are their limitations? This story addresses none of those baseline questions.

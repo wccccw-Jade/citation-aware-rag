@@ -1,0 +1,9 @@
+# PubHealth Item 9355
+
+Dataset source id: 9382
+Document id: 10737
+
+Fact-check label: mixture
+
+Evidence and explanation:
+Reiki, the Japanese practice of “energy healing” is one of many complementary or alternative medical services now available at select health centers in the U.S. This story describes the use of Reiki therapy for several diseases and conditions. Although the story attempts to describe the evidence to support reiki therapy, ultimately it fails to provide the reader with balanced information on what reiki can or can’t do. Although the story describes the benefits of treatment in two studies, the story fails to provide adequate information on the nature of the benefits. For example, the story states that “more than 75% reported increased energy” and “those receiving Reiki took fewer pain medications.” Neither statement provides adequate information on the benefits. How much energy? How many fewer medications? Also, because the story does not explain the design of these studies, the reader does not know how much of this benefit may be due to placebo effect. The story didn’t discuss the limitations of small studies (22 patients in one) or of studies that rely on patients’ self-reporting of improvement. Although the story mentions several trials, the reader is not provided with enough information to evaluate the strength of the available evidence. How were the studies designed? What were the outcomes measured? How long was the follow up? The story mentions that Reiki is available at a handful of institutions, but this is insufficient information on availability. How many Reiki practitioners are there around the country, and in what types of settings? Are they licensed or certified? If so, by whom? If not, what does that mean? A major concern with many alternative practices is that providers have minimal training yet still are paid quite a sum of money to “practice” their art, regardless of whether it is proven effective.

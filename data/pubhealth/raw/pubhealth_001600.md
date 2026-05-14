@@ -1,0 +1,9 @@
+# PubHealth Item 1600
+
+Dataset source id: 1602
+Document id: 9031
+
+Fact-check label: false
+
+Evidence and explanation:
+The release focuses on a forthcoming, preliminary study that will be presented at a conference in April. The release reports that people who closely follow the so-called “DASH diet” are less likely to report symptoms of depression than people who do not adhere to the DASH diet. However, there are a number of unanswered questions. For example, the study appears to have focused on older adults with an average age of 81 so it’s not clear whether the findings would be relevant for younger adults. It’s also unclear whether depression leads to a change in dietary patterns. Common sense suggests lack of energy and motivation are negatively affected by depression and consequently may lead people to cook less frequently. And it’s not clear how closely any of the groups being studied adhered to the DASH diet. For further analysis of the study, the news release and resulting news coverage see our blog post. Clinical depression is a significant health issue, which can have profound ramifications for a patient’s well being and quality of life. There are a variety of treatment options available, but many of those options can be expensive or raise the possibility of adverse side effects. As a result, the idea that a lifestyle change, such as diet, could reduce the risk of depression is an attractive one. However, adopting a new diet is a big step for many people. It’s important for readers to understand the evidence behind the claims that a diet can significantly affect mental health risks. This release does some things well — such as noting at the very end that the study shows an association, not cause and effect. However, the release lacks key details that would allow people to clearly understand the underlying study.
